@@ -28,15 +28,35 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
   const descs: Record<string, string> = isEn ? {
     'sk.wikipedia.org':   'Slovak Wikipedia',
     'en.wikipedia.org':   'English Wikipedia',
+    'hu.wikipedia.org':   'Hungarian Wikipedia',
     'commons.wikimedia.org': 'Wikimedia Commons',
     'visitbratislava.com': 'Official tourism portal',
     'bratislava.sk':      'Official website of the city of Bratislava',
+    'register-architektury.sk': 'Register of modern Slovak architecture',
+    'muzeum.sk':          'Directory of Slovak museums',
+    'bratislavskenoviny.sk': 'Bratislava city newspaper',
+    'pozsonyikifli.sk':   'Local-history journal about Bratislava',
+    'umeniemesta.sk':     'Database of art in public space',
+    'bratislavastory.com': 'Blog of Bratislava city stories',
+    'vypadni.sk':         'Slovak trip-ideas portal',
+    'dubravka.sk':        'Official website of the Dúbravka borough',
+    'bratislava.dnes24.sk': 'Bratislava news portal',
   } : {
     'sk.wikipedia.org':   'Словацкая Википедия',
     'en.wikipedia.org':   'Английская Википедия',
+    'hu.wikipedia.org':   'Венгерская Википедия',
     'commons.wikimedia.org': 'Викисклад',
     'visitbratislava.com': 'Официальный туристический портал',
     'bratislava.sk':      'Официальный сайт города Братислава',
+    'register-architektury.sk': 'Реестр современной словацкой архитектуры',
+    'muzeum.sk':          'Каталог музеев Словакии',
+    'bratislavskenoviny.sk': 'Городская газета Братиславы',
+    'pozsonyikifli.sk':   'Краеведческий журнал о Братиславе',
+    'umeniemesta.sk':     'База данных искусства в общественном пространстве',
+    'bratislavastory.com': 'Блог городских историй Братиславы',
+    'vypadni.sk':         'Портал идей для прогулок по Словакии',
+    'dubravka.sk':        'Официальный сайт городской части Дубравка',
+    'bratislava.dnes24.sk': 'Новостной портал Братиславы',
   }
 
   const src = (domain: string) => `
@@ -75,7 +95,17 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('bratislava.sk')}
     ${src('sk.wikipedia.org')}
     ${src('en.wikipedia.org')}
+    ${src('hu.wikipedia.org')}
     ${src('commons.wikimedia.org')}
+    ${src('register-architektury.sk')}
+    ${src('muzeum.sk')}
+    ${src('bratislavskenoviny.sk')}
+    ${src('pozsonyikifli.sk')}
+    ${src('umeniemesta.sk')}
+    ${src('bratislavastory.com')}
+    ${src('vypadni.sk')}
+    ${src('dubravka.sk')}
+    ${src('bratislava.dnes24.sk')}
   </ul>
 </div>`,
   })

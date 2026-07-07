@@ -91,6 +91,7 @@ One page per borough, `type: district`, no `district` field:
 - Name(s), which okres (Bratislava I–V), which bank of the Danube
 - Geographic extent, character, and notable quarters
 - What the borough offers (architecture, museums, nature, sights)
+- **Coat of arms (герб): REQUIRED when available** — a `## Герб` (`## Coat of Arms` in .en.md) section before the objects list: the image (download to `web/assets/erb-{slug}.png`, usually from Wikimedia Commons) plus a short description of the arms when one can be given
 - Links to all quarters and places within it
 
 ### Quarter pages — `wiki/{district}/quarters/`
@@ -109,15 +110,15 @@ Architects, artists, historical figures with a meaningful Bratislava connection:
 ### Concept pages — `wiki/concepts/`
 Recurring themes (e.g. "coronation city", "functionalism", "Little Carpathian wine"): definition, where observed, examples with links, variations or contradictions.
 
-### Sources — no dedicated pages
-Sources do **not** get their own wiki pages (`wiki/sources/` stays empty). A source is tracked in four places, which together are sufficient: (1) the immutable copy in `raw/` when one was saved; (2) a row `` `slug` | short description `` in the «Источники» table of `wiki/index.md`; (3) the `## Источник` section with the URL at the bottom of every entity page that uses it, plus the slug in that page's `sources:` frontmatter; (4) the site domain in the about-page list (`web/src/page-about.ts`).
+### Sources — no dedicated pages, no per-page source sections
+Sources do **not** get their own wiki pages (`wiki/sources/` stays empty), and entity pages must **NOT** carry a visible `## Источник(и)` / `## Sources` section — pages end with `## См. также`. A source is tracked centrally, which together is sufficient for provenance: (1) the immutable copy in `raw/` when one was saved (e.g. downloaded HTML under `raw/{site}/`); (2) a row `` `slug` | URL | short description `` in the «Источники» table of `wiki/index.md` — the single slug→URL registry; (3) the slug in each page's `sources:` frontmatter (machine-readable linkage only, not rendered as text); (4) the site domain in the about-page list (`web/src/page-about.ts`).
 
 ## Operations
 
 ### Ingest a new source
 1. Read the raw file in `raw/` (or fetch the URL the user gives).
 2. Discuss key takeaways with the user; confirm scope/fit before creating many pages.
-3. Register the source: pick a slug, add a row to the «Источники» table in `wiki/index.md`, and add the site domain to `web/src/page-about.ts` if it is new. Do **not** create a page in `wiki/sources/`.
+3. Register the source: pick a slug, add a row (slug | URL | description) to the «Источники» table in `wiki/index.md`, save a raw copy under `raw/` when practical, and add the site domain to `web/src/page-about.ts` if it is new. Do **not** create a page in `wiki/sources/` and do **not** add source sections to entity pages (slug in `sources:` frontmatter is enough).
 4. Create or update entity pages for any places mentioned:
    - **Image:** required — see Place pages above.
    - **Geocoding:** for every new quarter or place, resolve coords via Nominatim:

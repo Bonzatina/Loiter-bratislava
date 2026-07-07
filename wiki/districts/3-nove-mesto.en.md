@@ -1,0 +1,32 @@
+---
+title: Nové Mesto (Bratislava III)
+type: district
+domain: sights
+coords: [48.16716, 17.13835]
+tags: [bratislava-3, koliba, kamzik]
+updated: 2026-07-07
+---
+
+# Nové Mesto (Bratislava III)
+
+Nové Mesto (New Town) is the borough north-east of the historic centre (Bratislava III okres), grown along the roads to Trnava and into the foothills of the Little Carpathians. It is a heterogeneous belt of the city: tenement blocks and early-20th-century villas closer to the centre, industrial and railway lands around the main station, and, to the north, green slopes with the Koliba quarter and the TV tower on Kamzík hill, the city's main lookout point.
+
+The wiki's first object here is the [[Legionarske-domy|Legionnaires' Houses]] (1920s) by Dušan Jurkovič and Jan Pacl on Ursínyho street: a cooperative quarter for veterans of the Czechoslovak Legions and a rare Bratislava example of Rondocubism — the "national style" of young Czechoslovakia.
+
+## Coat of Arms
+
+![Coat of arms of Nové Mesto](/assets/erb-3-nove-mesto.png)
+
+In a red field, a silver building with a central turret — a historic curia of the winegrowing slopes — and beneath it a golden vine leaf with a silver grape cluster: the memory of the vineyards on which this borough grew.
+
+## Objects
+
+- [[Legionarske-domy|Legionnaires' Houses (Legionárske domy)]] — Jurkovič's Rondocubism for legion veterans
+- [[Obchodne-stredisko-Slimak|Slimák shopping centre]] — Matušík's circular "snail" (1964)
+- [[Trznica|Market Hall at Trnavské mýto]] — Matušík's glazed market (1983)
+- [[Olympijske-muzeum|Slovak Olympic and Sports Museum]] — in the House of Sport at Pasienky
+
+## See Also
+
+- [[Jurkovic-Dusan|Dušan Jurkovič]]
+- [[1-stare-mesto|Staré Mesto]] — the neighbouring borough
