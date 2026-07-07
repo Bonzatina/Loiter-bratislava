@@ -21,6 +21,7 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 
 ## Objects
 
+- [[Bratislavsky-hrad|Bratislava Castle (Bratislavský hrad)]] — the city's defining silhouette: the 1811 fire, 150 years of ruin, resurrection
 - [[Manderlak|Manderlák]] — Slovakia's first high-rise, SNP Square
 - [[Obchodny-dom-Dunaj|Dunaj department store (Brouk a Babka)]] — an icon of functionalism
 - [[Druzstevne-domy|Coop Houses (Družstevné domy)]] — Belluš's "three red houses"
@@ -42,6 +43,17 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Internat-Lafranconi|Lafranconi dormitory]] — Slovakia's first university dormitory
 - [[Kalvaria|Bratislava Calvary]] — the revived pilgrimage way (2024 Jurkovič Prize)
 - [[Slavin|Slavín]] — memorial, war cemetery and one of the city's best lookouts
+- [[Divadlo-POH|P. O. Hviezdoslav Theatre (DPOH)]] — a drama stage born inside a bank (1955)
+- [[Park-kultury-a-oddychu|Park of Culture and Leisure (PKO)]] — the embankment's demolished legend (1955–2016)
+- [[Vydrica]] — the "Bratislava Montmartre", the quarter erased by the SNP Bridge and rebuilt anew
+- [[Zuckermandel]] — the Podhradie's other lost quarter: three towers, Messerschmidt's heads, the new 2017 development
+- [[Modry-kostolik|The Blue Church (Modrý kostolík)]] — Lechner's Secession (1909–1913), the city's most photographed church
+- [[Stara-radnica|The Old Town Hall (Stará radnica)]] — the heart of old Pressburg: magistrate, jail, feasts and the Turmmusik
+- [[Kaviaren-Stefanka|Café Štefánka]] — the drawing room of the city's intelligentsia since 1904
+- [[Stary-most|The Old Bridge (Starý most)]] — the first permanent Danube bridge (1890), five names in 135 years
+- [[Michalska-veza|Michael's Tower (Michalská veža)]] — the only surviving city gate, restored 2021–2023
+- [[Stara-trznica|The Old Market Hall (Stará tržnica)]] — the 1910 covered market on the site of the Bread Market
+- [[Kupele-Grossling|The Grössling Baths]] — the 1895 baths awaiting their second life (~2027)
 
 ## Museums
 
@@ -51,6 +63,7 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Muzeum-zidovskej-kultury|Museum of Jewish Culture]] and the [[Zidovske-komunitne-muzeum|Jewish Community Museum]] — the city's two Jewish exhibitions
 - [[Muzeum-dopravy|Museum of Transport]] — by the main station
 - [[Muzeum-Jana-Cikkera|Ján Cikker Museum]] — a composer's villa
+- [[Muzeum-hodin|The Museum of Clocks]] — Pressburg's clockmakers in the House of the Good Shepherd
 - [[Muzeum-policie|Police Museum]] — free, by the Presidential Palace
 
 ## See Also

@@ -22,6 +22,7 @@ In a red field, a silver building with a central turret — a historic curia of 
 ## Objects
 
 - [[Legionarske-domy|Legionnaires' Houses (Legionárske domy)]] — Jurkovič's Rondocubism for legion veterans
+- [[Statny-obytny-dom|The state residential house on Vajnorská]] — Šebor's Rondocubism (1924), burned and restored
 - [[Obchodne-stredisko-Slimak|Slimák shopping centre]] — Matušík's circular "snail" (1964)
 - [[Trznica|Market Hall at Trnavské mýto]] — Matušík's glazed market (1983)
 - [[Olympijske-muzeum|Slovak Olympic and Sports Museum]] — in the House of Sport at Pasienky

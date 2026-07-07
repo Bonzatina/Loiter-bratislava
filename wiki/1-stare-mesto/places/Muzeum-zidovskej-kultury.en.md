@@ -5,7 +5,7 @@ domain: museums
 district: 1-stare-mesto
 coords: [48.14404, 17.10352]
 tags: [museum, snm, jewish, zidovska]
-sources: [muzea-muzeumsk-2026]
+sources: [muzea-muzeumsk-2026, zidovsky-kodex-bratislavskenoviny-2023]
 updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ The Museum of Jewish Culture (Múzeum židovskej kultúry) of the Slovak Nationa
 ![The Zsigray curia on Židovská street](/assets/muzeum-zidovskej-kultury.jpg)
 
 The museum's very location is part of the story: Židovská ("Jewish") street remains a narrow edge of a quarter erased in the 1960s; from its windows you see St Martin's Cathedral, whose neighbourhood with the ghetto shaped this topography for centuries.
+
+The key date of this memory is 9 September: on that day in 1941 the government of the wartime Slovak state issued the "Jewish Code" (Židovský kódex) — one of the harshest anti-Jewish measures in Europe of the time, modelled on the Nuremberg Laws, which stripped Jews of civil rights and opened the way to the "aryanization" of property and the deportations (the first transport left Poprad on 25 March 1942; more than 70,000 Slovak Jews perished in the camps). Since then, 9 September is observed as the Day of the Victims of the Holocaust and Racial Violence, and the demolished Neolog synagogue on Rybné námestie has been commemorated since 1997 by the Holocaust Memorial beside the cathedral.
 
 ## Practical Information
 

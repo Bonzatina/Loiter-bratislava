@@ -10,7 +10,7 @@ updated: 2026-07-07
 
 # Stephanie of Belgium (Stephanie Belgická)
 
-Stephanie of Belgium (Stéphanie, 1864–1945) was a Belgian princess, daughter of King Leopold II, an empress-of-Austria-Hungary-that-never-was, and the most famous resident of [[5-rusovce|Rusovce]]. In 1881, aged sixteen, she was married to Crown Prince Rudolf of Habsburg; the marriage was unhappy and ended in 1889 with the Mayerling tragedy, when Rudolf killed himself together with his mistress. It is after Stephanie that the famous Bratislava café Štefánka is named (opened in the early 20th century on today's Palisády) — a trace of the era when the widowed crown princess was one of the monarchy's most recognizable figures.
+Stephanie of Belgium (Stéphanie, 1864–1945) was a Belgian princess, daughter of King Leopold II, an empress-of-Austria-Hungary-that-never-was, and the most famous resident of [[5-rusovce|Rusovce]]. In 1881, aged sixteen, she was married to Crown Prince Rudolf of Habsburg; the marriage was unhappy and ended in 1889 with the Mayerling tragedy, when Rudolf killed himself together with his mistress. It is after Stephanie that the famous Bratislava [[Kaviaren-Stefanka|café Štefánka]] on Palisády is named — a trace of the era when the widowed crown princess was one of the monarchy's most recognizable figures.
 
 ![Stephanie of Belgium, late 19th century](/assets/stefania-belgicka.jpg)
 

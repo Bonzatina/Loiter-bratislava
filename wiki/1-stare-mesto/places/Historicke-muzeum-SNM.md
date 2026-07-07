@@ -3,7 +3,7 @@ title: Исторический музей СНМ (Historické múzeum SNM)
 type: place
 domain: museums
 district: 1-stare-mesto
-coords: [48.14259, 17.10047]
+coords: [48.14225, 17.10145]
 tags: [museum, snm, history, castle]
 sources: [muzea-muzeumsk-2026]
 updated: 2026-07-07

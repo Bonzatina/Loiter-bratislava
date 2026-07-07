@@ -5,7 +5,7 @@ domain: lookout
 district: 1-stare-mesto
 coords: [48.15390, 17.09959]
 tags: [memorial, wwii, cemetery, viewpoint, socialist-era]
-sources: [slavin-vedeli-ste-bratislavskenoviny-2026, slavin-historia-bratislavskenoviny-2026]
+sources: [slavin-vedeli-ste-bratislavskenoviny-2026, slavin-historia-bratislavskenoviny-2026, oslobodenie-bratislavskenoviny-2025]
 updated: 2026-07-07
 ---
 
@@ -15,7 +15,7 @@ Slavín is the memorial and war cemetery of Soviet soldiers who fell liberating 
 
 ![Trizuljak's flag-bearer atop the Slavín pylon](/assets/slavin.jpg)
 
-It is not just a monument but a real cemetery: about seven thousand Red Army soldiers rest in six mass graves and 317 individual plots. By no means all of them died in Bratislava itself — the city was liberated on 4 April 1945, and the fallen were brought here from all over Western Slovakia, among them some 120 soldiers from the battle for Trnava on 1 April 1945. The memorial's terrace is one of the city's best lookouts: the whole centre, the Danube and the [[Most-SNP|SNP Bridge]] spread out below. The statue has suffered lightning strikes more than once, and the gilded star and flagstaff have been restored.
+It is not just a monument but a real cemetery: about seven thousand Red Army soldiers rest in six mass graves and 317 individual plots. By no means all of them died in Bratislava itself — the city was liberated on 4 April 1945, and the fallen were brought here from all over Western Slovakia, among them some 120 soldiers from the battle for Trnava on 1 April 1945. The assault itself took less than two days: schooled by Budapest, the Soviet commanders split their divisions into small assault groups heavy with artillery, the Germans held out in isolated strongpoints, the leadership of the ľudák regime had fled by 1 April, and armoured boats of the Danube Flotilla supported the advance with fire from the river. The memorial's terrace is one of the city's best lookouts: the whole centre, the Danube and the [[Most-SNP|SNP Bridge]] spread out below. The statue has suffered lightning strikes more than once, and the gilded star and flagstaff have been restored.
 
 ## See Also
 

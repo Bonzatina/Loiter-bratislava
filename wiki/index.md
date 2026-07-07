@@ -74,6 +74,56 @@
 | `holubica-umeniemesta-2026` | https://umeniemesta.sk/diela/reckTBS6SkghKoVVA | Umenie mesta: «Голубка мира» |
 | `posolstvo-umeniemesta-2026` | https://umeniemesta.sk/diela/recJOa6bjJH5ezpjG | Umenie mesta: «Послание мира» — точные координаты |
 | `mier-mural-dnes24-2015` | https://bratislava.dnes24.sk/obnovena-monumentalna-malba-mier-bola-poslednou-v-petrzalke-223338 | Dnes24: восстановление мурала «Мир» (2015) |
+| `lanfranconi-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/historia/83514-historia-stavitel-ktory-skrotil-dunaj-mal-smutny-koniec | Bratislavské noviny: Энеа Ланфранкони, «укротивший Дунай» |
+| `bunkre-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/83651-v-petrzalke-mame-skutocnu-raritu-system-bunkrov-z-cias-prvej-ceskoslovenskej-republiky | Bratislavské noviny: петржальские бункеры B-S 1–15 |
+| `budatinska-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/83894-vedeli-ste-budatinsku-ulicu-pomenovali-podla-hradu-z-13-storocia | Bratislavské noviny: улицы Петржалки, названные по замкам |
+| `oslobodenie-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/aktuality/bratislava/84079-historia-oslobodenie-bratislavy-bolo-dolezite-najma-z-politickeho-hladiska | Bratislavské noviny: освобождение Братиславы 4.4.1945 |
+| `vydrica-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/historia/84805-historia-hriesnikov-vydrica-ozivala-v-tieni-cervenych-lamp-stala-sa-synonymom-nevestinca-a-spiny | Bratislavské noviny: Выдрица, квартал красных фонарей |
+| `pko-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/historia/85090-historia-legendarny-park-kultury-a-oddychu-by-mal-70-rokov | Bratislavské noviny: 70 лет ПКО |
+| `dpoh-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/kultura/86100-vyrocie-pred-70-rokmi-otvorili-dpoh-vzniklo-ako-sucast-banky | Bratislavské noviny: 70 лет театру DPOH |
+| `pavlacovy-dom-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/86161-historia-nenapadny-cinzak-na-r-ntgenovej-si-pamata-naozaj-vela | Bratislavské noviny: павлачовый дом Квастлера на Рентгеновой |
+| `rodiny-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/86334-hubertovci-palugayovci-a-dalsi-poznate-pribehy-znamych-presporackych-rodin | Bratislavské noviny: прессбургские семьи (выставка MMB) |
+| `sebor-dom-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/81820-premeny-bratislavy-cez-vojnu-tuto-budovu-vypalili-nemci-dnes-je-opat-impozantnou-stavbou | Bratislavské noviny: дом Шебора на Вайнорской, сожжённый в 1945 |
+| `janko-kral-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/82024-vyrocie-pred-60-rokmi-odhalili-v-sade-janka-krala-pomnik-nasmu-najrevolucnejsiemu-basnikovi | Bratislavské noviny: 60 лет памятнику Янко Кралю |
+| `modry-kostolik-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/82129-historia-pred-115-rokmi-zacali-stavat-modry-kostolik | Bratislavské noviny: 115 лет Голубому костёлу |
+| `ostredky-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/ruzinov/82131-premeny-bratislavy-sidliisko-ostredky-v-ruzinove-oslavuje-60-tku | Bratislavské noviny: 60 лет сидлиску Остредки |
+| `bieniada-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/historia/82474-pribeh-pamatnika-poliak-marcin-bieniada-utiekol-v-roku-1982-cez-prisne-strazenu-hranicu-z-devina-do-rakuska | Bratislavské noviny: побег Марцина Беняды через Девин (1982) |
+| `dunajcik-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/sport/82514-vodacka-legenda-unikatny-klub-dunajcik-zalozili-desiati-kamarati | Bratislavské noviny: 100 лет клубу «Дунайчик» |
+| `hraniciari-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/82531-na-ich-pamiatku-v-petrzalke-pribudne-nova-pamatna-tabula-venovana-obetiam-hraniciarov | Bratislavské noviny: Парк жертв границы и статистика занавеса |
+| `pozar-podhradia-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/historia/82857-horelo-cele-dni-jeden-z-hasicov-prisiel-o-zivot-velka-skaza-podhradia-sa-zacala-pred-111-rokmi | Bratislavské noviny: великий пожар Подградья 1913 года |
+| `veronika-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/82885-poznate-pribeh-sochy-sv-veroniky-pred-dvoma-rokmi-prisiel-necakany-objav | Bratislavské noviny: находка статуи св. Вероники с кальварии |
+| `osusky-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/82948-vedeli-ste-nebyt-stefana-osuskeho-petrzalka-by-k-slovensku-nemusela-patrit | Bratislavské noviny: Штефан Осуский и Петржалка |
+| `vodovod-bratislavskenoviny-2025` | https://www.bratislavskenoviny.sk/historia/83502-prvy-vodovod-v-bratislave-ma-139-rokov-viete-odkial-smeroval-do-centra-mesta | Bratislavské noviny: первый водопровод (1886) и Сихоть |
+| `korvin-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/81275-historia-mudry-kral-ktory-sest-rokov-vladol-bez-koruny | Bratislavské noviny: Матяш Корвин, Золотая булла и Academia Istropolitana |
+| `stefanka-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/81733-pat-zastaveni-v-stefanke-uzite-si-netradicny-vecer-v-kultovej-bratislavskej-kaviarni | Bratislavské noviny: кофейня «Штефанка» и Хакенбергеры |
+| `radnica-zabavy-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/historia/80106-historia-bujare-zabavy-v-starej-radnici-trvali-dni-a-noci | Bratislavské noviny: гулянки в Старой ратуше и Turmmusik |
+| `tresty-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/historia/80421-tresty-v-stredovekom-presporku-za-popravu-nevinneho-mal-prist-o-hlavu-i-sudca | Bratislavské noviny: наказания в средневековом Прессбурге |
+| `zanik-podhradia-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/historia/80568-zanik-bratislavskeho-podhradia-bolo-to-inak-ako-si-mozno-myslite | Bratislavské noviny: гибель Подградья — пожар 1913 года |
+| `stary-most-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/historia/80920-premeny-mosta-cez-dunaj-stavat-ho-zacali-pred-135-rokmi-za-ten-cas-viackrat-zmenil-podobu-i-nazov | Bratislavské noviny: 135 лет Старому мосту |
+| `bs4-podujatie-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/77839-zazite-historiu-bratislavy-trochu-inak-vo-vojenskom-bunkri-bude-zivo-az-do-vecera | Bratislavské noviny: день открытых дверей в бункере B-S 4 |
+| `zidovsky-kodex-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/77878-smutne-vyrocie-den-obeti-holokaustu-a-rasoveho-nasilia-suvisi-s-prijatim-zidovskeho-kodexu | Bratislavské noviny: Еврейский кодекс 9.9.1941 |
+| `chlebovy-trh-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/77918-viete-kam-chodili-presporaci-na-chlebovy-trh-okolo-tohto-miesta-urcite-prejdete-aj-dnes | Bratislavské noviny: Хлебный рынок по Ортваю |
+| `zelovoc-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/historia/80138-najskor-verejne-wc-potom-zelovoc-spoznavate-toto-miesto-v-centre-bratislavy | Bratislavské noviny: подземный «Зеленовоц» 1950 года |
+| `michalska-veza-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/78064-krasna-obnova-michalska-veza-sa-opat-otvara-pre-verejnost-oproti-minulosti-jej-jej-prehliadka-ovela-putavejsia | Bratislavské noviny: реставрация Михальской башни |
+| `manderlak-opacha-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/78763-historia-nechceme-opachu-hovorili-trhovnici-o-veziaku-rudolfa-manderlu | Bratislavské noviny: Манделак — «опаха», кафе Grand, нацпамятник |
+| `grossling-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/78834-obnova-legendarnych-kupelov-gr-ssling-ma-dalsie-meskanie-vyssia-bude-aj-cena | Bratislavské noviny: обновление купален Грёсслинг |
+| `amfiteater-devin-bratislavskenoviny-2024` | https://www.bratislavskenoviny.sk/aktuality/devin/79208-historia-aky-pribeh-ukryva-amfiteater-pod-devinskym-hradom | Bratislavské noviny: амфитеатр под градом Девин |
+| `vydrica-umelci-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/77136-historia-nastrahy-hriesnej-vydrice-spoznali-aj-znami-umelci | Bratislavské noviny: Выдрица глазами художников (по Балажу) |
+| `grossling-details-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/77146-obnova-gr-sslingu-buracie-prace-odkryli-viacere-hodnotne-detaily-v-budove | Bratislavské noviny: разборка Грёсслинга, котлы 1912 года |
+| `kaviarne-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/77461-kto-si-este-spomenie-do-kaviarne-chodil-aj-postar-s-dochodkom-pre-stamgasta | Bratislavské noviny: кофейная культура по Юраю Шебо |
+| `hrad-porovnavacka-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76696-bratislavsky-hrad-v-plamenoch-pozrite-si-porovnavacku-aka-este-nebola | Bratislavské noviny: пожар града 1811 года и Альфред Пиффл |
+| `hrad-212-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/76681-snm-od-vyhorenia-bratislavskeho-hradu-uplynulo-212-rokov | Bratislavské noviny (СНМ): 212 лет пожару града |
+| `petrzalka-50-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/75931-pred-50-rokmi-sa-zacala-vystavba-paneloveho-sidliska-v-bratislavskej-petrzalke | Bratislavské noviny: 50 лет панельной Петржалке |
+| `petrzalka-sutaz-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/76050-vyrocie-ocami-historika-architekti-z-usa-navrhli-aby-cela-petrzalka-bola-akymisi-benatkami-na-dunaji | Bratislavské noviny: конкурс 1966 года, «Венеция на Дунае» |
+| `petrzalka-erb-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/76308-vyrocie-petrzalky-jej-erb-je-naozaj-zaujimavy-odkazuje-zrejme-na-sad-janka-krala | Bratislavské noviny: герб Петржалки и печать 1832 года |
+| `maly-prior-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/76449-maly-prior-v-petrzalke-otvarali-s-velkou-slavou-o-par-rokov-bol-z-neho-dom-hrozy | Bratislavské noviny: «малый Приор» в Овсишти |
+| `hodinari-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76391-slavni-presporski-hodinari-tusite-ktora-znacka-prezila-az-dodnes | Bratislavské noviny: прессбургские часовщики и Музей часов |
+| `cerveny-rak-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76693-skvela-sprava-lekaren-u-cerveneho-raka-opat-otvoria-mozete-tam-pracovat | Bratislavské noviny: аптека «У красного рака» |
+| `dunaj-brouk-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76756-ikonicky-obchodny-dom-postavili-za-pat-mesiacov-osud-jeho-zakladatela-bol-vsak-smutny | Bratislavské noviny: «Дунай» за 5 месяцев и судьба Ярослава Брука |
+| `zuckermandel-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75253-premeny-v-podhradi-z-velkych-planov-zostali-tri-veziaky-potom-sa-vsak-priestor-zaplnil | Bratislavské noviny: Цукермандель и три башни Подградья |
+| `bianchi-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/75325-historia-poznate-pribeh-generala-ktory-ubranil-presporske-predmostie-pred-napoleonom | Bratislavské noviny: генерал Бьянки и предмостье 1809 года |
+| `pittel-brausewetter-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75652-viete-ktora-firma-postavila-v-bratislave-dynamitku-cvernovku-ci-stollwerck-spoznajte-jej-pribeh | Bratislavské noviny: фирма Pittel & Brausewetter |
+| `fontany-petrzalka-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/75709-zaujimavost-preco-petrzalka-nema-takmer-ziadne-fontany | Bratislavské noviny: почему в Петржалке нет фонтанов |
 
 ## Городские части (mestské časti)
 
@@ -86,7 +136,9 @@
 | [[3-raca|Рача (Rača, Bratislava III)]] | Винодельческое село под Малыми Карпатами и колония Рендез |
 | [[4-lamac|Ламач (Lamač, Bratislava IV)]] | Бывшее село в седловине Малых Карпат |
 | [[4-dubravka|Дубравка (Dúbravka, Bratislava IV)]] | Хорватское село под Девинской Кобылой, ныне панельный район |
+| [[4-devin|Девин (Devín, Bratislava IV)]] | Село под градом у слияния Моравы и Дуная |
 | [[4-devinska-nova-ves|Девинска-Нова-Вес (Bratislava IV)]] | Хорватское село на Мораве у австрийской границы |
+| [[4-karlova-ves|Карлова Вес (Bratislava IV)]] | Придунайская часть с островом Сихоть — источником воды города |
 | [[5-petrzalka|Петржалка (Petržalka, Bratislava V)]] | Крупнейшая часть города на правом берегу, панельный район |
 | [[5-rusovce|Русовце (Rusovce, Bratislava V)]] | Село с римской Герулатой и неоготическим каштелем |
 
@@ -152,12 +204,34 @@
 | [[Gerulata|Герулата (Gerulata)]] | 5-rusovce | Римский лагерь на Дунайском лимесе, ЮНЕСКО (2021) |
 | [[Rusovsky-kastiel|Русовский каштель]] | 5-rusovce | Неоготический замок (1841–1844) с английским парком |
 | [[Slavin|Славин (Slavín)]] | 1-stare-mesto | Мемориал и кладбище ~7000 красноармейцев (1960); смотровая |
+| [[Petrzalske-bunkre|Петржальские бункеры B-S 1–15]] | 5-petrzalka | Крепостная линия первой ЧСР (1933–1938); музей в B-S 4 |
+| [[Pavlacovy-dom|Павлачовый дом на Рентгеновой]] | 5-petrzalka | Социальное жильё Квастлера (1931), редкий межвоенный уцелевший |
+| [[Park-kultury-a-oddychu|Парк культуры и отдыха (PKO)]] | 1-stare-mesto | Легенда набережной (1955), снесена к 2016; на месте — River Park |
+| [[Divadlo-POH|Театр П. О. Гвездослава (DPOH)]] | 1-stare-mesto | Сцена внутри банка (Крамар, 1955), Лауринска |
+| [[Modry-kostolik|Голубой костёл]] | 1-stare-mesto | Сецессион Эдёна Лехнера (1909–1913), Безручова |
+| [[Sad-Janka-Krala|Сад Янко Краля]] | 5-petrzalka | Первый общественный парк Центральной Европы (1775–1776) |
+| [[Statny-obytny-dom|Дом на Вайнорской/Трнавской]] | 3-nove-mesto | Рондокубизм Шебора (1924); сожжён в 1945, восстановлен |
+| [[Park-obeti-Hraniciarov|Парк жертв границы]] | 5-petrzalka | Первая площадь сидлиска; мемориал жертвам железного занавеса (2024) |
+| [[Lodenica-Dunajcik|Лодочная станция «Дунайчик»]] | 5-petrzalka | Старейший гребной клуб Словакии (1924), Клокочова |
+| [[Vodarenske-muzeum|Водопроводный музей]] | 4-karlova-ves | Первая насосная станция города (1886); Сихоть поит город до сих пор |
+| [[Stara-radnica|Старая ратуша]] | 1-stare-mesto | Сердце старого Прессбурга: магистрат, тюрьма, Turmmusik |
+| [[Kaviaren-Stefanka|Кофейня «Штефанка»]] | 1-stare-mesto | Культовая кофейня (Фейглер 1897, Хакенбергеры с 1904), Палисады |
+| [[Stary-most|Старый мост]] | 1-stare-mesto | Первый постоянный мост (1890): Франц Иосиф → Штефаник → Красная армия |
+| [[Michalska-veza|Михальская башня]] | 1-stare-mesto | Единственные уцелевшие ворота города (XIII в.); реставрация 2021–2023 |
+| [[Stara-trznica|Старая тржница]] | 1-stare-mesto | Крытый рынок (1910) на месте Хлебного рынка и костёла св. Лаврентия |
+| [[Kupele-Grossling|Купальни Грёсслинг]] | 1-stare-mesto | Бани 1895 года; реконструкция OPPS Architettura к ~2027 |
+| [[Amfiteater-Devin|Амфитеатр под градом Девин]] | 4-devin | «Народное театро» Третьего рейха; Всеславянский день 1945 |
+| [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
+| [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |
+| [[Muzeum-hodin|Музей часов]] | 1-stare-mesto | Часовщики Прессбурга (цех 1776, Гульдан) в доме «У доброго пастыря» |
 
 ## Кварталы
 
 | Страница | Часть | Описание |
 |---|---|---|
-| _пока нет_ | | |
+| [[Vydrica|Выдрица (Vydrica)]] | 1-stare-mesto | «Братиславский Монмартр» под градом: снесён в 1950–70-е, отстроен заново |
+| [[Ostredky|Остредки (Ostredky)]] | 2-ruzinov | Самое зелёное сидлиско Ружинова (1964) с «космическими» улицами |
+| [[Zuckermandel|Цукермандель (Zuckermandel)]] | 1-stare-mesto | «Хватай пальто и беги»: снесён в 1949–70-е, три башни, новый квартал 2017 |
 
 ## Персоналии
 
@@ -174,6 +248,11 @@
 | [[Milucky-Ferdinand|Фердинанд Милучкий]] | Мастер «максимальной абстракции» (1929–2019): крематорий, парк Глинки |
 | [[Silinger-Klement|Клемент Шилингер]] | Главный рондокубист Братиславы (1887–1951): Анатомический институт, Лафранкони |
 | [[Stefania-Belgicka|Стефания Бельгийская]] | Принцесса (1864–1945), хозяйка Русовского каштеля; имя кофейни «Штефанка» |
+| [[Lanfranconi-Enea|Энеа Ланфранкони]] | Инженер (1850–1895), регулятор Дуная; имя интерната и моста (с опечаткой) |
+| [[Quastler-Desider|Дезидер Квастлер]] | Архитектор соцжилья (1889–1944), погиб в Освенциме; дом на Рентгеновой |
+| [[Osusky-Stefan|Штефан Осуский]] | Дипломат (1889–1973), подписант Трианона; сохранил Петржалку для Словакии |
+| [[Matej-Korvin|Матяш Корвин]] | Король (1443–1490): Золотая булла Братиславе и Academia Istropolitana |
+| [[Bianchi-Vinzenz|Винценц Бьянки]] | Генерал (1768–1855), защитник предмостья от Наполеона (1809) |
 
 ## Концепции
 
@@ -182,3 +261,5 @@
 | [[functionalism|Функционализм]] | Межвоенный модернизм столицы первой ЧСР |
 | [[postwar-modernism|Послевоенный модернизм]] | Архитектура социалистической эпохи и её переоценка |
 | [[rondocubism|Рондокубизм]] | «Национальный стиль» ЧСР начала 1920-х: Шилингер и Юркович |
+| [[pressburg-families|Прессбургские семьи]] | Десять династий старого Прессбурга и их судьбы в XX веке |
+| [[iron-curtain|Железный занавес]] | Граница у порога города: жертвы, побеги, память |

@@ -3,7 +3,7 @@ title: Ramharter House — Café Regina
 type: place
 domain: architecture
 district: 1-stare-mesto
-coords: [48.14566, 17.10707]
+coords: [48.14648, 17.10744]
 tags: [modernism, interwar, cafe, hurbanovo-namestie]
 sources: [cafe-regina-register-architektury-2026, christian-ludwig-skwiki-2026, attersee-bratislavskenoviny-2020]
 updated: 2026-07-07

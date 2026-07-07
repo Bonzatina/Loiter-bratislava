@@ -9,7 +9,7 @@ updated: 2026-07-07
 
 # Ružinov (Bratislava II)
 
-Ružinov is a large borough east of the centre (Bratislava II okres) that grew after the war on former meadows and industrial land between the Danube and the airport. Panel housing estates with gravel-pit lakes (Štrkovec, Ružinov gardens) sit next to the new Nivy business district by the bus station and the old industrial grounds of the Apollo gas works — on one of them, in the headquarters of the Slovak gas industry, works the [[Plynarenske-muzeum|Slovak Gas Museum]].
+Ružinov is a large borough east of the centre (Bratislava II okres) that grew after the war on former meadows and industrial land between the Danube and the airport; for its abundance of 1960s "fountain era" water features it is called the "quarter of fountains". Panel housing estates with gravel-pit lakes (Štrkovec, Ružinov gardens) sit next to the new Nivy business district by the bus station and the old industrial grounds of the Apollo gas works — on one of them, in the headquarters of the Slovak gas industry, works the [[Plynarenske-muzeum|Slovak Gas Museum]].
 
 ## Coat of Arms
 
@@ -23,6 +23,10 @@ In a red field, a silver wall with two golden-roofed towers and a silver double 
 - [[Sportova-hala-Pasienky|Pasienky Sports Hall]] — the 1962 cable roof at Štrkovec
 - [[Park-Andreja-Hlinku|Andrej Hlinka Park]] — Milučký's linear park through Trávniky
 - [[Fontana-pre-Zuzanu|Fountain for Zuzana]] — the 1985 film fountain in a Starý Ružinov courtyard
+
+## Quarters
+
+- [[Ostredky]] — the borough's greenest sídlisko with its "space" streets (1964)
 
 ## See Also
 

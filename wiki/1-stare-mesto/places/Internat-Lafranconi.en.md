@@ -15,11 +15,12 @@ The Lafranconi student dormitory and canteen (Internát Lafranconi) at Nábreži
 
 ![The Lafranconi dormitory shortly after completion, archival photo](/assets/internat-lafranconi.jpg)
 
-In the late 1950s a swimming pool was added to the complex — designed by the young [[Matusik-Ivan|Ivan Matušík]]. The building still serves students: it houses the dormitory of Comenius University's Faculty of Physical Education and Sports, and the name Lafranconi (after engineer Enea Lanfranconi) is also borne by the neighbouring Danube bridge.
+In the late 1950s a swimming pool was added to the complex — designed by the young [[Matusik-Ivan|Ivan Matušík]]. The building still serves students: it houses the dormitory of Comenius University's Faculty of Physical Education and Sports, and the name Lafranconi — after [[Lanfranconi-Enea|engineer Enea Lanfranconi]], tamer of the Danube, whose surname lost an "n" along the way — is also borne by the neighbouring Danube bridge.
 
 ## See Also
 
 - [[Silinger-Klement|Klement Šilinger]] — the author
+- [[Lanfranconi-Enea|Enea Lanfranconi]] — the engineer who gave the dormitory its name
 - [[Matusik-Ivan|Ivan Matušík]] — author of the pool addition
 - [[functionalism|Functionalism]]
 - [[Dom-Miluckeho|Milučký's house]] — a neighbour in the Vinárky quarter
