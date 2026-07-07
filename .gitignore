@@ -1,0 +1,16 @@
+# Personal editor settings — never commit
+.obsidian/
+.claude/
+
+# Source materials: clippings, HTML archives, personal notes
+# Keep local only — copyright risk, large binaries, private content
+raw/
+
+# Quartz build artifacts
+web/node_modules/
+web/.quartz-cache/
+web/public/
+
+# OS noise
+.DS_Store
+Thumbs.db
