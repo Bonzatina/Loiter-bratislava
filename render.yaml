@@ -1,0 +1,11 @@
+# Render Blueprint — deploy with "New > Blueprint" pointing at this repo.
+# The Node app lives in web/; the wiki content is read from ../wiki at runtime,
+# which works because Render clones the whole repo and rootDir only sets the cwd.
+services:
+  - type: web
+    name: loiter-bratislava
+    runtime: node
+    plan: free
+    rootDir: web
+    buildCommand: npm install
+    startCommand: npm start
