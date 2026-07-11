@@ -22,6 +22,14 @@ app.use('/assets',  express.static(ASSETS_ROOT))
 app.use('/styles',  express.static(STYLES_ROOT))
 app.use('/scripts', express.static(SCRIPTS_ROOT))
 
+// The detail template already renders the frontmatter `title` as the page <h1>.
+// Every page body also opens with a `# Title` heading (nice when reading the raw
+// .md), which would render a second, duplicate <h1> after the meta badges —
+// strip that leading H1 so the title isn't shown twice.
+function stripLeadingH1(text: string): string {
+  return text.replace(/^\s*#\s+.*(\r?\n)+/, '')
+}
+
 function processWikilinks(text: string, prefix = ''): string {
   return text
     .replace(/\[\[([^\]|]+?)\\?\|([^\]]+)\]\]/g, (_, slug, label) => `[${label}](${prefix}/${encodeURIComponent(slug.trim())})`)
@@ -48,7 +56,7 @@ async function serveWikiPage(
   const raw = await fs.readFile(filePath, 'utf-8')
   const { content, data } = matter(raw)
   const prefix = wikiPrefix(nav)
-  const bodyHtml = marked.parse(processWikilinks(content, prefix)) as string
+  const bodyHtml = marked.parse(processWikilinks(stripLeadingH1(content), prefix)) as string
   const displayTitle = (data.title as string) || page.title
 
   res.send(renderDetailPage(page, bodyHtml, { current: effectiveLang, nav, slug, hasEn }, displayTitle))
