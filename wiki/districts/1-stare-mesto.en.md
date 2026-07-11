@@ -53,13 +53,14 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Stary-most|The Old Bridge (Starý most)]] — the first permanent Danube bridge (1890), five names in 135 years
 - [[Michalska-veza|Michael's Tower (Michalská veža)]] — the only surviving city gate, restored 2021–2023
 - [[Stara-trznica|The Old Market Hall (Stará tržnica)]] — the 1910 covered market on the site of the Bread Market
+- [[Obchodna-ulica|Obchodná Street]] — the old trade street: Schöndorf's winegrowers, the 1772 pawnshop, trams since 1899
 - [[Kupele-Grossling|The Grössling Baths]] — the 1895 baths awaiting their second life (~2027)
 
 ## Museums
 
 - [[Historicke-muzeum-SNM|SNM Museum of History]] — in Bratislava Castle
 - [[Muzeum-mesta-Bratislavy|Bratislava City Museum]] — Slovakia's oldest, in the Old Town Hall
-- [[Archeologicke-muzeum-SNM|Archaeological Museum]], [[Hudobne-muzeum-SNM|Music Museum]], [[Muzeum-kultury-karpatskych-Nemcov|Museum of Carpathian Germans]], [[Muzeum-kultury-Madarov|Museum of Hungarian Culture]] — the curias of Žižkova street
+- [[Muzea-SNM-na-Zizkovej|SNM Museums on Žižkova]] — archaeology, music, Hungarians and Carpathian Germans in the curias of Žižkova street
 - [[Muzeum-zidovskej-kultury|Museum of Jewish Culture]] and the [[Zidovske-komunitne-muzeum|Jewish Community Museum]] — the city's two Jewish exhibitions
 - [[Muzeum-dopravy|Museum of Transport]] — by the main station
 - [[Muzeum-Jana-Cikkera|Ján Cikker Museum]] — a composer's villa

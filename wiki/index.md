@@ -116,12 +116,14 @@
 | `petrzalka-50-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/75931-pred-50-rokmi-sa-zacala-vystavba-paneloveho-sidliska-v-bratislavskej-petrzalke | Bratislavské noviny: 50 лет панельной Петржалке |
 | `petrzalka-sutaz-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/76050-vyrocie-ocami-historika-architekti-z-usa-navrhli-aby-cela-petrzalka-bola-akymisi-benatkami-na-dunaji | Bratislavské noviny: конкурс 1966 года, «Венеция на Дунае» |
 | `petrzalka-erb-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/76308-vyrocie-petrzalky-jej-erb-je-naozaj-zaujimavy-odkazuje-zrejme-na-sad-janka-krala | Bratislavské noviny: герб Петржалки и печать 1832 года |
+| `petrzalka-historia-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/76018-historia-pisomna-zmienka-z-uzemia-petrzalky-pochadza-uz-z-13-storocia | Bratislavské noviny (TASR): история Петржалки от Флоцендорфа до 1945 года |
 | `maly-prior-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/76449-maly-prior-v-petrzalke-otvarali-s-velkou-slavou-o-par-rokov-bol-z-neho-dom-hrozy | Bratislavské noviny: «малый Приор» в Овсишти |
 | `hodinari-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76391-slavni-presporski-hodinari-tusite-ktora-znacka-prezila-az-dodnes | Bratislavské noviny: прессбургские часовщики и Музей часов |
 | `cerveny-rak-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76693-skvela-sprava-lekaren-u-cerveneho-raka-opat-otvoria-mozete-tam-pracovat | Bratislavské noviny: аптека «У красного рака» |
 | `dunaj-brouk-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76756-ikonicky-obchodny-dom-postavili-za-pat-mesiacov-osud-jeho-zakladatela-bol-vsak-smutny | Bratislavské noviny: «Дунай» за 5 месяцев и судьба Ярослава Брука |
 | `zuckermandel-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75253-premeny-v-podhradi-z-velkych-planov-zostali-tri-veziaky-potom-sa-vsak-priestor-zaplnil | Bratislavské noviny: Цукермандель и три башни Подградья |
 | `bianchi-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/75325-historia-poznate-pribeh-generala-ktory-ubranil-presporske-predmostie-pred-napoleonom | Bratislavské noviny: генерал Бьянки и предмостье 1809 года |
+| `obchodna-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75502-obchodna-kedysi-a-dnes-viete-co-stalo-na-mieste-tejto-budovy-v-minulosti | Bratislavské noviny: улица Обходна тогда и сейчас |
 | `pittel-brausewetter-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75652-viete-ktora-firma-postavila-v-bratislave-dynamitku-cvernovku-ci-stollwerck-spoznajte-jej-pribeh | Bratislavské noviny: фирма Pittel & Brausewetter |
 | `fontany-petrzalka-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/75709-zaujimavost-preco-petrzalka-nema-takmer-ziadne-fontany | Bratislavské noviny: почему в Петржалке нет фонтанов |
 
@@ -165,10 +167,7 @@
 | [[Legionarske-domy|Дома легионеров]] | 3-nove-mesto | Рондокубизм Юрковича и Пацла (1920-е) |
 | [[Kostol-svatej-Margity|Костёл святой Маргиты]] | 4-lamac | Одна из последних работ Гарминца (1947–1951) |
 | [[Historicke-muzeum-SNM|Исторический музей СНМ]] | 1-stare-mesto | Главный исторический музей страны в Братиславском граде |
-| [[Archeologicke-muzeum-SNM|Археологический музей СНМ]] | 1-stare-mesto | Древности Словакии в курии Кампера, Жижкова 12 |
-| [[Hudobne-muzeum-SNM|Музыкальный музей СНМ]] | 1-stare-mesto | Ноты и инструменты в курии Брэмера, Жижкова 18 |
-| [[Muzeum-kultury-karpatskych-Nemcov|Музей культуры карпатских немцев]] | 1-stare-mesto | Восемь веков немцев Словакии, Жижкова 14 |
-| [[Muzeum-kultury-Madarov|Музей культуры венгров Словакии]] | 1-stare-mesto | Тысячелетие венгров Словакии, Жижкова 18 |
+| [[Muzea-SNM-na-Zizkovej|Музеи СНМ на Жижковой]] | 1-stare-mesto | Курии Жижковой 12–18: археология, музыка, венгры и карпатские немцы |
 | [[Muzeum-mesta-Bratislavy|Музей города Братиславы]] | 1-stare-mesto | Старейший музей Словакии (1868) в Старой ратуше |
 | [[Muzeum-dopravy|Музей транспорта]] | 1-stare-mesto | Ретро-автомобили и паровозы у главного вокзала |
 | [[Muzeum-Jana-Cikkera|Музей Яна Циккера]] | 1-stare-mesto | Дом-музей композитора в функционалистской вилле |
@@ -220,6 +219,7 @@
 | [[Michalska-veza|Михальская башня]] | 1-stare-mesto | Единственные уцелевшие ворота города (XIII в.); реставрация 2021–2023 |
 | [[Stara-trznica|Старая тржница]] | 1-stare-mesto | Крытый рынок (1910) на месте Хлебного рынка и костёла св. Лаврентия |
 | [[Kupele-Grossling|Купальни Грёсслинг]] | 1-stare-mesto | Бани 1895 года; реконструкция OPPS Architettura к ~2027 |
+| [[Obchodna-ulica|Улица Обходна]] | 1-stare-mesto | Старинная торговая улица: Шёндорф, виноградари, ломбард 1772 года, витрины Стахо |
 | [[Amfiteater-Devin|Амфитеатр под градом Девин]] | 4-devin | «Народное театро» Третьего рейха; Всеславянский день 1945 |
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |

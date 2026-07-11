@@ -11,7 +11,7 @@ updated: 2026-07-08
 
 # Zuckermandel
 
-Zuckermandel is the second of the Podhradie's lost quarters, a medieval settlement between the Water Tower and the old Jewish cemetery by the tunnel. Its name, by tradition, was brought by Central Bavarian colonists: the dialect phrase "Zucke den Mantel" — "grab your coat and run" — was a joking warning label for unsafe places. Eighteenth-century maps preserve the names of its streets — Mlynárska, Ipeľská, Rimavská, Mockovo námestie; Žižkova street has led through the whole quarter since old times and survives to this day (its curias now house the [[Archeologicke-muzeum-SNM|museums]] of Žižkova).
+Zuckermandel is the second of the Podhradie's lost quarters, a medieval settlement between the Water Tower and the old Jewish cemetery by the tunnel. Its name, by tradition, was brought by Central Bavarian colonists: the dialect phrase "Zucke den Mantel" — "grab your coat and run" — was a joking warning label for unsafe places. Eighteenth-century maps preserve the names of its streets — Mlynárska, Ipeľská, Rimavská, Mockovo námestie; Žižkova street has led through the whole quarter since old times and survives to this day (its curias now house the [[Muzea-SNM-na-Zizkovej|museums]] of Žižkova).
 
 ![A tram against the backdrop of Zuckermandel being demolished, with the estate's first tower, 1960s](/assets/zuckermandel.jpg)
 

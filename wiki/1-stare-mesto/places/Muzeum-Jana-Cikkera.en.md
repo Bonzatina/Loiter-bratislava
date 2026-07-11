@@ -23,6 +23,6 @@ Address: Fialkové údolie 2. Visits by prior arrangement (phone/e-mail at jan-c
 
 ## See Also
 
-- [[Hudobne-muzeum-SNM|SNM Music Museum]] — the city's musical history
+- [[Muzea-SNM-na-Zizkovej|SNM Music Museum]] on Žižkova — the city's musical history
 - [[functionalism|Functionalism]] — the villa's style
 - [[1-stare-mesto|Staré Mesto]]

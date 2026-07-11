@@ -24,5 +24,5 @@ Address: Istrijská 68. Hours: Tue, Thu 11:00–17:00; Wed, Fri 11:00–16:00; S
 ## See Also
 
 - [[4-devinska-nova-ves|Devínska Nová Ves]]
-- [[Muzeum-kultury-karpatskych-Nemcov|Museum of Carpathian German Culture]] and the [[Muzeum-kultury-Madarov|Museum of Hungarian Culture]] — the SNM's other "minority museums"
+- [[Muzea-SNM-na-Zizkovej|SNM Museums on Žižkova]] (Germans, Hungarians) — the SNM's other "minority museums"
 - [[Muzeum-skolstva-a-pedagogiky|Museum of Education]] — its neighbour in Devínska

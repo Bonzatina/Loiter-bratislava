@@ -24,6 +24,6 @@ Address: Vajanského nábrežie 2. Hours: Tue–Sun 9:00–17:00 (last entry 16:
 ## See Also
 
 - [[Harminc-Milan-Michal|Milan Michal Harminc]] — author of the design
-- [[Historicke-muzeum-SNM|SNM Museum of History]] in the castle and the [[Archeologicke-muzeum-SNM|Archaeological Museum]] on Žižkova — other SNM sites
+- [[Historicke-muzeum-SNM|SNM Museum of History]] in the castle and the [[Muzea-SNM-na-Zizkovej|museums on Žižkova]] — other SNM sites
 - [[Propeler|Ferry wharfs of the Propeler]] — a neighbouring spot on the embankment
 - [[1-stare-mesto|Staré Mesto]]

@@ -5,8 +5,8 @@ domain: nature
 district: 5-petrzalka
 coords: [48.13430, 17.11064]
 tags: [park, oldest, danube, monument]
-sources: [janko-kral-bratislavskenoviny-2024, bianchi-bratislavskenoviny-2023, fontany-petrzalka-bratislavskenoviny-2023]
-updated: 2026-07-07
+sources: [janko-kral-bratislavskenoviny-2024, bianchi-bratislavskenoviny-2023, fontany-petrzalka-bratislavskenoviny-2023, petrzalka-historia-bratislavskenoviny-2023]
+updated: 2026-07-11
 ---
 
 # Janko Kráľ Park (Sad Janka Kráľa)
@@ -15,7 +15,7 @@ Janko Kráľ Park (Sad Janka Kráľa) on the right bank of the Danube, opposite 
 
 ![The Janko Kráľ monument in the park of his name](/assets/sad-janka-krala.jpg)
 
-The poet's monument at the centre of the park was unveiled only on 27 September 1964. Sculptor František Gibala and architect Štefan Imrich set a 3.3-metre white marble figure on a grey granite pedestal: Kráľ in a long unbuttoned cloak, cane in hand — "a bold stride, a thrust-out chest and a raised head" as signs of his rebellious pathos. Gibala deliberately chose stone over bronze: Štúr-era Bratislava seemed to him a "city of stone". He spotted suitable Romanian marble by chance at a station in Levice — a block of the needed size was unobtainable, so the figure was assembled from five identical pieces. The monument was restored in 2009. The park has a military chapter too: in 1809 this very ground became the core of the fortified Pressburg bridgehead, which General [[Bianchi-Vinzenz|Bianchi]] defended against Napoleon's army for a month and a half. Here too stands Petržalka's only fountain from the city's "golden era": Ambróz Balážik's Drinking Doves (1981). Today the park is Petržalka's green heart between the [[Most-SNP|SNP Bridge]] and the [[Stary-most|Old Bridge]].
+The poet's monument at the centre of the park was unveiled only on 27 September 1964. Sculptor František Gibala and architect Štefan Imrich set a 3.3-metre white marble figure on a grey granite pedestal: Kráľ in a long unbuttoned cloak, cane in hand — "a bold stride, a thrust-out chest and a raised head" as signs of his rebellious pathos. Gibala deliberately chose stone over bronze: Štúr-era Bratislava seemed to him a "city of stone". He spotted suitable Romanian marble by chance at a station in Levice — a block of the needed size was unobtainable, so the figure was assembled from five identical pieces. The monument was restored in 2009. The park has a military chapter too: in 1809 this very ground became the core of the fortified Pressburg bridgehead, which General [[Bianchi-Vinzenz|Bianchi]] defended against Napoleon's army for a month and a half. In 1918–1919 the park found itself on the front line again: the newborn Czechoslovakia's border ran along the Danube, the park was counted as Bratislava's while the rest of [[5-petrzalka|Petržalka]] still lay in Hungary — until the Czechoslovak army took the bridgehead in August 1919. Here too stands Petržalka's only fountain from the city's "golden era": Ambróz Balážik's Drinking Doves (1981). Today the park is Petržalka's green heart between the [[Most-SNP|SNP Bridge]] and the [[Stary-most|Old Bridge]].
 
 ## See Also
 

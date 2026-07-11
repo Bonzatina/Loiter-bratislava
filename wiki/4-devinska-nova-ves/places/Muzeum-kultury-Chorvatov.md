@@ -24,5 +24,5 @@ updated: 2026-07-07
 ## См. также
 
 - [[4-devinska-nova-ves|Девинска-Нова-Вес]]
-- [[Muzeum-kultury-karpatskych-Nemcov|Музей карпатских немцев]] и [[Muzeum-kultury-Madarov|Музей венгров]] — другие «музеи меньшинств» СНМ
+- [[Muzea-SNM-na-Zizkovej|Музеи СНМ на Жижковой]] (немцы, венгры) — другие «музеи меньшинств» СНМ
 - [[Muzeum-skolstva-a-pedagogiky|Музей школьного дела]] — сосед по Девинской
