@@ -7,5 +7,7 @@ services:
     runtime: node
     plan: free
     rootDir: web
-    buildCommand: npm install
+    # --no-audit --no-fund sidesteps npm's "Exit handler never called" crash
+    # seen on Render's builders (network side-calls at the end of install).
+    buildCommand: npm ci --no-audit --no-fund
     startCommand: npm start
