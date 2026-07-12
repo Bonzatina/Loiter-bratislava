@@ -14,7 +14,7 @@ Alojz Rigele (8 February 1879, Bratislava — 14 February 1940, Bratislava) was 
 
 ![Alojz Rigele](/assets/rigele-alojz.jpg)
 
-The city is still strewn with his works. The best known: the relief of Christ the Saviour on the Salvator pharmacy (1904), the relief of Queen Elisabeth on the facade of the Blue Church (1910–1912), the relief of Archbishop Péter Pázmány in [[Dom-svateho-Martina|St Martin's Cathedral]], and the tombstones and memorials of Bratislava's cemeteries. The "Girl with a Doe" fountain on Hviezdoslav Square was completed from his model by Robert Kühmayer after the sculptor's death (1942). In the interwar years Rigele worked extensively with architects: the vertical strips of his sculptural portraits adorn [[Lutherov-dom|Luther House]] by Ludwig and Danielis on Palisády. He specialised in portraiture and created numerous altars, crucifixes and memorials for Slovakia, Austria and Hungary.
+The city is still strewn with his works. The best known: Christ the Saviour on the [[Lekaren-u-Salvatora|Salvator pharmacy]] (1904), the relief of Queen Elisabeth on the facade of the Blue Church (1910–1912), the relief of Archbishop Péter Pázmány in [[Dom-svateho-Martina|St Martin's Cathedral]], and the tombstones and memorials of Bratislava's cemeteries. The "Girl with a Doe" fountain on Hviezdoslav Square was completed from his model by Robert Kühmayer after the sculptor's death (1942). In the interwar years Rigele worked extensively with architects: the vertical strips of his sculptural portraits adorn [[Lutherov-dom|Luther House]] by Ludwig and Danielis on Palisády. He specialised in portraiture and created numerous altars, crucifixes and memorials for Slovakia, Austria and Hungary.
 
 ## See Also
 

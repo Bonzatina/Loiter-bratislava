@@ -57,6 +57,10 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Mauzoleum-Chatama-Sofera|Chatam Sofer Mausoleum]] — the shrine by the tunnel on the site of the oldest Jewish cemetery (2002)
 - [[Dom-svateho-Martina|St Martin's Cathedral (Dóm sv. Martina)]] — the coronation church with crypts six metres underground
 - [[Chram-svateho-Mikulasa|Church of St Nicholas (Chrám sv. Mikuláša)]] — neglected 1661 Baroque on Mikulášska, awaiting its revival
+- [[Budova-YMCA|YMCA Building (Budova YMCA)]] — continental Europe's first YMCA house, cradle of Slovak basketball
+- [[Obchodny-dom-Teta|TETA Department Store]] — the city's first department store (1929) and the legendary Teta grocery
+- [[Pomnik-Hviezdoslava|The Hviezdoslav Monument]] — the bronze poet on the square that bears his name (1937)
+- [[Lekaren-u-Salvatora|The Salvator Pharmacy]] — Rigele's Saviour and the returned Jesuit furnishings of 1727
 - [[Kupele-Grossling|The Grössling Baths]] — the 1895 baths awaiting their second life (~2027)
 
 ## Museums

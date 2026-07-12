@@ -19,6 +19,7 @@ The first performance was played on 28 May 1955. In 1969 the hall's socialist-re
 
 ## See Also
 
+- [[Hviezdoslav-Pavol-Orszagh|Pavol Országh Hviezdoslav]] — the poet whose name the theatre bears
 - [[postwar-modernism|Post-war modernism]]
 - [[Park-kultury-a-oddychu|PKO]] — its 1955 twin with the opposite fate
 - [[1-stare-mesto|Staré Mesto]]

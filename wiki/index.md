@@ -129,6 +129,18 @@
 | `batov-kostol-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/74306-historia-za-takmer-storocny-kostol-vdaci-petrzalka-aj-tomasovi-batovi | Bratislavské noviny: «первый костёл Бати» в Петржалке |
 | `jama-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/74482-pamatate-si-na-oblubenu-jamu-v-centre-bratislavy-takto-tu-raz-cvicili-cinski-sportovci | Bratislavské noviny: «яма» на углу Обходной и Почтовой |
 | `chatam-sofer-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/74892-velka-premena-miesta-kde-stoji-mauzoleum-ch-sofera-porovnajte-si-vyhlad-od-tunela-vtedy-a-dnes | Bratislavské noviny: мавзолей Хатама Софера, вид от тоннеля |
+| `hviezdoslav-poslanec-bratislavskenoviny-2021` | https://www.bratislavskenoviny.sk/kultura/68648-p-o-hviezdoslav-bol-poslancom-za-prvej-csr-uctil-si-ho-aj-vavro-srobar | Bratislavské noviny (TASR): Гвездослав — депутат первой ЧСР |
+| `hviezdoslav-kanada-bratislavskenoviny-2021` | https://www.bratislavskenoviny.sk/kultura/68993-hviezdoslavova-tvorba-nadchla-aj-znameho-kanadskeho-herca-anglicke-publikum-vraj-bolo-voci-jeho-dielu-slepe | Bratislavské noviny (TASR): «Канада читает Гвездослава» |
+| `pomnik-hviezdoslava-divadelneprechadzky-2026` | https://divadelneprechadzky.theatre.sk/bratislava/jrw2pgaEdv/GyzEbRvEbD/ | Театральные прогулки: памятник Гвездославу (1937) |
+| `au-cafe-skwiki-2026` | https://sk.wikipedia.org/wiki/Au_Café | Словацкая Википедия: Au Café — хронология владельцев |
+| `au-cafe-bratislavskenoviny-2021` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/68872-historia-z-au-cafe-mala-byt-kongresova-hala | Bratislavské noviny: Au Café и несбывшийся конгресс-холл |
+| `salvator-skwiki-2026` | https://sk.wikipedia.org/wiki/Lekáreň_U_Salvátora | Словацкая Википедия: аптека «У Сальватора» и её мобилиар |
+| `salvator-mobiliar-bratislavskenoviny-2021` | https://www.bratislavskenoviny.sk/nasa-tema/68383-zmluva-za-milion-podpisana-v-akom-stave-kupila-bratislava-mobiliar-lekarne-salvator | Bratislavské noviny: выкуп мобилиара «Сальватора» за 990 тыс. € |
+| `ymca-skwiki-2026` | https://sk.wikipedia.org/wiki/YMCA_(budova_v_Bratislave) | Словацкая Википедия: здание YMCA — история и обитатели |
+| `ymca-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/70704-viete-kde-v-bratislave-sa-prvykrat-hral-basketbal-ci-pingpong-mozno-chodite-okolo-kazdy-den | Bratislavské noviny: YMCA — колыбель баскетбола и панорамное кино |
+| `miklanek-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/70208-viete-ako-vznikli-znamenia-v-sade-janka-krala-ich-autor-zanechal-vyraznu-stopu-v-celej-bratislave | Bratislavské noviny: Растислав Микланек и зодиак Сада Янко Краля |
+| `mikulas-sanca-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/70018-video-a-foto-chatrajuci-historicky-kostolik-pod-bratislavskym-hradom-asi-dostane-sancu | Bratislavské noviny: храм св. Николая — шанс на спасение |
+| `teta-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/nasa-tema/69845-video-pred-60-rokmi-otvorili-v-centre-velkopredajnu-potravin-ktoru-cela-bratislava-volala-teta | Bratislavské noviny: универмаг TETA и продмаг 1962 года |
 | `biely-dom-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/71852-bratislavske-legendy-nevestinec-biely-dom | Bratislavské noviny: «Белый дом» — средневековый бордель магистрата |
 | `psia-kolonia-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/72038-historia-zivot-tu-bol-tvrdy-najchudobnejsiu-cast-starej-petrzalky-volali-aj-psia-kolonia | Bratislavské noviny: «Собачья колония» и бедняцкие колонии Петржалки |
 | `viedenska-elektricka-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/72364-zastavka-viedenskej-elektricky-mozete-sa-tadial-previezt-historickym-autobusom | Bratislavské noviny: остановка венской электрички в Саду Янко Краля |
@@ -241,6 +253,11 @@
 | [[Kostol-Povysenia-svateho-Kriza|Костёл Воздвижения Святого Креста]] | 5-petrzalka | «Первый костёл Бати в Словакии» (1932): Оканик, Карфик, сборные конструкции |
 | [[Chram-svateho-Mikulasa|Храм святого Николая]] | 1-stare-mesto | Раннебарочный костёлик 1661 года под градом: иконостас Ждановских, ожидание реконструкции |
 | [[Zastavka-Viedenskej-elektricky|Остановка венской электрички]] | 5-petrzalka | Брусчатка 1914 года у Сада Янко Краля; маршрут в Вену, оборванный в 1938-м |
+| [[Budova-YMCA|Здание YMCA]] | 1-stare-mesto | Первый дом YMCA континентальной Европы (1921/1923); колыбель словацкого баскетбола |
+| [[Obchodny-dom-Teta|Универмаг TETA]] | 1-stare-mesto | Первый универмаг города (1929, Скутецки); легендарный продмаг «Тета» 1962–2012 |
+| [[Pomnik-Hviezdoslava|Памятник Гвездославу]] | 1-stare-mesto | Бронзовый поэт Игриского и Поспишила (1937); открытие при 15 тысячах зрителей |
+| [[Au-Cafe|Au Café]] | 5-petrzalka | Кафе 1827 года у Сада: Палудяи, «самоубийство» здания 1966, реплика 2003 |
+| [[Lekaren-u-Salvatora|Аптека «У Сальватора»]] | 1-stare-mesto | Дом 1904 года со Спасителем Ригеле; одиссея иезуитского мобилиара 1727 года |
 | [[Amfiteater-Devin|Амфитеатр под градом Девин]] | 4-devin | «Народное театро» Третьего рейха; Всеславянский день 1945 |
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |
@@ -272,6 +289,8 @@
 | [[Lanfranconi-Enea|Энеа Ланфранкони]] | Инженер (1850–1895), регулятор Дуная; имя интерната и моста (с опечаткой) |
 | [[Quastler-Desider|Дезидер Квастлер]] | Архитектор соцжилья (1889–1944), погиб в Освенциме; дом на Рентгеновой |
 | [[Koch-Karel|Карел Кох]] | Хирург и филантроп (1890–1981): санаторий и сад, сопротивление, тюрьма, эмиграция |
+| [[Miklanek-Rastislav|Растислав Микланек]] | Скульптор парков (р. 1942): зодиак Сада Янко Краля, верблюдица Штрковца, «Лира» |
+| [[Hviezdoslav-Pavol-Orszagh|Павол Орсаг Гвездослав]] | Бард словацкой литературы (1849–1921): «Кровавые сонеты», депутат, Матица |
 | [[Osusky-Stefan|Штефан Осуский]] | Дипломат (1889–1973), подписант Трианона; сохранил Петржалку для Словакии |
 | [[Matej-Korvin|Матяш Корвин]] | Король (1443–1490): Золотая булла Братиславе и Academia Istropolitana |
 | [[Bianchi-Vinzenz|Винценц Бьянки]] | Генерал (1768–1855), защитник предмостья от Наполеона (1809) |

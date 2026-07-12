@@ -32,6 +32,7 @@ In a silver field, six trees — five small green ones and one large with a gold
 - [[Divadlo-Arena|Aréna Theatre (Divadlo Aréna)]] — the historic 1828 theatre on Tyršovo nábrežie
 - [[Kostol-Povysenia-svateho-Kriza|Church of the Exaltation of the Holy Cross]] — "the first Baťa church in Slovakia" (1932), Karfík's functionalism
 - [[Zastavka-Viedenskej-elektricky|The Vienna Tram Stop]] — 1914 paving by Janko Kráľ Park, memory of the route to Vienna
+- [[Au-Cafe|Au Café]] — the revived café of 1827 with a view of the castle across the Danube
 - [[Obchodny-dom-Ovsiste|The "Little Prior" in Ovsište]] — from socialist showcase via "House of Horror" to the Bratislavský centre
 - [[Zakladna-skola-Zaporozska|Pavilion school on Záporožská (ZŠ Záporožská)]] — the "Bratislava type" school, Vladimír Dedeček
 - [[Most-SNP|SNP Bridge and the UFO (Most SNP)]] — the city's calling card and best lookout

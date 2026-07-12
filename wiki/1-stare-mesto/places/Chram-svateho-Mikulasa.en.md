@@ -5,13 +5,13 @@ domain: religion
 district: 1-stare-mesto
 coords: [48.14307, 17.10319]
 tags: [orthodox, baroque, podhradie, neglected, palffy]
-sources: [mikulas-bratislavskenoviny-2022]
+sources: [mikulas-bratislavskenoviny-2022, mikulas-sanca-bratislavskenoviny-2022]
 updated: 2026-07-12
 ---
 
 # Church of St Nicholas (Chrám sv. Mikuláša)
 
-The Orthodox Church of St Nicholas (Chrám sv. Mikuláša) on Mikulášska street is an early Baroque church of 1661 on the tourist path under the castle — and at the same time one of the city's most neglected treasures: a national cultural monument on the special priority-protection list that has looked forgotten for decades. Above the entrance portal is a relief with the coats of arms of the Pálffy family.
+The Orthodox Church of St Nicholas (Chrám sv. Mikuláša) on Mikulášska street is an early Baroque church of 1661 on the tourist path under the castle — and at the same time one of the city's most neglected treasures: a national cultural monument on the special priority-protection list that has looked forgotten for decades. The church was built in 1661 by Františka Khuen, widow of palatine Pálffy — hence the relief with the Pálffy family arms above the entrance portal.
 
 ![Church of St Nicholas (Chrám sv. Mikuláša)](/assets/chram-svateho-mikulasa.jpg)
 
