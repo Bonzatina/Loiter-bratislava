@@ -4,7 +4,7 @@ type: district
 domain: sights
 coords: [48.14931, 17.16450]
 tags: [bratislava-2, nivy, strkovec]
-updated: 2026-07-07
+updated: 2026-07-12
 ---
 
 # Ružinov (Bratislava II)
@@ -20,6 +20,7 @@ In a red field, a silver wall with two golden-roofed towers and a silver double 
 ## Objects
 
 - [[Plynarenske-muzeum|Slovak Gas Museum (Slovenské plynárenské múzeum)]] — the history of the gas industry on the SPP campus
+- [[Strkovecke-jazero|Štrkovec Lake]] — the gravel-pit lake at the heart of Štrkovec, with Miklánek's camel
 - [[Sportova-hala-Pasienky|Pasienky Sports Hall]] — the 1962 cable roof at Štrkovec
 - [[Park-Andreja-Hlinku|Andrej Hlinka Park]] — Milučký's linear park through Trávniky
 - [[Fontana-pre-Zuzanu|Fountain for Zuzana]] — the 1985 film fountain in a Starý Ružinov courtyard

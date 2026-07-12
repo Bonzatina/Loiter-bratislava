@@ -29,6 +29,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'sk.wikipedia.org':   'Slovak Wikipedia',
     'en.wikipedia.org':   'English Wikipedia',
     'hu.wikipedia.org':   'Hungarian Wikipedia',
+    'cs.wikipedia.org':   'Czech Wikipedia',
     'commons.wikimedia.org': 'Wikimedia Commons',
     'visitbratislava.com': 'Official tourism portal',
     'bratislava.sk':      'Official website of the city of Bratislava',
@@ -46,6 +47,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'sk.wikipedia.org':   'Словацкая Википедия',
     'en.wikipedia.org':   'Английская Википедия',
     'hu.wikipedia.org':   'Венгерская Википедия',
+    'cs.wikipedia.org':   'Чешская Википедия',
     'commons.wikimedia.org': 'Викисклад',
     'visitbratislava.com': 'Официальный туристический портал',
     'bratislava.sk':      'Официальный сайт города Братислава',
@@ -98,6 +100,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('sk.wikipedia.org')}
     ${src('en.wikipedia.org')}
     ${src('hu.wikipedia.org')}
+    ${src('cs.wikipedia.org')}
     ${src('commons.wikimedia.org')}
     ${src('register-architektury.sk')}
     ${src('muzeum.sk')}

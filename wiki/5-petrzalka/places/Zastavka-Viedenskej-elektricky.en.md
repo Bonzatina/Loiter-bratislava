@@ -11,7 +11,7 @@ updated: 2026-07-12
 
 # Vienna Tram Stop (Zastávka Viedenskej električky)
 
-The Vienna Tram Stop (Zastávka Viedenskej električky) on Viedenská cesta, at the edge of [[Sad-Janka-Krala|Janko Kráľ Park]] near the Leberfinger restaurant, is a modest but genuine monument to the era when you could leave Bratislava for Vienna by tram. The legendary Vienna tram (Viedenská električka) stopped here in 1914–1938; after Petržalka's annexation by the Third Reich the connection with Vienna was severed — and was never restored, even after the war.
+The Vienna Tram Stop (Zastávka Viedenskej električky) on Viedenská cesta, at the edge of [[Sad-Janka-Krala|Janko Kráľ Park]] near the [[Leberfinger|Leberfinger]] restaurant, is a modest but genuine monument to the era when you could leave Bratislava for Vienna by tram. The legendary Vienna tram (Viedenská električka) stopped here in 1914–1938; after Petržalka's annexation by the Third Reich the connection with Vienna was severed — and was never restored, even after the war.
 
 ![Vienna Tram Stop (Zastávka Viedenskej električky)](/assets/zastavka-viedenskej-elektricky.jpg)
 

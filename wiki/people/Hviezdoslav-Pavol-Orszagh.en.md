@@ -9,7 +9,7 @@ updated: 2026-07-12
 
 # Pavol Országh Hviezdoslav
 
-Pavol Országh Hviezdoslav (1849–1921) was "the bard of Slovak literature", the greatest Slovak poet and dramatist. He spent his whole life in Orava, yet Bratislava keeps his name more visibly than any other city: it graces the [[Pomnik-Hviezdoslava|square with his monument]] in front of the historic National Theatre building and the [[Divadlo-POH|City Theatre]] on Laurinská.
+Pavol Országh Hviezdoslav (1849–1921) was "the bard of Slovak literature", the greatest Slovak poet and dramatist. He spent his whole life in Orava, yet Bratislava keeps his name more visibly than any other city: it graces the [[Hviezdoslavovo-namestie|square]] with [[Pomnik-Hviezdoslava|his monument]] in front of the historic National Theatre building and the [[Divadlo-POH|City Theatre]] on Laurinská.
 
 ![Pavol Országh Hviezdoslav](/assets/hviezdoslav-portrait.jpg)
 

@@ -152,6 +152,13 @@
 | `obchodna-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75502-obchodna-kedysi-a-dnes-viete-co-stalo-na-mieste-tejto-budovy-v-minulosti | Bratislavské noviny: улица Обходна тогда и сейчас |
 | `pittel-brausewetter-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75652-viete-ktora-firma-postavila-v-bratislave-dynamitku-cvernovku-ci-stollwerck-spoznajte-jej-pribeh | Bratislavské noviny: фирма Pittel & Brausewetter |
 | `fontany-petrzalka-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/75709-zaujimavost-preco-petrzalka-nema-takmer-ziadne-fontany | Bratislavské noviny: почему в Петржалке нет фонтанов |
+| `hviezdoslavovo-namestie-skwiki-2026` | https://sk.wikipedia.org/wiki/Hviezdoslavovo_námestie_(Bratislava) | Словацкая Википедия: Гвездославова площадь — имена и облик |
+| `leberfinger-skwiki-2026` | https://sk.wikipedia.org/wiki/Leberfinger | Словацкая Википедия: ресторан «Леберфингер» |
+| `sladek-skwiki-2026` | https://sk.wikipedia.org/wiki/Milan_Sládek | Словацкая Википедия: Милан Сладек (1938–2024) |
+| `strkovecke-jazero-skwiki-2026` | https://sk.wikipedia.org/wiki/Štrkovecké_jazero | Словацкая Википедия: Штрковецкое озеро |
+| `palugyayov-palac-skwiki-2026` | https://sk.wikipedia.org/wiki/Paluďaiho_palác_(Pražská) | Словацкая Википедия: дворец Палудяи на Пражской |
+| `balan-cswiki-2026` | https://cs.wikipedia.org/wiki/Alois_Balán | Чешская Википедия: Алоис Балан (1891–1960) |
+| `grossmann-cswiki-2026` | https://cs.wikipedia.org/wiki/Jiří_Grossmann_(architekt) | Чешская Википедия: Иржи Гроссманн (1892–1957) |
 
 ## Городские части (mestské časti)
 
@@ -262,6 +269,10 @@
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |
 | [[Muzeum-hodin|Музей часов]] | 1-stare-mesto | Часовщики Прессбурга (цех 1776, Гульдан) в доме «У доброго пастыря» |
+| [[Hviezdoslavovo-namestie|Гвездославова площадь]] | 1-stare-mesto | Главный променад города: от Promenadeplatz до корсо; фонтан, театр, посольства |
+| [[Palugyayov-palac|Дворец Палудяи]] | 1-stare-mesto | Неоренессансная штаб-квартира винной империи (Фейглер-мл., 1873–1879); ныне МИД |
+| [[Leberfinger|Ресторан «Леберфингер»]] | 5-petrzalka | Старейший трактир правого берега; Наполеон, пожар 1992, возрождение 1998 |
+| [[Strkovecke-jazero|Штрковецкое озеро]] | 2-ruzinov | Озеро-«штерковиско» (56 000 м²): купальня до 1989-го, верблюдица Микланека |
 
 ## Кварталы
 
@@ -294,6 +305,9 @@
 | [[Osusky-Stefan|Штефан Осуский]] | Дипломат (1889–1973), подписант Трианона; сохранил Петржалку для Словакии |
 | [[Matej-Korvin|Матяш Корвин]] | Король (1443–1490): Золотая булла Братиславе и Academia Istropolitana |
 | [[Bianchi-Vinzenz|Винценц Бьянки]] | Генерал (1768–1855), защитник предмостья от Наполеона (1809) |
+| [[Sladek-Milan|Милан Сладек]] | Мим мирового имени (1938–2024): Кефка, Кёльн, возрождение «Арены» |
+| [[Balan-Alois|Алоис Балан]] | Чешский архитектор (1891–1960): YMCA, дуэт с Гроссманном, регуляция города |
+| [[Grossmann-Jiri|Иржи Гроссманн]] | Чешский архитектор-урбанист (1892–1957), вторая половина дуэта Балан—Гроссманн |
 
 ## Концепции
 

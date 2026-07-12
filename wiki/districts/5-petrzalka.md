@@ -5,7 +5,7 @@ domain: sights
 coords: [48.11097, 17.11129]
 tags: [right-bank, panelak, socialist-era, bratislava-5]
 sources: [petrzalka-50-bratislavskenoviny-2023, petrzalka-sutaz-bratislavskenoviny-2023, petrzalka-erb-bratislavskenoviny-2023, petrzalka-historia-bratislavskenoviny-2023, psia-kolonia-bratislavskenoviny-2022]
-updated: 2026-07-11
+updated: 2026-07-12
 ---
 
 # Петржалка (Petržalka, Bratislava V)
@@ -33,6 +33,7 @@ updated: 2026-07-11
 - [[Kostol-Povysenia-svateho-Kriza|Костёл Воздвижения Святого Креста]] — «первый костёл Бати в Словакии» (1932), функционализм Карфика
 - [[Zastavka-Viedenskej-elektricky|Остановка венской электрички]] — брусчатка 1914 года у Сада Янко Краля, память маршрута в Вену
 - [[Au-Cafe|Au Café]] — возрождённое кафе 1827 года с видом на град через Дунай
+- [[Leberfinger|Ресторан «Леберфингер»]] — старейший трактир правого берега; среди гостей называют Наполеона
 - [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] — от витрины социализма через «дом ужасов» к ТЦ «Bratislavský»
 - [[Zakladna-skola-Zaporozska|Павильонная школа на Запорожской (ZŠ Záporožská)]] — «братиславский тип» школы, Владимир Дедечек
 - [[Most-SNP|Мост СНП и «НЛО» (Most SNP)]] — визитная карточка города и лучшая смотровая

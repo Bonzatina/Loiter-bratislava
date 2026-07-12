@@ -4,7 +4,7 @@ type: district
 domain: sights
 coords: [48.14931, 17.16450]
 tags: [bratislava-2, nivy, strkovec]
-updated: 2026-07-07
+updated: 2026-07-12
 ---
 
 # Ружинов (Ružinov, Bratislava II)
@@ -20,6 +20,7 @@ updated: 2026-07-07
 ## Объекты
 
 - [[Plynarenske-muzeum|Словацкий газовый музей (Slovenské plynárenské múzeum)]] — история газового дела в кампусе SPP
+- [[Strkovecke-jazero|Штрковецкое озеро]] — озеро-«штерковиско», сердце Штрковца с верблюдицей Микланека
 - [[Sportova-hala-Pasienky|Спортивный зал Пасьенки]] — вантовая кровля 1962 года на Штрковце
 - [[Park-Andreja-Hlinku|Парк Андрея Глинки]] — линейный парк Милучкого сквозь Травники
 - [[Fontana-pre-Zuzanu|«Фонтан для Зузаны»]] — кинофонтан 1985 года во дворе Старого Ружинова
