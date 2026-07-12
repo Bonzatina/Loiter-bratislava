@@ -5,13 +5,13 @@ domain: sights
 district: 1-stare-mesto
 coords: [48.13817, 17.11721]
 tags: [bridge, danube, franz-joseph, tram]
-sources: [stary-most-bratislavskenoviny-2024]
-updated: 2026-07-07
+sources: [stary-most-bratislavskenoviny-2024, viedenska-elektricka-bratislavskenoviny-2022]
+updated: 2026-07-12
 ---
 
 # The Old Bridge (Starý most)
 
-The Old Bridge (Starý most) is Bratislava's first permanent bridge across the Danube and the city's record-holder for the number of names. Until the mid-19th century the city made do with a wooden bridge; construction of the steel one began on 12 August 1889, and already on 30 December 1890 the finished bridge was ceremonially opened by Emperor Franz Joseph I himself, whose name it received (as bronze plaques at the approaches announced). The 460-metre structure on three stone piers cost almost two million gold coins; in 1891 the railway section was completed alongside, and from 1914 the famous "Vienna tram" ran across it.
+The Old Bridge (Starý most) is Bratislava's first permanent bridge across the Danube and the city's record-holder for the number of names. Until the mid-19th century the city made do with a wooden bridge; construction of the steel one began on 12 August 1889, and already on 30 December 1890 the finished bridge was ceremonially opened by Emperor Franz Joseph I himself, whose name it received (as bronze plaques at the approaches announced). The 460-metre structure on three stone piers cost almost two million gold coins; in 1891 the railway section was completed alongside, and from 1914 the famous "Vienna tram" ran across it — its [[Zastavka-Viedenskej-elektricky|surviving stop]] with the original paving can be seen at the edge of [[Sad-Janka-Krala|Janko Kráľ Park]].
 
 ![The Old Bridge before reconstruction](/assets/stary-most.jpg)
 

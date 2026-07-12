@@ -5,13 +5,13 @@ domain: sights
 district: 1-stare-mesto
 coords: [48.14741, 17.11019]
 tags: [street, trade, tram, schondorf, wine]
-sources: [obchodna-bratislavskenoviny-2023, jama-bratislavskenoviny-2022]
+sources: [obchodna-bratislavskenoviny-2023, jama-bratislavskenoviny-2022, biely-dom-bratislavskenoviny-2022]
 updated: 2026-07-12
 ---
 
 # Obchodná Street (Obchodná ulica)
 
-Obchodná ("Trade Street") is one of Bratislava's oldest streets, a bustling shopping-and-tram artery between Hurbanovo námestie and Kollárovo námestie. It was once called Uhorská ("Hungarian") and Schöndorfská — after the suburban village of Schöndorf that stood on this very spot. Its residents were once mostly winegrowers who sold their own wine right in the wide gateway passages of their houses; in 1772 Pressburg's first pawnshop opened on the street, and by 1899 a tram was already running along it.
+Obchodná ("Trade Street") is one of Bratislava's oldest streets, a bustling shopping-and-tram artery between Hurbanovo námestie and Kollárovo námestie. It was once called Uhorská ("Hungarian") and Schöndorfská — after the suburban village of Schöndorf that stood on this very spot. Its residents were once mostly winegrowers who sold their own wine right in the wide gateway passages of their houses; in 1772 Pressburg's first pawnshop opened on the street, and by 1899 a tram was already running along it. The street has a spicy medieval chapter too: somewhere hereabouts stood the White House (Biely dom) — the town's famous brothel, owned by the magistrate itself (its proceeds funded church institutions and hospitals, among other things) and overseen by the town executioner, the "cleanser of the town from evil". The idea was purely practical: crowds of soldiers and journeymen passed through Pressburg, and the townsmen preferred to keep them away from their wives.
 
 ![Obchodná Street (Obchodná ulica)](/assets/obchodna-ulica.jpg)
 

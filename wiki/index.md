@@ -129,6 +129,11 @@
 | `batov-kostol-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/74306-historia-za-takmer-storocny-kostol-vdaci-petrzalka-aj-tomasovi-batovi | Bratislavské noviny: «первый костёл Бати» в Петржалке |
 | `jama-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/74482-pamatate-si-na-oblubenu-jamu-v-centre-bratislavy-takto-tu-raz-cvicili-cinski-sportovci | Bratislavské noviny: «яма» на углу Обходной и Почтовой |
 | `chatam-sofer-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/74892-velka-premena-miesta-kde-stoji-mauzoleum-ch-sofera-porovnajte-si-vyhlad-od-tunela-vtedy-a-dnes | Bratislavské noviny: мавзолей Хатама Софера, вид от тоннеля |
+| `biely-dom-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/71852-bratislavske-legendy-nevestinec-biely-dom | Bratislavské noviny: «Белый дом» — средневековый бордель магистрата |
+| `psia-kolonia-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/72038-historia-zivot-tu-bol-tvrdy-najchudobnejsiu-cast-starej-petrzalky-volali-aj-psia-kolonia | Bratislavské noviny: «Собачья колония» и бедняцкие колонии Петржалки |
+| `viedenska-elektricka-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/72364-zastavka-viedenskej-elektricky-mozete-sa-tadial-previezt-historickym-autobusom | Bratislavské noviny: остановка венской электрички в Саду Янко Краля |
+| `arena-94-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/72429-divadlo-arena-oslavuje-94-rokov | Bratislavské noviny: история «Арены» от амфитеатра Штёгера |
+| `kochova-zahrada-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/historia/73159-s-kochovou-zahradou-oziva-aj-osud-lekara-ktory-sa-musel-vytratit-z-encyklopedii-a-ucebnic | Bratislavské noviny: сад Коха и судьба Карела Коха |
 | `arena-veza-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/73450-na-divadle-arena-pribudla-konstrukcia-novej-veze-patri-k-tejto-pamiatkovej-budove | Bratislavské noviny: башня «Арены», история здания с 1828 года |
 | `mikulas-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/73890-aspon-jedna-dobra-sprava-o-spustnutom-kostoliku-pod-bratislavskym-hradom | Bratislavské noviny: запущенный храм св. Николая под градом |
 | `divadlo-arena-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/74763-divadlo-arena-ma-novu-pristavbu-s-velkymi-oknami-ako-vyzerala-v-minulosti | Bratislavské noviny: реконструкция театра «Арена» |
@@ -235,6 +240,7 @@
 | [[Zelezna-studnicka|Железная студничка]] | 3-nove-mesto | Сердце лесопарка: Фердинандовы купальни (1828), Лебединый павильон, пересаженный платан |
 | [[Kostol-Povysenia-svateho-Kriza|Костёл Воздвижения Святого Креста]] | 5-petrzalka | «Первый костёл Бати в Словакии» (1932): Оканик, Карфик, сборные конструкции |
 | [[Chram-svateho-Mikulasa|Храм святого Николая]] | 1-stare-mesto | Раннебарочный костёлик 1661 года под градом: иконостас Ждановских, ожидание реконструкции |
+| [[Zastavka-Viedenskej-elektricky|Остановка венской электрички]] | 5-petrzalka | Брусчатка 1914 года у Сада Янко Краля; маршрут в Вену, оборванный в 1938-м |
 | [[Amfiteater-Devin|Амфитеатр под градом Девин]] | 4-devin | «Народное театро» Третьего рейха; Всеславянский день 1945 |
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |
@@ -265,6 +271,7 @@
 | [[Stefania-Belgicka|Стефания Бельгийская]] | Принцесса (1864–1945), хозяйка Русовского каштеля; имя кофейни «Штефанка» |
 | [[Lanfranconi-Enea|Энеа Ланфранкони]] | Инженер (1850–1895), регулятор Дуная; имя интерната и моста (с опечаткой) |
 | [[Quastler-Desider|Дезидер Квастлер]] | Архитектор соцжилья (1889–1944), погиб в Освенциме; дом на Рентгеновой |
+| [[Koch-Karel|Карел Кох]] | Хирург и филантроп (1890–1981): санаторий и сад, сопротивление, тюрьма, эмиграция |
 | [[Osusky-Stefan|Штефан Осуский]] | Дипломат (1889–1973), подписант Трианона; сохранил Петржалку для Словакии |
 | [[Matej-Korvin|Матяш Корвин]] | Король (1443–1490): Золотая булла Братиславе и Academia Istropolitana |
 | [[Bianchi-Vinzenz|Винценц Бьянки]] | Генерал (1768–1855), защитник предмостья от Наполеона (1809) |
