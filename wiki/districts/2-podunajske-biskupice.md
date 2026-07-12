@@ -4,7 +4,7 @@ type: district
 domain: sights
 coords: [48.13128, 17.22057]
 tags: [bratislava-2, village, danube-plain]
-updated: 2026-07-07
+updated: 2026-07-13
 ---
 
 # Подунайске-Бискупице (Podunajské Biskupice, Bratislava II)
@@ -20,6 +20,8 @@ updated: 2026-07-07
 ## Объекты
 
 - [[Muzeum-obchodu|Музей торговли (Múzeum obchodu)]] — старинные лавки, реклама и музейная пивоварня
+- [[UFO-socha|Скульптура «НЛО» (UFO)]] — летающая тарелка Юрая Говорки (1970-е) в парке Медзи-ярками
+- [[Rudavskys-Magic-Garden|Волшебный сад Рудавских]] — галерея под открытым небом: 300+ работ среди старых клёнов
 
 ## См. также
 

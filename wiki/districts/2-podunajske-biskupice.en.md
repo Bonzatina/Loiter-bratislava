@@ -4,7 +4,7 @@ type: district
 domain: sights
 coords: [48.13128, 17.22057]
 tags: [bratislava-2, village, danube-plain]
-updated: 2026-07-07
+updated: 2026-07-13
 ---
 
 # Podunajské Biskupice (Bratislava II)
@@ -20,6 +20,8 @@ In a red field, on a green base, the figure of an archbishop in silver vestments
 ## Objects
 
 - [[Muzeum-obchodu|Museum of Trade (Múzeum obchodu)]] — historic shops, advertising and a museum brewery
+- [[UFO-socha|UFO Sculpture]] — Juraj Hovorka's flying saucer (1970s) in the Medzi jarkami park
+- [[Rudavskys-Magic-Garden|Rudavskys Magic Garden]] — an open-air gallery: 300+ works among old maples
 
 ## See Also
 

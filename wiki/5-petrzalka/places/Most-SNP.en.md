@@ -24,6 +24,7 @@ The UFO observation deck is open daily (the ticket counts towards the restaurant
 ## See Also
 
 - [[postwar-modernism|Post-war modernism]]
+- [[UFO-socha|UFO Sculpture]] — the city's other flying saucer, in Biskupice
 - [[Vydrica]] — the quarter erased by the bridge's construction
 - [[Muzeum-zidovskej-kultury|Museum of Jewish Culture]] — the memory of demolished Podhradie
 - [[5-petrzalka|Petržalka]] and [[1-stare-mesto|Staré Mesto]] — the bridge's two banks

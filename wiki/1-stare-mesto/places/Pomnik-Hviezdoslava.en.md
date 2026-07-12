@@ -11,7 +11,7 @@ updated: 2026-07-12
 
 # Hviezdoslav Monument (Pomník P. O. Hviezdoslava)
 
-The monument to [[Hviezdoslav-Pavol-Orszagh|Pavol Országh Hviezdoslav]] (Pomník P. O. Hviezdoslava) is the bronze poet sitting deep in thought, pen over an open book, in the middle of [[Hviezdoslavovo-namestie|the square that bears his name]], between the historic National Theatre building and the embankment. Its authors are sculptors Vojtech Ihriský and Jozef Pospíšil (the same who made Bajza's tomb in the [[Dom-svateho-Martina|cathedral]]), with the architectural setting by Július Lehocký; the statue was cast by K. Barták's Prague firm.
+The monument to [[Hviezdoslav-Pavol-Orszagh|Pavol Országh Hviezdoslav]] (Pomník P. O. Hviezdoslava) is the bronze poet sitting deep in thought, pen over an open book, in the middle of [[Hviezdoslavovo-namestie|the square that bears his name]], between the [[Historicka-budova-SND|historic National Theatre building]] and the embankment. Its authors are sculptors Vojtech Ihriský and Jozef Pospíšil (the same who made Bajza's tomb in the [[Dom-svateho-Martina|cathedral]]), with the architectural setting by Július Lehocký; the statue was cast by K. Barták's Prague firm.
 
 ![Hviezdoslav Monument (Pomník P. O. Hviezdoslava)](/assets/pomnik-hviezdoslava.jpg)
 

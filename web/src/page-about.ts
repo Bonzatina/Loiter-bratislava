@@ -40,6 +40,9 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'divadelneprechadzky.theatre.sk': 'Theatre walks project of the Theatre Institute',
     'umeniemesta.sk':     'Database of art in public space',
     'bratislavastory.com': 'Blog of Bratislava city stories',
+    'citylife.sk':        'Bratislava events guide',
+    'vopz.sk':            'Open Parks and Gardens Weekend portal',
+    'fotorado.sk':        'Photo blog about Slovakia',
     'vypadni.sk':         'Slovak trip-ideas portal',
     'dubravka.sk':        'Official website of the Dúbravka borough',
     'bratislava.dnes24.sk': 'Bratislava news portal',
@@ -58,6 +61,9 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'divadelneprechadzky.theatre.sk': 'Театральные прогулки Театрального института',
     'umeniemesta.sk':     'База данных искусства в общественном пространстве',
     'bratislavastory.com': 'Блог городских историй Братиславы',
+    'citylife.sk':        'Афиша событий Братиславы',
+    'vopz.sk':            'Портал «Викенда открытых парков и садов»',
+    'fotorado.sk':        'Фотоблог о Словакии',
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
     'dubravka.sk':        'Официальный сайт городской части Дубравка',
     'bratislava.dnes24.sk': 'Новостной портал Братиславы',
@@ -108,6 +114,9 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('pozsonyikifli.sk')}
     ${src('umeniemesta.sk')}
     ${src('bratislavastory.com')}
+    ${src('citylife.sk')}
+    ${src('vopz.sk')}
+    ${src('fotorado.sk')}
     ${src('vypadni.sk')}
     ${src('dubravka.sk')}
     ${src('bratislava.dnes24.sk')}

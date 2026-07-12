@@ -159,6 +159,16 @@
 | `palugyayov-palac-skwiki-2026` | https://sk.wikipedia.org/wiki/Paluďaiho_palác_(Pražská) | Словацкая Википедия: дворец Палудяи на Пражской |
 | `balan-cswiki-2026` | https://cs.wikipedia.org/wiki/Alois_Balán | Чешская Википедия: Алоис Балан (1891–1960) |
 | `grossmann-cswiki-2026` | https://cs.wikipedia.org/wiki/Jiří_Grossmann_(architekt) | Чешская Википедия: Иржи Гроссманн (1892–1957) |
+| `snd-budova-skwiki-2026` | https://sk.wikipedia.org/wiki/Historická_budova_Slovenského_národného_divadla | Словацкая Википедия: историческое здание СНТ |
+| `hotel-carlton-skwiki-2026` | https://sk.wikipedia.org/wiki/Hotel_Radisson_Blu_Carlton | Словацкая Википедия: отель «Карлтон» |
+| `lasica-skwiki-2026` | https://sk.wikipedia.org/wiki/Milan_Lasica | Словацкая Википедия: Милан Ласица (1940–2021) |
+| `ufo-socha-skwiki-2026` | https://sk.wikipedia.org/wiki/UFO_(socha) | Словацкая Википедия: скульптура «НЛО» в Бискупицах |
+| `ufo-pamatihodnosti-dnes24-2022` | http://bratislava.dnes24.sk/bratislava-nema-iba-jedno-ufo-konecne-sa-aj-to-druhe-dostalo-do-doleziteho-zoznamu-417597 | Dnes24: «НЛО» в списке памятных объектов города |
+| `ufo-fotorado-2026` | https://fotorado.sk/portfolio/socha-ufo-bratislava-podunajske-biskupice/ | Fotorado: скульптура «НЛО» и фильм 1982 года |
+| `pentagon-skwiki-2026` | https://sk.wikipedia.org/wiki/Pentagon_(Bratislava) | Словацкая Википедия: дом «Пентагон» во Вракуне |
+| `vrakuna-skwiki-2026` | https://sk.wikipedia.org/wiki/Bratislava_–_mestská_časť_Vrakuňa | Словацкая Википедия: городская часть Вракуня |
+| `rudavsky-garden-vopz-2026` | https://www.vopz.sk/park/18385-rudavskys-magic-garden | Викенд открытых парков и садов: сад Рудавских |
+| `rudavsky-garden-citylife-2026` | https://www.citylife.sk/expozicia/rudavskys-magic-garden | Citylife: сад Рудавских — часы работы и контекст |
 
 ## Городские части (mestské časti)
 
@@ -167,6 +177,7 @@
 | [[1-stare-mesto|Старе-Место (Staré Mesto, Bratislava I)]] | Историческое ядро города на левом берегу Дуная |
 | [[2-ruzinov|Ружинов (Ružinov, Bratislava II)]] | Восток: панельные кварталы, озёра и деловые Нивы |
 | [[2-podunajske-biskupice|Подунайске-Бискупице (Bratislava II)]] | Юго-восточная окраина, бывшее архиепископское село |
+| [[2-vrakuna|Вракуня (Vrakuňa, Bratislava II)]] | Восточная часть на Малом Дунае: бывшее село и панельный массив |
 | [[3-nove-mesto|Нове-Место (Nové Mesto, Bratislava III)]] | Северо-восточный пояс: от доходных кварталов до Колибы и Камзика |
 | [[3-raca|Рача (Rača, Bratislava III)]] | Винодельческое село под Малыми Карпатами и колония Рендез |
 | [[4-lamac|Ламач (Lamač, Bratislava IV)]] | Бывшее село в седловине Малых Карпат |
@@ -273,6 +284,11 @@
 | [[Palugyayov-palac|Дворец Палудяи]] | 1-stare-mesto | Неоренессансная штаб-квартира винной империи (Фейглер-мл., 1873–1879); ныне МИД |
 | [[Leberfinger|Ресторан «Леберфингер»]] | 5-petrzalka | Старейший трактир правого берега; Наполеон, пожар 1992, возрождение 1998 |
 | [[Strkovecke-jazero|Штрковецкое озеро]] | 2-ruzinov | Озеро-«штерковиско» (56 000 м²): купальня до 1989-го, верблюдица Микланека |
+| [[Historicka-budova-SND|Историческое здание СНТ]] | 1-stare-mesto | Неоренессанс Фелльнера и Хельмера (1886); Талия Фридля, драма бюстов |
+| [[Hotel-Carlton|Отель «Карлтон»]] | 1-stare-mesto | От трактира «У лебедя» (XIII в.) до Savoy-Carlton; первое кино Словакии (1905) |
+| [[UFO-socha|Скульптура «НЛО»]] | 2-podunajske-biskupice | Тарелка Говорки (1970-е) в Медзи-ярками; фильм 1982 года, список памятных объектов |
+| [[Pentagon|«Пентагон»]] | 2-vrakuna | Пять корпусов Светко и Дюрковича (1970–1972): самый недобрый адрес города |
+| [[Rudavskys-Magic-Garden|Волшебный сад Рудавских]] | 2-podunajske-biskupice | Галерея под открытым небом (1960-е): 300+ работ, «галандовцы», Ондрей Рудавский |
 
 ## Кварталы
 
@@ -308,6 +324,7 @@
 | [[Sladek-Milan|Милан Сладек]] | Мим мирового имени (1938–2024): Кефка, Кёльн, возрождение «Арены» |
 | [[Balan-Alois|Алоис Балан]] | Чешский архитектор (1891–1960): YMCA, дуэт с Гроссманном, регуляция города |
 | [[Grossmann-Jiri|Иржи Гроссманн]] | Чешский архитектор-урбанист (1892–1957), вторая половина дуэта Балан—Гроссманн |
+| [[Lasica-Milan|Милан Ласица]] | Юморист и актёр (1940–2021): дуэт с Сатинским, Студия L+S, смерть на сцене |
 
 ## Концепции
 

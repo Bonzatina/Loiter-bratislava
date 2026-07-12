@@ -4,7 +4,7 @@ type: district
 domain: sights
 coords: [48.14370, 17.10820]
 tags: [old-town, historic-core, bratislava-1]
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Staré Mesto (Old Town, Bratislava I)
@@ -60,6 +60,8 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Budova-YMCA|YMCA Building (Budova YMCA)]] — continental Europe's first YMCA house, cradle of Slovak basketball
 - [[Obchodny-dom-Teta|TETA Department Store]] — the city's first department store (1929) and the legendary Teta grocery
 - [[Hviezdoslavovo-namestie|Hviezdoslav Square]] — the city's main promenade: from Promenadeplatz to today's corso
+- [[Historicka-budova-SND|Historic SND Building]] — Fellner & Helmer's neo-renaissance (1886), home of the opera
+- [[Hotel-Carlton|Carlton Hotel]] — eight centuries of innkeeping: from At the Swan to the Savoy-Carlton
 - [[Pomnik-Hviezdoslava|The Hviezdoslav Monument]] — the bronze poet on the square that bears his name (1937)
 - [[Palugyayov-palac|Palugyay Palace]] — the neo-renaissance headquarters of a wine empire (1873–1879), now the Foreign Ministry
 - [[Lekaren-u-Salvatora|The Salvator Pharmacy]] — Rigele's Saviour and the returned Jesuit furnishings of 1727
