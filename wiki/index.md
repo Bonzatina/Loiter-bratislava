@@ -123,6 +123,15 @@
 | `dunaj-brouk-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/76756-ikonicky-obchodny-dom-postavili-za-pat-mesiacov-osud-jeho-zakladatela-bol-vsak-smutny | Bratislavské noviny: «Дунай» за 5 месяцев и судьба Ярослава Брука |
 | `zuckermandel-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75253-premeny-v-podhradi-z-velkych-planov-zostali-tri-veziaky-potom-sa-vsak-priestor-zaplnil | Bratislavské noviny: Цукермандель и три башни Подградья |
 | `bianchi-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/75325-historia-poznate-pribeh-generala-ktory-ubranil-presporske-predmostie-pred-napoleonom | Bratislavské noviny: генерал Бьянки и предмостье 1809 года |
+| `katedrala-martina-skwiki-2026` | https://sk.wikipedia.org/wiki/Katedrála_svätého_Martina_(Bratislava) | Словацкая Википедия: собор св. Мартина — история, интерьер, колокола |
+| `zelezna-studnicka-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/nove-mesto/73994-videli-ste-labuti-pavilon-na-zeleznej-studnicke-ma-uz-vezu | Bratislavské noviny: Лебединый павильон на Железной студничке |
+| `krypty-dom-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/74462-k-tajomnym-kryptam-do-podzemia-domu-sv-martina-mozete-zajst-aj-dnes | Bratislavské noviny: крипты собора св. Мартина и Мартинеум |
+| `batov-kostol-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/74306-historia-za-takmer-storocny-kostol-vdaci-petrzalka-aj-tomasovi-batovi | Bratislavské noviny: «первый костёл Бати» в Петржалке |
+| `jama-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/74482-pamatate-si-na-oblubenu-jamu-v-centre-bratislavy-takto-tu-raz-cvicili-cinski-sportovci | Bratislavské noviny: «яма» на углу Обходной и Почтовой |
+| `chatam-sofer-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/historia/74892-velka-premena-miesta-kde-stoji-mauzoleum-ch-sofera-porovnajte-si-vyhlad-od-tunela-vtedy-a-dnes | Bratislavské noviny: мавзолей Хатама Софера, вид от тоннеля |
+| `arena-veza-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/73450-na-divadle-arena-pribudla-konstrukcia-novej-veze-patri-k-tejto-pamiatkovej-budove | Bratislavské noviny: башня «Арены», история здания с 1828 года |
+| `mikulas-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/73890-aspon-jedna-dobra-sprava-o-spustnutom-kostoliku-pod-bratislavskym-hradom | Bratislavské noviny: запущенный храм св. Николая под градом |
+| `divadlo-arena-bratislavskenoviny-2022` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/74763-divadlo-arena-ma-novu-pristavbu-s-velkymi-oknami-ako-vyzerala-v-minulosti | Bratislavské noviny: реконструкция театра «Арена» |
 | `obchodna-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75502-obchodna-kedysi-a-dnes-viete-co-stalo-na-mieste-tejto-budovy-v-minulosti | Bratislavské noviny: улица Обходна тогда и сейчас |
 | `pittel-brausewetter-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/stare-mesto/75652-viete-ktora-firma-postavila-v-bratislave-dynamitku-cvernovku-ci-stollwerck-spoznajte-jej-pribeh | Bratislavské noviny: фирма Pittel & Brausewetter |
 | `fontany-petrzalka-bratislavskenoviny-2023` | https://www.bratislavskenoviny.sk/aktuality/petrzalka/75709-zaujimavost-preco-petrzalka-nema-takmer-ziadne-fontany | Bratislavské noviny: почему в Петржалке нет фонтанов |
@@ -220,6 +229,12 @@
 | [[Stara-trznica|Старая тржница]] | 1-stare-mesto | Крытый рынок (1910) на месте Хлебного рынка и костёла св. Лаврентия |
 | [[Kupele-Grossling|Купальни Грёсслинг]] | 1-stare-mesto | Бани 1895 года; реконструкция OPPS Architettura к ~2027 |
 | [[Obchodna-ulica|Улица Обходна]] | 1-stare-mesto | Старинная торговая улица: Шёндорф, виноградари, ломбард 1772 года, витрины Стахо |
+| [[Divadlo-Arena|Театр «Арена»]] | 5-petrzalka | Исторический театр 1828 года на Тыршовой набережной; реконструкция 2022 года «в облик 1939-го» |
+| [[Mauzoleum-Chatama-Sofera|Мавзолей Хатама Софера]] | 1-stare-mesto | Могила великого раввина на месте старейшего еврейского кладбища; ансамбль Квасницы (2002) |
+| [[Dom-svateho-Martina|Собор святого Мартина]] | 1-stare-mesto | Коронационный храм (19 коронаций); готика Пухспаума, барокко Доннера, крипты, Мартинеум |
+| [[Zelezna-studnicka|Железная студничка]] | 3-nove-mesto | Сердце лесопарка: Фердинандовы купальни (1828), Лебединый павильон, пересаженный платан |
+| [[Kostol-Povysenia-svateho-Kriza|Костёл Воздвижения Святого Креста]] | 5-petrzalka | «Первый костёл Бати в Словакии» (1932): Оканик, Карфик, сборные конструкции |
+| [[Chram-svateho-Mikulasa|Храм святого Николая]] | 1-stare-mesto | Раннебарочный костёлик 1661 года под градом: иконостас Ждановских, ожидание реконструкции |
 | [[Amfiteater-Devin|Амфитеатр под градом Девин]] | 4-devin | «Народное театро» Третьего рейха; Всеславянский день 1945 |
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |

@@ -3,7 +3,7 @@ title: The Dunajčík Boathouse (Lodenica Dunajčík)
 type: place
 domain: culture
 district: 5-petrzalka
-coords: [48.13251, 17.13249]
+coords: [48.13581, 17.12401]
 tags: [paddling, club, danube, ovsiste, tradition]
 sources: [dunajcik-bratislavskenoviny-2024]
 updated: 2026-07-07

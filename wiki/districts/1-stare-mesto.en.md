@@ -54,6 +54,9 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Michalska-veza|Michael's Tower (Michalská veža)]] — the only surviving city gate, restored 2021–2023
 - [[Stara-trznica|The Old Market Hall (Stará tržnica)]] — the 1910 covered market on the site of the Bread Market
 - [[Obchodna-ulica|Obchodná Street]] — the old trade street: Schöndorf's winegrowers, the 1772 pawnshop, trams since 1899
+- [[Mauzoleum-Chatama-Sofera|Chatam Sofer Mausoleum]] — the shrine by the tunnel on the site of the oldest Jewish cemetery (2002)
+- [[Dom-svateho-Martina|St Martin's Cathedral (Dóm sv. Martina)]] — the coronation church with crypts six metres underground
+- [[Chram-svateho-Mikulasa|Church of St Nicholas (Chrám sv. Mikuláša)]] — neglected 1661 Baroque on Mikulášska, awaiting its revival
 - [[Kupele-Grossling|The Grössling Baths]] — the 1895 baths awaiting their second life (~2027)
 
 ## Museums

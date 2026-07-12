@@ -26,6 +26,7 @@ In a red field, a silver building with a central turret — a historic curia of 
 - [[Obchodne-stredisko-Slimak|Slimák shopping centre]] — Matušík's circular "snail" (1964)
 - [[Trznica|Market Hall at Trnavské mýto]] — Matušík's glazed market (1983)
 - [[Olympijske-muzeum|Slovak Olympic and Sports Museum]] — in the House of Sport at Pasienky
+- [[Zelezna-studnicka|Železná studnička]] — the forest park's heart: the Ferdinand Baths (1828) and the Swan Pavilion being revived
 
 ## See Also
 

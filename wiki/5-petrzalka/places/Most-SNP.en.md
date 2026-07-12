@@ -15,7 +15,7 @@ The Bridge of the Slovak National Uprising (Most SNP) is Bratislava's calling ca
 
 ![The SNP Bridge with the UFO and panelák Petržalka beyond](/assets/most-snp.jpg)
 
-The daring of the structure is inseparable from a trauma: to make way for the motorway to the bridge, almost all of Podhradie was demolished — legendary [[Vydrica]] and the old Jewish quarter by St Martin's Cathedral (the [[Muzeum-zidovskej-kultury|Museum of Jewish Culture]] on the surviving Židovská street keeps its memory). The urban decision is cursed to this day, but the bridge itself has long been recognised as an outstanding work of engineering and [[postwar-modernism|late modernism]] — and the city's great "alien" silhouette.
+The daring of the structure is inseparable from a trauma: to make way for the motorway to the bridge, almost all of Podhradie was demolished — legendary [[Vydrica]] and the old Jewish quarter by [[Dom-svateho-Martina|St Martin's Cathedral]] (the [[Muzeum-zidovskej-kultury|Museum of Jewish Culture]] on the surviving Židovská street keeps its memory). The urban decision is cursed to this day, but the bridge itself has long been recognised as an outstanding work of engineering and [[postwar-modernism|late modernism]] — and the city's great "alien" silhouette.
 
 ## Practical Information
 
