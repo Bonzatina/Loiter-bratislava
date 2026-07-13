@@ -5,8 +5,8 @@ domain: architecture
 district: 1-stare-mesto
 coords: [48.14511, 17.11477]
 tags: [postwar-modernism, department-store, hotel, kamenne-namestie]
-sources: [prior-kyjev-register-architektury-2026, matusik-enwiki-2026]
-updated: 2026-07-07
+sources: [prior-kyjev-register-architektury-2026, matusik-enwiki-2026, socialist-architecture-welcometobratislava-2026, brutalism-parallaxaview-2026]
+updated: 2026-07-13
 ---
 
 # Prior Department Store and Kyjev Hotel (Prior a hotel Kyjev)
@@ -15,7 +15,7 @@ The complex of the Prior department store with the Kyjev Hotel (Prior a hotel Ky
 
 ![The Kamenné Square complex: the base and the Kyjev Hotel tower](/assets/prior-kyjev.jpg)
 
-The register of architecture describes the complex as a "generously modern spirit" with "simple dignity", balancing the bustle of the square. The department store still works (after Prior it housed Tesco and MY), the hotel is a recognisable silhouette on the skyline; developers and heritage defenders have argued for years over the future of the complex and all of Kamenné Square.
+Prior opened on 20 November 1968 as Czechoslovakia's first mall-type department store — with Slovakia's first escalators, moving up to six thousand people an hour; the triangular foundation stone carved with the word PRIOR still lies before the entrance, and a memorial plaque with an embossed plan of the complex keeps Matušík's name. The Kyjev Hotel was conceived under the impression of Arne Jacobsen's SAS Royal Hotel in Copenhagen — down to the turning staircase inside; the 65-metre, 15-storey slab remains one of the city's tallest buildings. From the department store's wall sounds a carillon of twelve bells, whose loud, slightly psychedelic peal every resident of the centre knows by heart. The register of architecture describes the complex as a "generously modern spirit" with "simple dignity", balancing the bustle of the square. The department store still works (after Prior it housed Tesco and MY), the hotel is a recognisable silhouette on the skyline; developers and heritage defenders have argued for years over the future of the complex and all of Kamenné Square.
 
 ## See Also
 

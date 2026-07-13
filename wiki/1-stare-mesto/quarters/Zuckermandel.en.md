@@ -15,10 +15,11 @@ Zuckermandel is the second of the Podhradie's lost quarters, a medieval settleme
 
 ![A tram against the backdrop of Zuckermandel being demolished, with the estate's first tower, 1960s](/assets/zuckermandel.jpg)
 
-Demolition began in 1949 and was completed in the 1970s, during the construction of the [[Most-SNP|SNP Bridge]]. A "representative housing estate Podhradie" was planned for the site — 859 flats for 3,850 residents in buildings of assembled cast concrete with glass-mosaic facades — but after three 13-storey towers by the tram tunnel (the first in 1964, all three by April 1967, 168 flats) the plans were revised and the project died. Half a century later the wasteland was filled by a new quarter that took the old name: Zuckermandel-2017 with housing, offices and cafés. Its centre is F. X. Messerschmidt Square, almost on the site of old Mockovo námestie, with replicas of seven "character heads" by the baroque sculptor (1736–1783), who lived and worked on Zuckermandel itself.
+Demolition began in 1949 and was completed in the 1970s, during the construction of the [[Most-SNP|SNP Bridge]]. A "representative housing estate Podhradie" was planned for the site — 859 flats for 3,850 residents in buildings of assembled cast concrete with glass-mosaic facades — but after three 13-storey towers by the tram tunnel (the first in 1964, all three by April 1967, 168 flats) the plans were revised and the project died. Half a century later the wasteland was filled by a new quarter that took the old name: Zuckermandel-2017 with housing, offices and cafés. Its centre is F. X. Messerschmidt Square, almost on the site of old Mockovo námestie, with replicas of seven "character heads" by the [[Messerschmidt-Franz-Xaver|baroque sculptor]] (1736–1783), who lived and worked on Zuckermandel itself.
 
 ## See Also
 
+- [[Messerschmidt-Franz-Xaver|Franz Xaver Messerschmidt]] — the quarter's most famous resident
 - [[Vydrica]] — its twin in fate, the neighbouring Podhradie quarter
 - [[Most-SNP|SNP Bridge]] — the construction that completed the demolition
 - [[Muzeum-hodin|The Museum of Clocks]] and the Žižkova curias — the surviving fragments

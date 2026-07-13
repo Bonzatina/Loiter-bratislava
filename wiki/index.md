@@ -169,6 +169,15 @@
 | `vrakuna-skwiki-2026` | https://sk.wikipedia.org/wiki/Bratislava_–_mestská_časť_Vrakuňa | Словацкая Википедия: городская часть Вракуня |
 | `rudavsky-garden-vopz-2026` | https://www.vopz.sk/park/18385-rudavskys-magic-garden | Викенд открытых парков и садов: сад Рудавских |
 | `rudavsky-garden-citylife-2026` | https://www.citylife.sk/expozicia/rudavskys-magic-garden | Citylife: сад Рудавских — часы работы и контекст |
+| `messerschmidt-enwiki-2026` | https://en.wikipedia.org/wiki/Franz_Xaver_Messerschmidt | Английская Википедия: Ф. К. Мессершмидт (1736–1783) |
+| `messerschmidt-bratislavaden-2026` | https://bratislavaden.sk/svetovy-sochar-franz-xaver-messerschmidt-zanechal-v-presporku-hlboku-stopu-sucasnici-ho-povazovali-za-posadnuteho/ | Bratislavaden: Мессершмидт в Прессбурге — головы, легенды, наследие |
+| `dve-ufo-bratislavaden-2026` | https://bratislavaden.sk/1-bratislava-ma-dve-ufo-jedno-nad-dunajom-druhe-ukryte-medzi-panelakmi/ | Bratislavaden: два «НЛО» города — башня моста СНП и тарелка Бискупиц |
+| `namestie-slobody-skwiki-2026` | https://sk.wikipedia.org/wiki/Námestie_slobody_(Bratislava) | Словацкая Википедия: площадь Свободы и фонтан «Дружба» |
+| `socialist-architecture-welcometobratislava-2026` | https://www.welcometobratislava.eu/socialist-architecture-bratislava/ | Welcome to Bratislava: маршрут по соцархитектуре города |
+| `brutalism-parallaxaview-2026` | https://parallaxaview.com/bratislava-brutalism/ | ParallaxaView: братиславский брутализм — центр города |
+| `slavicie-udolie-bratislavaden-2026` | https://bratislavaden.sk/najvacsi-cintorin-bratislavy-lezi-v-slavicom-udoli-odpociva/ | Bratislavaden: крупнейшее кладбище города в Славичьем удолье |
+| `vodarenske-muzeum-bratislavaden-2026` | https://bratislavaden.sk/tip-na-vylet-vodarenske-muzeum-ma-mnoho-zaujimavosti-v-krasnej-zahrade-su-cez-leto-cvicenia-zdarma/ | Bratislavaden: Водопроводный музей и Водопроводный сад |
+| `sihot-bratislavaden-2026` | https://bratislavaden.sk/ostrov-sihot-zasobuje-bratislavcanov-pitnou-vodou-viac-ako-100-rokov-mame-unikatny-zaber-na-prvu-studnu/ | Bratislavaden: остров Сихоть и первый колодец 1884 года |
 
 ## Городские части (mestské časti)
 
@@ -289,6 +298,9 @@
 | [[UFO-socha|Скульптура «НЛО»]] | 2-podunajske-biskupice | Тарелка Говорки (1970-е) в Медзи-ярками; фильм 1982 года, список памятных объектов |
 | [[Pentagon|«Пентагон»]] | 2-vrakuna | Пять корпусов Светко и Дюрковича (1970–1972): самый недобрый адрес города |
 | [[Rudavskys-Magic-Garden|Волшебный сад Рудавских]] | 2-podunajske-biskupice | Галерея под открытым небом (1960-е): 300+ работ, «галандовцы», Ондрей Рудавский |
+| [[Namestie-slobody|Площадь Свободы]] | 1-stare-mesto | Бетонный «Фиршнал»: фонтан «Дружба», Готтвальд (взорван в 1990), обновление 2023 |
+| [[Slovensky-rozhlas|Здание Словацкого радио]] | 1-stare-mesto | Перевёрнутая пирамида Светко (1967–1983): «стройка века», орган, галерея |
+| [[Cintorin-Slavicie-udolie|Кладбище Славичье удолье]] | 1-stare-mesto | Крупнейшее кладбище города (1912, 18,5 га): Дубчек, Ласица, Кронер, Попп |
 
 ## Кварталы
 
@@ -325,6 +337,7 @@
 | [[Balan-Alois|Алоис Балан]] | Чешский архитектор (1891–1960): YMCA, дуэт с Гроссманном, регуляция города |
 | [[Grossmann-Jiri|Иржи Гроссманн]] | Чешский архитектор-урбанист (1892–1957), вторая половина дуэта Балан—Гроссманн |
 | [[Lasica-Milan|Милан Ласица]] | Юморист и актёр (1940–2021): дуэт с Сатинским, Студия L+S, смерть на сцене |
+| [[Messerschmidt-Franz-Xaver|Франц Ксавер Мессершмидт]] | Скульптор «характерных голов» (1736–1783): Цукермандель, «дух пропорций» |
 
 ## Концепции
 

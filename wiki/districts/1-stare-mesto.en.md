@@ -66,6 +66,9 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Palugyayov-palac|Palugyay Palace]] — the neo-renaissance headquarters of a wine empire (1873–1879), now the Foreign Ministry
 - [[Lekaren-u-Salvatora|The Salvator Pharmacy]] — Rigele's Saviour and the returned Jesuit furnishings of 1727
 - [[Kupele-Grossling|The Grössling Baths]] — the 1895 baths awaiting their second life (~2027)
+- [[Namestie-slobody|Freedom Square]] — the concrete "Firšnál" with the city's largest fountain, Družba
+- [[Slovensky-rozhlas|Slovak Radio Building]] — the upside-down steel pyramid (1967–1983)
+- [[Cintorin-Slavicie-udolie|Slávičie údolie Cemetery]] — the city's largest: Dubček, Lasica, the Slovak pantheon
 
 ## Museums
 

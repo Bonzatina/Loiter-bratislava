@@ -32,10 +32,12 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'cs.wikipedia.org':   'Czech Wikipedia',
     'commons.wikimedia.org': 'Wikimedia Commons',
     'visitbratislava.com': 'Official tourism portal',
+    'welcometobratislava.eu': 'Independent Bratislava guide',
     'bratislava.sk':      'Official website of the city of Bratislava',
     'register-architektury.sk': 'Register of modern Slovak architecture',
     'muzeum.sk':          'Directory of Slovak museums',
     'bratislavskenoviny.sk': 'Bratislava city newspaper',
+    'bratislavaden.sk':   'Bratislava online news site',
     'pozsonyikifli.sk':   'Local-history journal about Bratislava',
     'divadelneprechadzky.theatre.sk': 'Theatre walks project of the Theatre Institute',
     'umeniemesta.sk':     'Database of art in public space',
@@ -43,6 +45,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'citylife.sk':        'Bratislava events guide',
     'vopz.sk':            'Open Parks and Gardens Weekend portal',
     'fotorado.sk':        'Photo blog about Slovakia',
+    'parallaxaview.com':  'Travel and architecture photo blog',
     'vypadni.sk':         'Slovak trip-ideas portal',
     'dubravka.sk':        'Official website of the Dúbravka borough',
     'bratislava.dnes24.sk': 'Bratislava news portal',
@@ -53,10 +56,12 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'cs.wikipedia.org':   'Чешская Википедия',
     'commons.wikimedia.org': 'Викисклад',
     'visitbratislava.com': 'Официальный туристический портал',
+    'welcometobratislava.eu': 'Независимый путеводитель по Братиславе',
     'bratislava.sk':      'Официальный сайт города Братислава',
     'register-architektury.sk': 'Реестр современной словацкой архитектуры',
     'muzeum.sk':          'Каталог музеев Словакии',
     'bratislavskenoviny.sk': 'Городская газета Братиславы',
+    'bratislavaden.sk':   'Городское онлайн-издание Братиславы',
     'pozsonyikifli.sk':   'Краеведческий журнал о Братиславе',
     'divadelneprechadzky.theatre.sk': 'Театральные прогулки Театрального института',
     'umeniemesta.sk':     'База данных искусства в общественном пространстве',
@@ -64,6 +69,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'citylife.sk':        'Афиша событий Братиславы',
     'vopz.sk':            'Портал «Викенда открытых парков и садов»',
     'fotorado.sk':        'Фотоблог о Словакии',
+    'parallaxaview.com':  'Фотоблог о путешествиях и архитектуре',
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
     'dubravka.sk':        'Официальный сайт городской части Дубравка',
     'bratislava.dnes24.sk': 'Новостной портал Братиславы',
@@ -102,6 +108,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
 
   <ul class="sources-list">
     ${src('visitbratislava.com')}
+    ${src('welcometobratislava.eu')}
     ${src('bratislava.sk')}
     ${src('sk.wikipedia.org')}
     ${src('en.wikipedia.org')}
@@ -111,12 +118,14 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('register-architektury.sk')}
     ${src('muzeum.sk')}
     ${src('bratislavskenoviny.sk')}
+    ${src('bratislavaden.sk')}
     ${src('pozsonyikifli.sk')}
     ${src('umeniemesta.sk')}
     ${src('bratislavastory.com')}
     ${src('citylife.sk')}
     ${src('vopz.sk')}
     ${src('fotorado.sk')}
+    ${src('parallaxaview.com')}
     ${src('vypadni.sk')}
     ${src('dubravka.sk')}
     ${src('bratislava.dnes24.sk')}
