@@ -178,6 +178,13 @@
 | `slavicie-udolie-bratislavaden-2026` | https://bratislavaden.sk/najvacsi-cintorin-bratislavy-lezi-v-slavicom-udoli-odpociva/ | Bratislavaden: крупнейшее кладбище города в Славичьем удолье |
 | `vodarenske-muzeum-bratislavaden-2026` | https://bratislavaden.sk/tip-na-vylet-vodarenske-muzeum-ma-mnoho-zaujimavosti-v-krasnej-zahrade-su-cez-leto-cvicenia-zdarma/ | Bratislavaden: Водопроводный музей и Водопроводный сад |
 | `sihot-bratislavaden-2026` | https://bratislavaden.sk/ostrov-sihot-zasobuje-bratislavcanov-pitnou-vodou-viac-ako-100-rokov-mame-unikatny-zaber-na-prvu-studnu/ | Bratislavaden: остров Сихоть и первый колодец 1884 года |
+| `pentagon-zmena-bratislavaden-2026` | https://bratislavaden.sk/pentagon-uz-nie-je-cim-byval-obyvatelia-aj-starosta-citia-zmenu-nejde-uz-o-miesto-drog-a-kriminality/ | Bratislavaden: «Пентагон» уже не тот — перелом к лучшему |
+| `most-snp-temna-bratislavaden-2026` | https://bratislavaden.sk/most-snp-je-jednoznacne-ikona-bratislavy-ma-vsak-temnu-minulost-vznikol-za-cenu-zniceneho-mesta/ | Bratislavaden: тёмное прошлое моста СНП |
+| `elyzium-bratislavaden-2026` | https://bratislavaden.sk/poznate-pribeh-zabudnutej-casti-petrzalky-mala-kuzelne-meno-ale-zili-tu-najchudobnejsi-presporcania/ | Bratislavaden: Элизиум — забытый квартал Петржалки |
+| `sokoly-bratislavaden-2026` | https://bratislavaden.sk/sokoly-uz-lietaju-nad-petrzalkou-pomahaju-v-boji-proti-holubom-novy-obyvatelia-budu-nielen-lovit-ale-aj-strasit/ | Bratislavaden: соколы-сапсаны против голубей Петржалки |
+| `kamzik-vylet-bratislavaden-2026` | https://bratislavaden.sk/hladate-vylet-v-bratislave-toto-miesto-len-par-minut-od-centra-bratislavy-ponuka-bobovu-drahu-lanovky-aj-vyhlady/ | Bratislavaden: Колиба и Камзик — выезд в нескольких минутах от центра |
+| `zelezna-studnicka-povest-bratislavaden-2026` | https://bratislavaden.sk/stara-povest-o-zeleznej-studienke-po-lesoch-sa-dodnes-tulaju-zakliati-nestastni-milenci/ | Bratislavaden: предание о мельнице Клепач и заклятых влюблённых |
+| `legiodomy-bratislavaden-2026` | https://bratislavaden.sk/legiodomy-su-dodnes-farebnym-skvostom-bratislavy-stoja-uz-takmer-100-rokov/ | Bratislavaden: легиодомы — «цветная жемчужина» почти столетней давности |
 
 ## Городские части (mestské časti)
 
@@ -301,6 +308,7 @@
 | [[Namestie-slobody|Площадь Свободы]] | 1-stare-mesto | Бетонный «Фиршнал»: фонтан «Дружба», Готтвальд (взорван в 1990), обновление 2023 |
 | [[Slovensky-rozhlas|Здание Словацкого радио]] | 1-stare-mesto | Перевёрнутая пирамида Светко (1967–1983): «стройка века», орган, галерея |
 | [[Cintorin-Slavicie-udolie|Кладбище Славичье удолье]] | 1-stare-mesto | Крупнейшее кладбище города (1912, 18,5 га): Дубчек, Ласица, Кронер, Попп |
+| [[Televizna-veza-Kamzik|Телебашня Камзик]] | 3-nove-mesto | 194-метровая игла (1967–1975): смотровая, ресторан, вид до соседних стран |
 
 ## Кварталы
 
@@ -309,6 +317,8 @@
 | [[Vydrica|Выдрица (Vydrica)]] | 1-stare-mesto | «Братиславский Монмартр» под градом: снесён в 1950–70-е, отстроен заново |
 | [[Ostredky|Остредки (Ostredky)]] | 2-ruzinov | Самое зелёное сидлиско Ружинова (1964) с «космическими» улицами |
 | [[Zuckermandel|Цукермандель (Zuckermandel)]] | 1-stare-mesto | «Хватай пальто и беги»: снесён в 1949–70-е, три башни, новый квартал 2017 |
+| [[Elyzium|Элизиум (Elýzium)]] | 5-petrzalka | Исчезнувший квартал бедноты у Старого моста (1918–1980-е); французское кладбище 1809 года |
+| [[Koliba|Колиба (Koliba)]] | 3-nove-mesto | Зелёный квартал над городом: киноателье, первая бобслейная трасса Словакии (1996) |
 
 ## Персоналии
 

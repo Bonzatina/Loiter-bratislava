@@ -4,12 +4,12 @@ type: district
 domain: sights
 coords: [48.16716, 17.13835]
 tags: [bratislava-3, koliba, kamzik]
-updated: 2026-07-07
+updated: 2026-07-14
 ---
 
 # Nové Mesto (Bratislava III)
 
-Nové Mesto (New Town) is the borough north-east of the historic centre (Bratislava III okres), grown along the roads to Trnava and into the foothills of the Little Carpathians. It is a heterogeneous belt of the city: tenement blocks and early-20th-century villas closer to the centre, industrial and railway lands around the main station, and, to the north, green slopes with the Koliba quarter and the TV tower on Kamzík hill, the city's main lookout point.
+Nové Mesto (New Town) is the borough north-east of the historic centre (Bratislava III okres), grown along the roads to Trnava and into the foothills of the Little Carpathians. It is a heterogeneous belt of the city: tenement blocks and early-20th-century villas closer to the centre, industrial and railway lands around the main station, and, to the north, green slopes with the [[Koliba]] quarter and the [[Televizna-veza-Kamzik|TV tower on Kamzík hill]], the city's main lookout point.
 
 The wiki's first object here is the [[Legionarske-domy|Legionnaires' Houses]] (1920s) by Dušan Jurkovič and Jan Pacl on Ursínyho street: a cooperative quarter for veterans of the Czechoslovak Legions and a rare Bratislava example of Rondocubism — the "national style" of young Czechoslovakia.
 
@@ -27,6 +27,11 @@ In a red field, a silver building with a central turret — a historic curia of 
 - [[Trznica|Market Hall at Trnavské mýto]] — Matušík's glazed market (1983)
 - [[Olympijske-muzeum|Slovak Olympic and Sports Museum]] — in the House of Sport at Pasienky
 - [[Zelezna-studnicka|Železná studnička]] — the forest park's heart: the Ferdinand Baths (1828) and the Swan Pavilion being revived
+- [[Televizna-veza-Kamzik|Kamzík TV Tower (Televízna veža Kamzík)]] — the 194-metre needle (1967–1975) with an observation deck and restaurant
+
+## Quarters
+
+- [[Koliba]] — the green quarter above the city: film studios, bobsled track, chairlift, bike park
 
 ## See Also
 
