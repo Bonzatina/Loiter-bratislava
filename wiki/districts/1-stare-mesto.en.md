@@ -69,6 +69,9 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Namestie-slobody|Freedom Square]] — the concrete "Firšnál" with the city's largest fountain, Družba
 - [[Slovensky-rozhlas|Slovak Radio Building]] — the upside-down steel pyramid (1967–1983)
 - [[Cintorin-Slavicie-udolie|Slávičie údolie Cemetery]] — the city's largest: Dubček, Lasica, the Slovak pantheon
+- [[Socha-Imricha-Karvasa|Statue of Imrich Karvaš]] — Papčo's 13-ton granite before the National Bank: a banker against two totalitarianisms
+- [[Pamatnik-Kuciaka-a-Kusnirovej|Ján Kuciak & Martina Kušnírová Memorial]] — the memory of the 2018 murder that changed Slovakia
+- [[Dunajska-promenada|Danube Promenade]] — an open-air gallery of statues and the Pressburg meridian of 1733
 
 ## Museums
 

@@ -21,6 +21,7 @@ These woods have their own legend too — of the Klepáč mill, the only one on 
 
 ## See Also
 
+- [[Cerveny-most|Red Bridge]] — the valley's gate: the first train from Vienna crossed it in 1848
 - [[Koliba]] and the [[Televizna-veza-Kamzik|Kamzík TV Tower]] — forest-park neighbours
 - [[3-nove-mesto|Nové Mesto]]
 - [[Zeleznicne-muzeum-SR|The Railway Museum]] in the Rendez depot — the district's other end

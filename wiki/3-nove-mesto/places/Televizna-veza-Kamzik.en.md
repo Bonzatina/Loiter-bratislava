@@ -11,7 +11,7 @@ updated: 2026-07-14
 
 # Kamzík TV Tower (Televízna veža Kamzík)
 
-The Kamzík TV tower (Televízna veža Kamzík) is a 194-metre needle on the forested summit of Kamzík (439 m) above [[Koliba]], one of Bratislava's most recognisable symbols and the city's second-highest point. Built in 1967–1975, it joins architecture and engineering in the spirit of the era's best TV towers — and is visible from practically anywhere in the city.
+The Kamzík TV tower (Televízna veža Kamzík) is a 194-metre needle on the forested summit of Kamzík (439 m) above [[Koliba]], one of Bratislava's most recognisable symbols and the city's second-highest point. Built in 1967–1975, it joins architecture and engineering in the spirit of the era's best TV towers — and is visible from practically anywhere in the city. Today's needle had a predecessor: the first tower on Kamzík was designed by engineer [[Tesar-Arpad|Arpád Tesár]], creator of the SNP Bridge.
 
 ![Kamzík TV Tower (Televízna veža Kamzík)](/assets/televizna-veza-kamzik.jpg)
 

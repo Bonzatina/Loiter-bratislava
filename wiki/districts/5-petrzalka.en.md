@@ -41,6 +41,7 @@ In a silver field, six trees — five small green ones and one large with a gold
 - [[Holubica-mieru|Dove of Peace (Holubica mieru)]] — Karol Lacko's 18-metre steel bird at the southern gateway
 - [[Mural-Mier|The "Peace" mural (Mier)]] — the panel district's last monumental painting, saved by its residents
 - [[Elyzium|Elysium (Elýzium)]] — the vanished quarter of the poor by the Old Bridge; named after a French cemetery of 1809
+- [[Pamatnik-obetiam-extremizmu|Memorial to the Victims of Extremism]] — the memory of Daniel Tupý (†2005) on Tyršovo nábrežie
 
 The 1980s "peace" series did not end there: on Námestie hraničiarov stands Ján Ilavský's Peace Song (Mierová pieseň, 1983), and at the entrance of the health school on Strečnianska — Juraj Deák's stone mosaic Peace for Children (Mier deťom). Fountains, though, are almost absent in Petržalka — the estate was built when the "fountain era" of 1965–1989 (the law on a percentage for art in construction) was already fading, and the water features planned with the unrealized linear centre never appeared; of Vladimír Havrilla's fountain "Man and the Universe" only the Zen Girl statue between Turnianska and Krásnohorská remains.
 

@@ -185,6 +185,23 @@
 | `kamzik-vylet-bratislavaden-2026` | https://bratislavaden.sk/hladate-vylet-v-bratislave-toto-miesto-len-par-minut-od-centra-bratislavy-ponuka-bobovu-drahu-lanovky-aj-vyhlady/ | Bratislavaden: Колиба и Камзик — выезд в нескольких минутах от центра |
 | `zelezna-studnicka-povest-bratislavaden-2026` | https://bratislavaden.sk/stara-povest-o-zeleznej-studienke-po-lesoch-sa-dodnes-tulaju-zakliati-nestastni-milenci/ | Bratislavaden: предание о мельнице Клепач и заклятых влюблённых |
 | `legiodomy-bratislavaden-2026` | https://bratislavaden.sk/legiodomy-su-dodnes-farebnym-skvostom-bratislavy-stoja-uz-takmer-100-rokov/ | Bratislavaden: легиодомы — «цветная жемчужина» почти столетней давности |
+| `cerveny-most-skwiki-2026` | https://sk.wikipedia.org/wiki/Červený_most | Словацкая Википедия: Красный мост — история виадука |
+| `cerveny-most-vlakynet-2026` | https://www.vlaky.net/galerie/751/bratislava-cerveny-most/ | Vlaky.net: Красный мост — технические детали и Таллакини |
+| `tesar-skwiki-2026` | https://sk.wikipedia.org/wiki/Arpád_Tesár | Словацкая Википедия: Арпад Тесар (1919–1989) |
+| `florian-muop-2026` | https://www.muop.eu/socha-sv-floriana-raca | MÚOP: статуя св. Флориана в Раче — паспорт памятного объекта |
+| `florian-brutus-bratislavaden-2024` | https://bratislavaden.sk/sokujuce-premalovanie-sochy-sv-floriana-nezostalo-bez-povsimnutia-ziskalo-anticenu-brutus/ | Bratislavaden: перекраска Флориана и антипремия «Брутус-2024» |
+| `florian-zbierka-bratislavaden-2026` | https://bratislavaden.sk/nepodarena-rekonstrukcia-bude-opravena-racania-zachranili-sochu-sv-floriana-vdaka-zbierke/ | Bratislavaden: сбор на спасение Флориана — 11 223 € |
+| `florian-smolko-sme-2024` | https://www.sme.sk/bratislava/c/zo-svateho-floriana-je-smolko-raca-riesi-nedovolene-pomalovanie-sochy | SME: «Флориан стал смурфом» — фото перекрашенной статуи |
+| `karvas-socha-sme-2026` | https://www.sme.sk/bratislava/c/pred-sidlom-narodnej-banky-odhalili-sochu-s-prveho-guvernera-imricha-karvasa | SME: открытие статуи Имриха Карваша перед НБС |
+| `tupy-pamatnik-sme-2020` | https://www.sme.sk/bratislava/c/okolie-pamatnika-obetiam-extremizmu-na-tyrsovom-nabrezi-zrevitalizuju | SME: ревитализация окружения памятника жертвам экстремизма |
+| `nezna-pamatnik-sme-2026` | https://www.sme.sk/bratislava/c/na-namesti-slobody-predstavia-17-novembra-pamatnik-neznej-revolucie | SME: памятник Нежной революции на площади Свободы |
+| `kuciak-memorial-atlasobscura-2023` | https://www.atlasobscura.com/places/jan-kuciak-martina-kusnirova-memorial-bratislava | Atlas Obscura: мемориал Куцяка и Кушнировой |
+| `racianska-izba-racan-2021` | https://muzeum.racan.sk/2021/10/Racianska.pamatna.izba.html | Muzeum.racan.sk: Рачанская памятная изба (Д. Лукнарова) |
+| `frankovka-raca-bratislavaden-2026` | https://bratislavaden.sk/maria-terezia-preslavila-frankovku-z-race-racianskemu-fararovi-darovala-vzacne-rucho/ | Bratislavaden: Мария Терезия и рачанская франковка |
+| `dunajska-promenada-sme-2026` | https://www.sme.sk/bratislava/c/poznate-sochy-a-pamatniky-na-dunajskej-promenade | SME: скульптуры и памятники дунайской променады |
+| `nepomucky-most-krizepocha-2021` | https://kriz.epocha.sk/sochy-svatych/bratislava/stare-mesto-sv-jan-nepomucky-172-na-michalskom-moste | Kriz.epocha: Ян Непомуцкий на Михальском мосту |
+| `michal-most-krizepocha-2021` | https://kriz.epocha.sk/sochy-svatych/bratislava/stare-mesto-sv-michal-archanjel-172-na-michalskom-moste | Kriz.epocha: архангел Михаил на Михальском мосту |
+| `ondrej-ruzinov-krizepocha-2021` | https://kriz.epocha.sk/sochy-svatych/bratislava/ruzinov-sv-ondrej-1742-park-mileticova-zahradnicka | Kriz.epocha: святой Ондрей в парке у Милетичовой |
 
 ## Городские части (mestské časti)
 
@@ -309,6 +326,14 @@
 | [[Slovensky-rozhlas|Здание Словацкого радио]] | 1-stare-mesto | Перевёрнутая пирамида Светко (1967–1983): «стройка века», орган, галерея |
 | [[Cintorin-Slavicie-udolie|Кладбище Славичье удолье]] | 1-stare-mesto | Крупнейшее кладбище города (1912, 18,5 га): Дубчек, Ласица, Кронер, Попп |
 | [[Televizna-veza-Kamzik|Телебашня Камзик]] | 3-nove-mesto | 194-метровая игла (1967–1975): смотровая, ресторан, вид до соседних стран |
+| [[Cerveny-most|Красный мост]] | 3-nove-mesto | Виадук первого поезда из Вены (1848): взорван 4.4.1945, возрождён Тесаром (1948) |
+| [[Socha-svateho-Floriana|Статуя святого Флориана]] | 3-raca | Барочный страж от пожаров (после 1732): «Брутус-2024» за перекраску, сбор 11 223 € |
+| [[Socha-Imricha-Karvasa|Статуя Имриха Карваша]] | 1-stare-mesto | 5-метровый гранит Папчо (13 т) перед НБС: первому губернатору, врагу двух режимов |
+| [[Pamatnik-Kuciaka-a-Kusnirovej|Мемориал Куцяка и Кушнировой]] | 1-stare-mesto | Память убийства 21.2.2018: перо из трещины, протесты «За порядочную Словакию» |
+| [[Pamatnik-obetiam-extremizmu|Памятник жертвам экстремизма]] | 5-petrzalka | Даниэль Тупый (†4.11.2005) на Тыршовой набережной; ревитализация окружения |
+| [[Racianska-pamatna-izba|Рачанская памятная изба]] | 3-raca | Краеведение в Общинном доме: виноградарство, этнография, облачение Марии Терезии |
+| [[Dunajska-promenada|Дунайская променада]] | 1-stare-mesto | Галерея статуй от порта до River Park: меридиан 1733, Рона, копия Фадруса |
+| [[Socha-svateho-Ondreja|Статуя святого Ондрея]] | 2-ruzinov | Барокко 1712/1742 со Штуровой: снят перед сносом дома, с 1942 в парке у Милетичовой |
 
 ## Кварталы
 
@@ -348,6 +373,7 @@
 | [[Grossmann-Jiri|Иржи Гроссманн]] | Чешский архитектор-урбанист (1892–1957), вторая половина дуэта Балан—Гроссманн |
 | [[Lasica-Milan|Милан Ласица]] | Юморист и актёр (1940–2021): дуэт с Сатинским, Студия L+S, смерть на сцене |
 | [[Messerschmidt-Franz-Xaver|Франц Ксавер Мессершмидт]] | Скульптор «характерных голов» (1736–1783): Цукермандель, «дух пропорций» |
+| [[Tesar-Arpad|Арпад Тесар]] | Инженер обоих великих мостов (1919–1989): мост СНП, Красный мост, сварка |
 
 ## Концепции
 

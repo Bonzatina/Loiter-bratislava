@@ -3,7 +3,7 @@ title: Цукермандель (Zuckermandel)
 type: quarter
 domain: history
 district: 1-stare-mesto
-coords: [48.13980, 17.09400]
+coords: [48.14162, 17.08947]
 tags: [podhradie, demolished, redevelopment, messerschmidt]
 sources: [zuckermandel-bratislavskenoviny-2023]
 updated: 2026-07-08

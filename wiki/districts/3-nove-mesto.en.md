@@ -28,6 +28,7 @@ In a red field, a silver building with a central turret — a historic curia of 
 - [[Olympijske-muzeum|Slovak Olympic and Sports Museum]] — in the House of Sport at Pasienky
 - [[Zelezna-studnicka|Železná studnička]] — the forest park's heart: the Ferdinand Baths (1828) and the Swan Pavilion being revived
 - [[Televizna-veza-Kamzik|Kamzík TV Tower (Televízna veža Kamzík)]] — the 194-metre needle (1967–1975) with an observation deck and restaurant
+- [[Cerveny-most|Red Bridge (Červený most)]] — the viaduct of the first train from Vienna (1848); blown up in 1945, revived by Tesár
 
 ## Quarters
 
