@@ -76,6 +76,7 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Cintorin-Slavicie-udolie|Slávičie údolie Cemetery]] — the city's largest: Dubček, Lasica, the Slovak pantheon
 - [[Socha-Imricha-Karvasa|Statue of Imrich Karvaš]] — Papčo's 13-ton granite before the National Bank: a banker against two totalitarianisms
 - [[Pamatnik-Kuciaka-a-Kusnirovej|Ján Kuciak & Martina Kušnírová Memorial]] — the memory of the 2018 murder that changed Slovakia
+- [[Pomnik-Stefanika|Štefánik Monument (pomník M. R. Štefánika)]] — the general and the legion lion by Eurovea; a saga since 1938
 - [[Dunajska-promenada|Danube Promenade]] — an open-air gallery of statues and the Pressburg meridian of 1733
 - [[Pivovar-Stein|Stein Brewery (Pivovar Stein)]] — 135 years of Bratislava beer in Blumentál: from the Stein brothers to the 2014 demolition
 

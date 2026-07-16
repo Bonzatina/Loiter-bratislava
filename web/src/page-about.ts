@@ -52,6 +52,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'atlasobscura.com':   'Atlas of the world\'s hidden wonders',
     'muzeum.racan.sk':    'Rača local-history museum society',
     'kriz.epocha.sk':     'Catalogue of Slovakia\'s sacral monuments',
+    'pam.epocha.sk':      'Catalogue of Slovakia\'s memorials',
     'vypadni.sk':         'Slovak trip-ideas portal',
     'dubravka.sk':        'Official website of the Dúbravka borough',
     'bratislava.dnes24.sk': 'Bratislava news portal',
@@ -91,6 +92,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'atlasobscura.com':   'Атлас скрытых чудес мира',
     'muzeum.racan.sk':    'Рачанское музейное общество',
     'kriz.epocha.sk':     'Каталог сакральных памятников Словакии',
+    'pam.epocha.sk':      'Каталог мемориалов Словакии',
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
     'dubravka.sk':        'Официальный сайт городской части Дубравка',
     'bratislava.dnes24.sk': 'Новостной портал Братиславы',
@@ -162,6 +164,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('atlasobscura.com')}
     ${src('muzeum.racan.sk')}
     ${src('kriz.epocha.sk')}
+    ${src('pam.epocha.sk')}
     ${src('vypadni.sk')}
     ${src('dubravka.sk')}
     ${src('bratislava.dnes24.sk')}

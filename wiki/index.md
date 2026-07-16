@@ -220,6 +220,10 @@
 | `konska-zeleznica-storymaps-2026` | https://storymaps.arcgis.com/stories/69e2cceb91f4415bbf71a4cf768aa46c | ArcGIS StoryMaps: конка Братислава–Трнава–Середь |
 | `stanica-konky-podnavylet-2026` | https://podnavylet.sk/vylet/1724-stanica-prvej-konskej-zeleznice-v-bratislave-1840 | Poď na výlet: станция первой конной железной дороги (1840) |
 | `stanica-konky-yimba-2025` | https://www.yimba.sk/rekonstrukcie-historickych-pamiatok/ikona-noveho-mesta-v-krajsom-sate-budova-byvalej-konskej-zeleznice-ma-prejst-obnovou | YIM.BA: реконструкция здания конки, планы Нове-Места и ŽSR |
+| `hrad-devin-skwiki-2026` | https://sk.wikipedia.org/wiki/Devín_(hrad) | Словацкая Википедия: град Девин — история и осмотр |
+| `stefanik-eurovea-pamepocha-2022` | https://pam.epocha.sk/pamatniky-bratislava/ruzinov-vrakuna-pod-biskupice/milan-rastislav-stefanik-pittsburghska-dohoda-1918-nam-m-r-stefanika | Pam.epocha: памятник Штефанику у Eurovea и его предыстория |
+| `most-apollo-pamepocha-2022` | https://pam.epocha.sk/pamatniky-bratislava/ruzinov-vrakuna-pod-biskupice/rafineria-apollo-most-apollo | Pam.epocha: рафинерия Apollo и доска на мосту Аполло |
+| `kaplnka-stary-haj-krizepocha-2021` | https://kriz.epocha.sk/kaplnky/bratislava/petrzalka-kaplnka-v-starom-haji | Kriz.epocha: часовня Святого Креста в Старом гае |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -327,6 +331,10 @@
 | [[Au-Cafe|Au Café]] | 5-petrzalka | Кафе 1827 года у Сада: Палудяи, «самоубийство» здания 1966, реплика 2003 |
 | [[Lekaren-u-Salvatora|Аптека «У Сальватора»]] | 1-stare-mesto | Дом 1904 года со Спасителем Ригеле; одиссея иезуитского мобилиара 1727 года |
 | [[Amfiteater-Devin|Амфитеатр под градом Девин]] | 4-devin | «Народное театро» Третьего рейха; Всеславянский день 1945 |
+| [[Hrad-Devin|Град Девин]] | 4-devin | Руины над слиянием Моравы и Дуная: Dowina 864 года, Штур 1836, взрыв 1809 |
+| [[Pomnik-Stefanika|Памятник Штефанику]] | 1-stare-mesto | Генерал и легионерский лев у Eurovea; статуя Кафки 1938, «Tá mačka musí preč» |
+| [[Most-Apollo|Мост Аполло]] | 2-ruzinov | Стальная арка 2005 года в память рафинерии Apollo; бомбардировка 16.6.1944 |
+| [[Kaplnka-v-Starom-haji|Часовня Святого Креста в Старом гае]] | 5-petrzalka | Крест паводка 1809 года → часовня Гратцла 1909-го |
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |
 | [[Muzeum-hodin|Музей часов]] | 1-stare-mesto | Часовщики Прессбурга (цех 1776, Гульдан) в доме «У доброго пастыря» |
