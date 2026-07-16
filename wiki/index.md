@@ -224,6 +224,15 @@
 | `stefanik-eurovea-pamepocha-2022` | https://pam.epocha.sk/pamatniky-bratislava/ruzinov-vrakuna-pod-biskupice/milan-rastislav-stefanik-pittsburghska-dohoda-1918-nam-m-r-stefanika | Pam.epocha: памятник Штефанику у Eurovea и его предыстория |
 | `most-apollo-pamepocha-2022` | https://pam.epocha.sk/pamatniky-bratislava/ruzinov-vrakuna-pod-biskupice/rafineria-apollo-most-apollo | Pam.epocha: рафинерия Apollo и доска на мосту Аполло |
 | `kaplnka-stary-haj-krizepocha-2021` | https://kriz.epocha.sk/kaplnky/bratislava/petrzalka-kaplnka-v-starom-haji | Kriz.epocha: часовня Святого Креста в Старом гае |
+| `bratislavske-mosty-beliana-2023` | https://beliana.sav.sk/heslo/bratislavske-mosty | Encyclopaedia Beliana: братиславские мосты — от бродов до Лужного |
+| `mosty-bratislavaguide-2026` | https://www.bratislavaguide.com/sk/mosty-v-bratislave | BratislavaGuide: пять мостов через Дунай |
+| `kacacia-fontana-bainfo-2025` | https://www.bainfo.sk/zaujimavosti/fontany/kacacia-fontana-bratislava | BAinfo: Утиный фонтан на Шафариковой площади |
+| `kacacia-fontana-slovago-2026` | https://www.slovago.sk/kacacia-fontana | Slovago: Утиный фонтан — Голчик и предание Дюричковой |
+| `umelka-svu-2026` | https://svu.sk/sk/o-nas/ | Словацкий союз художников: история здания «Умелки» |
+| `umelka-slovakiatravel-2026` | https://slovakia.travel/galeria-umelka | Slovakia.travel: галерея «Умелка» |
+| `sky-park-skwiki-2026` | https://sk.wikipedia.org/wiki/SKY_PARK | Словацкая Википедия: Sky Park и рафинерия Apollo |
+| `brana-slobody-peme-2026` | https://www.peme.sk/brana-slobody | Скульптор Петер Месарош: Брана слободы и бюст Срголеца |
+| `obetiam-komunizmu-umeniemesta-2026` | https://umeniemesta.sk/diela/recTQq9AgwC37uezc | Umenie mesta: памятник жертвам коммунизма Баринки |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -335,6 +344,14 @@
 | [[Pomnik-Stefanika|Памятник Штефанику]] | 1-stare-mesto | Генерал и легионерский лев у Eurovea; статуя Кафки 1938, «Tá mačka musí preč» |
 | [[Most-Apollo|Мост Аполло]] | 2-ruzinov | Стальная арка 2005 года в память рафинерии Apollo; бомбардировка 16.6.1944 |
 | [[Kaplnka-v-Starom-haji|Часовня Святого Креста в Старом гае]] | 5-petrzalka | Крест паводка 1809 года → часовня Гратцла 1909-го |
+| [[Pristavny-most|Приставной мост]] | 2-ruzinov | Двухэтажная рабочая лошадка: поезда внизу, D1 наверху; Мост героев Дуклы до 1993 |
+| [[Most-Lafranconi|Мост Лафранкони]] | 4-karlova-ves | Бетонные ворота города с запада (1991): D2, 761 метр, велодорожка под мостовой |
+| [[Luzny-most|Лужный мост]] | 2-podunajske-biskupice | Самый южный мост (2021): цепочка мостов объезда D4 среди пойменных лесов |
+| [[Kacacia-fontana|Утиный фонтан]] | 1-stare-mesto | Мальчишки и утки Кюмайера (1914); легенда о водяном и «Seksament, otvor sa!» |
+| [[Galeria-Umelka|Галерея «Умелка»]] | 1-stare-mesto | Старейший функционализм Словакии (1926); колыбель VPN в ноябре 1989 |
+| [[Sky-Park|Sky Park]] | 1-stare-mesto | Башни Захи Хадид на месте рафинерии Apollo; парк 35 000 м² |
+| [[Brana-slobody|Брана слободы]] | 4-devin | Ворота свободы у слияния (2005): имена ~400 погибших у занавеса, бюст Срголеца |
+| [[Pamatnik-obetiam-komunizmu|Памятник жертвам коммунизма]] | 1-stare-mesto | Камень Баринки на Якубовой площади (2005) |
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |
 | [[Muzeum-hodin|Музей часов]] | 1-stare-mesto | Часовщики Прессбурга (цех 1776, Гульдан) в доме «У доброго пастыря» |

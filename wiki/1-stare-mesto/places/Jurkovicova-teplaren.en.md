@@ -5,7 +5,7 @@ domain: architecture
 district: 1-stare-mesto
 coords: [48.14376, 17.12376]
 tags: [industrial, modernism, revitalization, sky-park]
-sources: [teplaren-register-architektury-2026]
+sources: [teplaren-register-architektury-2026, sky-park-skwiki-2026]
 updated: 2026-07-07
 ---
 
@@ -15,7 +15,7 @@ The boiler room and turbine hall at Čulenova 7, known as the Jurkovič Heating 
 
 ![Jurkovič Heating Plant (Jurkovičova tepláreň) before renovation](/assets/jurkovicova-teplaren.jpg)
 
-The name pins the authorship on [[Jurkovic-Dusan|Dušan Jurkovič]], but the attribution is in question: the 2008 architectural-historical research found no documentary confirmation of his authorship. The name stuck nonetheless — and saved the building: the plant was revitalised as the heart of the new Sky Park district (facade and roof restoration by the PAMARCH studio), with a separate five-storey glazed volume housing the BASE coworking space inserted inside.
+The name pins the authorship on [[Jurkovic-Dusan|Dušan Jurkovič]], but the attribution is in question: the 2008 architectural-historical research found no documentary confirmation of his authorship. The name stuck nonetheless — and saved the building: the national cultural monument (since 2008) was revitalised as the heart of the new [[Sky-Park|Sky Park]] district (conversion by Martin Paško and DF Creative Group, facade and roof restoration by the PAMARCH studio; 31,736 bricks of the historic facades, the coal hoppers and a restored crane were preserved), with a separate five-storey glazed volume housing the BASE coworking space inserted inside.
 
 ## See Also
 

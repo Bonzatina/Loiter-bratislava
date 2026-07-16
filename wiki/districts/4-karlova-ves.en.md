@@ -23,6 +23,7 @@ In a blue field, a golden letter "C" entwined with a grape bunch and tendrils. T
 ## Objects
 
 - [[Vodarenske-muzeum|The Waterworks Museum (Vodárenské múzeum)]] — the city's first pumping station (1886)
+- [[Most-Lafranconi|Lafranconi Bridge (Most Lafranconi)]] — the city's concrete western gateway (1991), the D2 motorway
 
 ## See Also
 

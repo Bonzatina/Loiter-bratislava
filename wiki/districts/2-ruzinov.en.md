@@ -29,6 +29,7 @@ In a red field, a silver wall with two golden-roofed towers and a silver double 
 - [[Model-Jupitera|Jupiter of the Solar System Model]] — a 30.8 cm golden sphere by the gymnasium on Jelačičova (2024)
 - [[Saleziani-Mileticova|Salesian House on Miletičova]] — the centre of Slovakia's Salesians: 1933, the "barbaric night" of 1950, 1990s revival
 - [[Most-Apollo|Apollo Bridge (Most Apollo)]] — the steel arch of 2005, named in memory of the Apollo refinery
+- [[Pristavny-most|Prístavný Bridge (Prístavný most)]] — the two-storey workhorse: trains below, motorway above
 
 ## Quarters
 

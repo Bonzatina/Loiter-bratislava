@@ -77,6 +77,10 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Socha-Imricha-Karvasa|Statue of Imrich Karvaš]] — Papčo's 13-ton granite before the National Bank: a banker against two totalitarianisms
 - [[Pamatnik-Kuciaka-a-Kusnirovej|Ján Kuciak & Martina Kušnírová Memorial]] — the memory of the 2018 murder that changed Slovakia
 - [[Pomnik-Stefanika|Štefánik Monument (pomník M. R. Štefánika)]] — the general and the legion lion by Eurovea; a saga since 1938
+- [[Kacacia-fontana|Duck Fountain (Kačacia fontána)]] — Kühmayer's boys and ducks (1914) with the water-sprite legend
+- [[Galeria-Umelka|Umelka Gallery (Galéria Umelka)]] — Slovakia's oldest functionalism, cradle of the VPN of 1989
+- [[Sky-Park|Sky Park]] — the Zaha Hadid towers on the Apollo refinery site
+- [[Pamatnik-obetiam-komunizmu|Memorial to the Victims of Communism]] — Barinka's stone on Jakubovo námestie (2005)
 - [[Dunajska-promenada|Danube Promenade]] — an open-air gallery of statues and the Pressburg meridian of 1733
 - [[Pivovar-Stein|Stein Brewery (Pivovar Stein)]] — 135 years of Bratislava beer in Blumentál: from the Stein brothers to the 2014 demolition
 

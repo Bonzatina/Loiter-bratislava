@@ -17,6 +17,7 @@ After 1989 the barriers were torn down, and the former dead zone became a place 
 
 ## See Also
 
+- [[Brana-slobody|Gate of Freedom]] — the main memorial to the Curtain's victims at the confluence below Devín
 - [[Park-obeti-Hraniciarov|Park of the Border's Victims]] — the memorial with the barbed wire
 - [[Petrzalske-bunkre|The Petržalka bunkers]] — the border of the previous era
 - [[Hrad-Devin|Devín Castle]] — the most famous escape point

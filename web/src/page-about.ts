@@ -53,6 +53,13 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'muzeum.racan.sk':    'Rača local-history museum society',
     'kriz.epocha.sk':     'Catalogue of Slovakia\'s sacral monuments',
     'pam.epocha.sk':      'Catalogue of Slovakia\'s memorials',
+    'beliana.sav.sk':     'Slovak general encyclopedia (SAV)',
+    'slovakia.travel':    'Official tourism portal of Slovakia',
+    'bratislavaguide.com': 'Bratislava city guide',
+    'bainfo.sk':          'Catalogue of Bratislava-region sights',
+    'slovago.sk':         'Slovak trips and experiences portal',
+    'svu.sk':             'Slovak Union of Visual Arts',
+    'peme.sk':            'Sculptor Peter Mészároš\'s site',
     'vypadni.sk':         'Slovak trip-ideas portal',
     'dubravka.sk':        'Official website of the Dúbravka borough',
     'bratislava.dnes24.sk': 'Bratislava news portal',
@@ -93,6 +100,13 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'muzeum.racan.sk':    'Рачанское музейное общество',
     'kriz.epocha.sk':     'Каталог сакральных памятников Словакии',
     'pam.epocha.sk':      'Каталог мемориалов Словакии',
+    'beliana.sav.sk':     'Словацкая универсальная энциклопедия (САН)',
+    'slovakia.travel':    'Официальный туристический портал Словакии',
+    'bratislavaguide.com': 'Путеводитель по Братиславе',
+    'bainfo.sk':          'Каталог достопримечательностей Братиславы и окрестностей',
+    'slovago.sk':         'Портал поездок по Словакии',
+    'svu.sk':             'Словацкий союз художников',
+    'peme.sk':            'Сайт скульптора Петера Месароша',
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
     'dubravka.sk':        'Официальный сайт городской части Дубравка',
     'bratislava.dnes24.sk': 'Новостной портал Братиславы',
@@ -165,6 +179,13 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('muzeum.racan.sk')}
     ${src('kriz.epocha.sk')}
     ${src('pam.epocha.sk')}
+    ${src('beliana.sav.sk')}
+    ${src('slovakia.travel')}
+    ${src('bratislavaguide.com')}
+    ${src('bainfo.sk')}
+    ${src('slovago.sk')}
+    ${src('svu.sk')}
+    ${src('peme.sk')}
     ${src('vypadni.sk')}
     ${src('dubravka.sk')}
     ${src('bratislava.dnes24.sk')}
