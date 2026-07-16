@@ -60,6 +60,11 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Budova-YMCA|YMCA Building (Budova YMCA)]] — continental Europe's first YMCA house, cradle of Slovak basketball
 - [[Obchodny-dom-Teta|TETA Department Store]] — the city's first department store (1929) and the legendary Teta grocery
 - [[Hviezdoslavovo-namestie|Hviezdoslav Square]] — the city's main promenade: from Promenadeplatz to today's corso
+- [[Hodzovo-namestie|Hodža Square (Hodžovo námestie)]] — the presidential palace, "Mierko" and a stone museum in the underpass
+- [[Grasalkovicov-palac|Grassalkovich Palace (Grasalkovičov palác)]] — rococo of 1760: Haydn, pioneers and presidents
+- [[Fontana-Planeta-mieru|Planet of Peace Fountain (Fontána Planéta mieru)]] — Bártfay's sphere by the presidential palace, the "Sun" of the 1:464 million model
+- [[Model-Venuse|Venus of the Solar System Model]] — a 26 mm ball on May 1st Square, 233 m from the "Sun"
+- [[Model-Marsu|Mars of the Solar System Model]] — a 14.6 mm ball on Freedom Square, 491 m from the "Sun"
 - [[Historicka-budova-SND|Historic SND Building]] — Fellner & Helmer's neo-renaissance (1886), home of the opera
 - [[Hotel-Carlton|Carlton Hotel]] — eight centuries of innkeeping: from At the Swan to the Savoy-Carlton
 - [[Pomnik-Hviezdoslava|The Hviezdoslav Monument]] — the bronze poet on the square that bears his name (1937)
@@ -72,6 +77,7 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Socha-Imricha-Karvasa|Statue of Imrich Karvaš]] — Papčo's 13-ton granite before the National Bank: a banker against two totalitarianisms
 - [[Pamatnik-Kuciaka-a-Kusnirovej|Ján Kuciak & Martina Kušnírová Memorial]] — the memory of the 2018 murder that changed Slovakia
 - [[Dunajska-promenada|Danube Promenade]] — an open-air gallery of statues and the Pressburg meridian of 1733
+- [[Pivovar-Stein|Stein Brewery (Pivovar Stein)]] — 135 years of Bratislava beer in Blumentál: from the Stein brothers to the 2014 demolition
 
 ## Museums
 

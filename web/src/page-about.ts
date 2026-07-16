@@ -55,6 +55,15 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'vypadni.sk':         'Slovak trip-ideas portal',
     'dubravka.sk':        'Official website of the Dúbravka borough',
     'bratislava.dnes24.sk': 'Bratislava news portal',
+    'mileticka.com':      'Miletičova market website',
+    'mileticka.sk':       'Salesian parish on Miletičova',
+    'sustava.sk':         'Solar system model in Bratislava',
+    'app.geology.sk':     'Decorative stones atlas (State Geological Institute)',
+    'opive.sk':           'Slovak beer magazine',
+    'balove.sk':          'Bratislava photo-stories blog',
+    'yimba.sk':           'Bratislava development and architecture magazine',
+    'podnavylet.sk':      'Slovak trip-ideas portal',
+    'storymaps.arcgis.com': 'ArcGIS StoryMaps platform',
   } : {
     'sk.wikipedia.org':   'Словацкая Википедия',
     'en.wikipedia.org':   'Английская Википедия',
@@ -85,6 +94,15 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
     'dubravka.sk':        'Официальный сайт городской части Дубравка',
     'bratislava.dnes24.sk': 'Новостной портал Братиславы',
+    'mileticka.com':      'Сайт рынка Милетичова',
+    'mileticka.sk':       'Салезианский приход на Милетичовой',
+    'sustava.sk':         'Модель Солнечной системы в Братиславе',
+    'app.geology.sk':     'Атлас декоративных камней (Государственный геологический институт)',
+    'opive.sk':           'Словацкий пивной журнал',
+    'balove.sk':          'Блог фотоисторий о Братиславе',
+    'yimba.sk':           'Журнал о девелопменте и архитектуре Братиславы',
+    'podnavylet.sk':      'Портал идей для прогулок по Словакии',
+    'storymaps.arcgis.com': 'Платформа интерактивных историй ArcGIS',
   }
 
   const src = (domain: string) => `
@@ -147,7 +165,16 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('vypadni.sk')}
     ${src('dubravka.sk')}
     ${src('bratislava.dnes24.sk')}
-  </ul>
+    ${src('mileticka.com')}
+    ${src('mileticka.sk')}
+    ${src('sustava.sk')}
+    ${src('app.geology.sk')}
+    ${src('opive.sk')}
+    ${src('balove.sk')}
+    ${src('yimba.sk')}
+    ${src('podnavylet.sk')}
+    ${src('storymaps.arcgis.com')}
+</ul>
 </div>`,
   })
 }

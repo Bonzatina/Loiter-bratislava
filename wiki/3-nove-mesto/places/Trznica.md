@@ -21,5 +21,6 @@ updated: 2026-07-07
 
 - [[Matusik-Ivan|Иван Матушик]] — автор проекта
 - [[Obchodne-stredisko-Slimak|«Слимак»]] и [[Prior-a-hotel-Kyjev|«Приор»/«Киев»]] — его же торговая трилогия
+- [[Stanica-konskej-zeleznice|Станция конной железной дороги]] — старейший сосед через Трнавске мыто (1840)
 - [[postwar-modernism|Послевоенный модернизм]]
 - [[3-nove-mesto|Нове-Место]]

@@ -17,7 +17,7 @@ The wiki's first object here is the [[Legionarske-domy|Legionnaires' Houses]] (1
 
 ![Coat of arms of Nové Mesto](/assets/erb-3-nove-mesto.png)
 
-In a red field, a silver building with a central turret — a historic curia of the winegrowing slopes — and beneath it a golden vine leaf with a silver grape cluster: the memory of the vineyards on which this borough grew.
+In a red field, a silver building with a central turret — the [[Stanica-konskej-zeleznice|station of the first horse-drawn railway]] of 1840, standing at the borough's southwestern tip — and beneath it a golden vine leaf with a silver grape cluster: the memory of the vineyards on which this borough grew.
 
 ## Objects
 
@@ -25,6 +25,7 @@ In a red field, a silver building with a central turret — a historic curia of 
 - [[Statny-obytny-dom|The state residential house on Vajnorská]] — Šebor's Rondocubism (1924), burned and restored
 - [[Obchodne-stredisko-Slimak|Slimák shopping centre]] — Matušík's circular "snail" (1964)
 - [[Trznica|Market Hall at Trnavské mýto]] — Matušík's glazed market (1983)
+- [[Stanica-konskej-zeleznice|Horse Railway Station]] — terminus of Hungary's first railway (1840), the building from the borough's coat of arms
 - [[Olympijske-muzeum|Slovak Olympic and Sports Museum]] — in the House of Sport at Pasienky
 - [[Zelezna-studnicka|Železná studnička]] — the forest park's heart: the Ferdinand Baths (1828) and the Swan Pavilion being revived
 - [[Televizna-veza-Kamzik|Kamzík TV Tower (Televízna veža Kamzík)]] — the 194-metre needle (1967–1975) with an observation deck and restaurant

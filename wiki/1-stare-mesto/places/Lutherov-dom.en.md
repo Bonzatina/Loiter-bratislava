@@ -17,7 +17,7 @@ Luther House (Lutherov dom) is a large residential complex of the Evangelical co
 
 The facade's most distinctive feature is its vertical strips of sculptural relief portraits by the Bratislava sculptor [[Rigele-Alojz|Alojz Rigele]], depicting figures of the Evangelical church. Austere rows of windows, a stone base and a tall hipped roof lend the complex a stately, almost palatial character unusual for interwar housing.
 
-The house stands in the upper part of the Old Town, on the way from the castle hill to the Presidential Palace, and remains a residential building.
+The house stands in the upper part of the Old Town, on the way from the castle hill to the [[Grasalkovicov-palac|Presidential Palace]], and remains a residential building.
 
 ## See Also
 

@@ -25,5 +25,6 @@ After the revolution the square was among the first to be renamed (officially fr
 - [[Slovensky-rozhlas|Slovak Radio Building]] — the inverted pyramid a block away
 - [[Socha-Imricha-Karvasa|Statue of Imrich Karvaš]] — the granite monument by the neighbouring National Bank tower
 - [[Pomnik-Hviezdoslava|Hviezdoslav Monument]] — the 1937 unveiling procession set out from here
+- [[Model-Marsu|Mars of the Solar System Model]] — the pillar with the 14 mm red planet at the edge of the square
 - [[postwar-modernism|Post-war modernism]]
 - [[1-stare-mesto|Staré Mesto]]

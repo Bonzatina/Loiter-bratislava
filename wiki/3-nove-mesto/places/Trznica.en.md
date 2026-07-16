@@ -21,5 +21,6 @@ Inside are two levels of market rows with stands for private vendors of produce 
 
 - [[Matusik-Ivan|Ivan Matušík]] — author of the design
 - [[Obchodne-stredisko-Slimak|Slimák]] and [[Prior-a-hotel-Kyjev|Prior/Kyjev]] — his retail trilogy
+- [[Stanica-konskej-zeleznice|Horse Railway Station]] — the oldest neighbour across Trnavské mýto (1840)
 - [[postwar-modernism|Post-war modernism]]
 - [[3-nove-mesto|Nové Mesto]]

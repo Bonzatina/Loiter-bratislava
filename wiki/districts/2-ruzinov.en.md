@@ -25,6 +25,9 @@ In a red field, a silver wall with two golden-roofed towers and a silver double 
 - [[Park-Andreja-Hlinku|Andrej Hlinka Park]] — Milučký's linear park through Trávniky
 - [[Fontana-pre-Zuzanu|Fountain for Zuzana]] — the 1985 film fountain in a Starý Ružinov courtyard
 - [[Socha-svateho-Ondreja|Statue of St Andrew]] — a baroque migrant from the old town (1942) in the park by Miletičova
+- [[Trhovisko-Mileticova|Miletičova Market]] — the legendary "Miletička" on the grounds of the former city slaughterhouse
+- [[Model-Jupitera|Jupiter of the Solar System Model]] — a 30.8 cm golden sphere by the gymnasium on Jelačičova (2024)
+- [[Saleziani-Mileticova|Salesian House on Miletičova]] — the centre of Slovakia's Salesians: 1933, the "barbaric night" of 1950, 1990s revival
 
 ## Quarters
 

@@ -202,7 +202,24 @@
 | `nepomucky-most-krizepocha-2021` | https://kriz.epocha.sk/sochy-svatych/bratislava/stare-mesto-sv-jan-nepomucky-172-na-michalskom-moste | Kriz.epocha: Ян Непомуцкий на Михальском мосту |
 | `michal-most-krizepocha-2021` | https://kriz.epocha.sk/sochy-svatych/bratislava/stare-mesto-sv-michal-archanjel-172-na-michalskom-moste | Kriz.epocha: архангел Михаил на Михальском мосту |
 | `ondrej-ruzinov-krizepocha-2021` | https://kriz.epocha.sk/sochy-svatych/bratislava/ruzinov-sv-ondrej-1742-park-mileticova-zahradnicka | Kriz.epocha: святой Ондрей в парке у Милетичовой |
-
+| `socha-ondreja-muop-2009` | https://www.muop.eu/socha-sv-ondreja | MÚOP: статуя св. Ондрея в реестре памятных объектов (RUZ-1A-24) |
+| `socha-ondreja-evidencny-list-2009` | https://zastupitelstvo.bratislava.sk/data/att/51604.pdf | Учётный лист памятного объекта RUZ-1A-24: статуя св. Ондрея (PDF) |
+| `mileticka-onas-2026` | http://mileticka.com/o-nas/ | Сайт рынка Милетичова: о рынке и истории бойни |
+| `mileticka-dnes24-2016` | https://bratislava.dnes24.sk/legendarna-mileticka-cim-sa-preslavila-a-kto-vlastne-bol-srbsky-modny-guru-236302 | Dnes24: легендарная Милетичка и Светозар Милетич |
+| `saleziani-skwiki-2026` | https://sk.wikipedia.org/wiki/Saleziáni_Don_Bosca | Словацкая Википедия: салезианцы Дона Боско в Словакии |
+| `sustava-sk-2026` | https://www.sustava.sk/ | Сайт проекта «Прогулки по Солнечной системе» — модель 1:464 млн |
+| `hodzovo-namestie-skwiki-2026` | https://sk.wikipedia.org/wiki/Hodžovo_námestie | Словацкая Википедия: Годжова площадь |
+| `podchod-hodzovo-dekam-2026` | https://app.geology.sk/dekam/info/395B3435-1B32-40D4-AE60-061EF1F34292/1 | DEKAM (ŠGÚDŠ): декоративные камни перехода под Годжовой площадью |
+| `farnost-mileticka-2026` | https://mileticka.sk/dejiny-farnosti/ | Сайт салезианского прихода на Милетичовой: история фарности |
+| `pivovar-stein-opive-2014` | https://opive.sk/pribeh-pivovaru-po-ktorom-nezostane-nic-stein/ | oPive: история пивоварни Stein (1872–2014) |
+| `pivovar-stein-register-architektury-2026` | https://register-architektury.sk/sk/objekt/568-pivovar-stein | Register architektúry: пивоварня Stein — строительная история и снос |
+| `pivovar-stein-balove-2019` | https://balove.sk/ked-bratislavskym-pivarom-pukalo-srdce-takto-sme-prisli-o-stein/ | Balove.sk: снос пивоварни Stein 2014 года, фоторепортаж |
+| `spilka-visitbratislava-2026` | https://www.visitbratislava.com/places/spilka-beer-restaurant/ | Visit Bratislava: ресторан Spilka в спилке пивоварни Stein |
+| `grasalkovicov-palac-skwiki-2026` | https://sk.wikipedia.org/wiki/Grasalkovičov_palác | Словацкая Википедия: Грассалковичев дворец |
+| `konska-zeleznica-skwiki-2026` | https://sk.wikipedia.org/wiki/Konská_železnica | Словацкая Википедия: конная железная дорога и её братиславская станция |
+| `konska-zeleznica-storymaps-2026` | https://storymaps.arcgis.com/stories/69e2cceb91f4415bbf71a4cf768aa46c | ArcGIS StoryMaps: конка Братислава–Трнава–Середь |
+| `stanica-konky-podnavylet-2026` | https://podnavylet.sk/vylet/1724-stanica-prvej-konskej-zeleznice-v-bratislave-1840 | Poď na výlet: станция первой конной железной дороги (1840) |
+| `stanica-konky-yimba-2025` | https://www.yimba.sk/rekonstrukcie-historickych-pamiatok/ikona-noveho-mesta-v-krajsom-sate-budova-byvalej-konskej-zeleznice-ma-prejst-obnovou | YIM.BA: реконструкция здания конки, планы Нове-Места и ŽSR |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -334,6 +351,16 @@
 | [[Racianska-pamatna-izba|Рачанская памятная изба]] | 3-raca | Краеведение в Общинном доме: виноградарство, этнография, облачение Марии Терезии |
 | [[Dunajska-promenada|Дунайская променада]] | 1-stare-mesto | Галерея статуй от порта до River Park: меридиан 1733, Рона, копия Фадруса |
 | [[Socha-svateho-Ondreja|Статуя святого Ондрея]] | 2-ruzinov | Барокко 1712/1742 со Штуровой: снят перед сносом дома, с 1942 в парке у Милетичовой |
+| [[Trhovisko-Mileticova|Рынок Милетичова]] | 2-ruzinov | Легендарная «Милетичка» на месте городской бойни (1884/1924); с 1970-х рынок |
+| [[Fontana-Planeta-mieru|Фонтан «Планета мира»]] | 1-stare-mesto | Шар Бартфая перед президентским дворцом; «Солнце» модели 1:464 млн |
+| [[Model-Venuse|Венера модели Солнечной системы]] | 1-stare-mesto | Шарик 26 мм на столбике, 233 м от «Солнца» (пл. 1 Мая) |
+| [[Model-Marsu|Марс модели Солнечной системы]] | 1-stare-mesto | Шарик 14,6 мм на столбике, 491 м от «Солнца» (пл. Свободы) |
+| [[Model-Jupitera|Юпитер модели Солнечной системы]] | 2-ruzinov | Золотой шар 30,8 см у гимназии на Елачичовой (2024), 1,7 км от «Солнца» |
+| [[Hodzovo-namestie|Годжова площадь]] | 1-stare-mesto | Президентский дворец, «Мирко», фонтан Бартфая и камни перехода 1981/2008 |
+| [[Saleziani-Mileticova|Салезианский дом на Милетичовой]] | 2-ruzinov | Центр салезианцев с 1933: «варварская ночь» 1950, новый костёл 1997 |
+| [[Pivovar-Stein|Пивоварня Stein]] | 1-stare-mesto | Главная пивоварня города (1873–2008); снесена в 2014, уцелела только спилка |
+| [[Grasalkovicov-palac|Грассалковичев дворец]] | 1-stare-mesto | Рококо 1760 (Майерхофер); дом пионеров, с 1996 — резиденция президента |
+| [[Stanica-konskej-zeleznice|Станция конной железной дороги]] | 3-nove-mesto | Вокзал первой железной дороги Венгрии (1836–1840); здание с герба района |
 
 ## Кварталы
 
@@ -384,3 +411,4 @@
 | [[rondocubism|Рондокубизм]] | «Национальный стиль» ЧСР начала 1920-х: Шилингер и Юркович |
 | [[pressburg-families|Прессбургские семьи]] | Десять династий старого Прессбурга и их судьбы в XX веке |
 | [[iron-curtain|Железный занавес]] | Граница у порога города: жертвы, побеги, память |
+| [[solar-system-model|Модель Солнечной системы]] | «Прогулки по Солнечной системе» 1:464 млн: от фонтана-«Солнца» до Юпитера |

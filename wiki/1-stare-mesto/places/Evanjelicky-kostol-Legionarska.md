@@ -3,7 +3,7 @@ title: Евангелическая церковь на Легионерской
 type: place
 domain: religion
 district: 1-stare-mesto
-coords: [48.15596, 17.12395]
+coords: [48.15640, 17.12216]
 tags: [church, protestant, modernism, blumental]
 sources: [evanjelicky-kostol-register-architektury-2026, harminc-huwiki-2026]
 updated: 2026-07-07
@@ -22,4 +22,5 @@ updated: 2026-07-07
 - [[Harminc-Milan-Michal|Милан Михал Гарминц]] — автор проекта
 - [[Lutherov-dom|Лютеров дом]] — жильё той же евангелической общины на Палисадах
 - [[Kostol-svatej-Margity|Костёл святой Маргиты]] — поздний храм Гарминца в Ламаче
+- [[Pivovar-Stein|Пивоварня Stein]] — снесённый сосед по Блюменталу через Легионарскую
 - [[1-stare-mesto|Старе-Место]]

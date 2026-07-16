@@ -3,7 +3,7 @@ title: Protestant Church on Legionárska (Evanjelický kostol)
 type: place
 domain: religion
 district: 1-stare-mesto
-coords: [48.15596, 17.12395]
+coords: [48.15640, 17.12216]
 tags: [church, protestant, modernism, blumental]
 sources: [evanjelicky-kostol-register-architektury-2026, harminc-huwiki-2026]
 updated: 2026-07-07
@@ -22,4 +22,5 @@ Inside is a raised hall-space with side galleries and an organ loft at the rear.
 - [[Harminc-Milan-Michal|Milan Michal Harminc]] — author of the design
 - [[Lutherov-dom|Luther House]] — housing of the same Evangelical community on Palisády
 - [[Kostol-svatej-Margity|Church of St Margaret]] — Harminc's late church in Lamač
+- [[Pivovar-Stein|Stein Brewery]] — the demolished Blumentál neighbour across Legionárska
 - [[1-stare-mesto|Staré Mesto]]

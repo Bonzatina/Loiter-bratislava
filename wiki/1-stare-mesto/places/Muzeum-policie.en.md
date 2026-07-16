@@ -15,7 +15,7 @@ The Police Museum of the Slovak Republic (Múzeum polície SR) at Gunduličova 2
 
 ![Police Museum of the Slovak Republic on Gunduličova](/assets/muzeum-policie.jpg)
 
-An amusing contrast: the museum of a stern agency hides in an ornate eclectic apartment house on a quiet street below the Presidential Palace.
+An amusing contrast: the museum of a stern agency hides in an ornate eclectic apartment house on a quiet street below the [[Grasalkovicov-palac|Presidential Palace]].
 
 ## Practical Information
 
