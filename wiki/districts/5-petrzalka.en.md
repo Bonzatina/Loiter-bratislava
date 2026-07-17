@@ -43,6 +43,7 @@ In a silver field, six trees — five small green ones and one large with a gold
 - [[Elyzium|Elysium (Elýzium)]] — the vanished quarter of the poor by the Old Bridge; named after a French cemetery of 1809
 - [[Pamatnik-obetiam-extremizmu|Memorial to the Victims of Extremism]] — the memory of Daniel Tupý (†2005) on Tyršovo nábrežie
 - [[Kaplnka-v-Starom-haji|Chapel of the Holy Cross in Starý háj]] — from a cross washed up by the 1809 flood to the chapel of 1909
+- [[Objekt-Bilkovica|Bilkovič's "Object" (Objekt)]] — abstraction on the facade of the Fedinova clinic (1990)
 
 The 1980s "peace" series did not end there: on Námestie hraničiarov stands Ján Ilavský's Peace Song (Mierová pieseň, 1983), and at the entrance of the health school on Strečnianska — Juraj Deák's stone mosaic Peace for Children (Mier deťom). Fountains, though, are almost absent in Petržalka — the estate was built when the "fountain era" of 1965–1989 (the law on a percentage for art in construction) was already fading, and the water features planned with the unrealized linear centre never appeared; of Vladimír Havrilla's fountain "Man and the Universe" only the Zen Girl statue between Turnianska and Krásnohorská remains.
 

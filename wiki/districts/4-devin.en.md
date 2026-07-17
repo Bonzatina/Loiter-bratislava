@@ -25,6 +25,7 @@ In a blue field, a walking silver winged ox with a golden halo above a scroll in
 - [[Amfiteater-Devin|The amphitheatre below Devín Castle]] — the Third Reich's "people's theatre", All-Slavic Day of 1945
 - [[Hrad-Devin|Devín Castle (hrad Devín)]] — the ruins above the Morava-Danube confluence: Dowina of 864, Štúr's outing of 1836
 - [[Brana-slobody|Gate of Freedom (Brána slobody)]] — the gate of freedom at the confluence: memory of those killed at the Iron Curtain
+- [[Vyhliadkova-veza-Devinska-Kobyla|Lookout Tower on Devínska Kobyla]] — a parametric lookout of 2020: three countries from 112 steps
 
 ## See Also
 

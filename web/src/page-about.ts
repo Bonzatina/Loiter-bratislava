@@ -60,6 +60,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'slovago.sk':         'Slovak trips and experiences portal',
     'svu.sk':             'Slovak Union of Visual Arts',
     'peme.sk':            'Sculptor Peter Mészároš\'s site',
+    'galeria19.sk':       'Galéria 19 contemporary art gallery',
     'vypadni.sk':         'Slovak trip-ideas portal',
     'dubravka.sk':        'Official website of the Dúbravka borough',
     'bratislava.dnes24.sk': 'Bratislava news portal',
@@ -107,6 +108,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'slovago.sk':         'Портал поездок по Словакии',
     'svu.sk':             'Словацкий союз художников',
     'peme.sk':            'Сайт скульптора Петера Месароша',
+    'galeria19.sk':       'Галерея современного искусства Galéria 19',
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
     'dubravka.sk':        'Официальный сайт городской части Дубравка',
     'bratislava.dnes24.sk': 'Новостной портал Братиславы',
@@ -186,6 +188,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('slovago.sk')}
     ${src('svu.sk')}
     ${src('peme.sk')}
+    ${src('galeria19.sk')}
     ${src('vypadni.sk')}
     ${src('dubravka.sk')}
     ${src('bratislava.dnes24.sk')}

@@ -9,7 +9,7 @@ updated: 2026-07-07
 
 # Devínska Nová Ves (Bratislava IV)
 
-Devínska Nová Ves is the city's north-western borough on the Morava river, right on the Austrian border (Bratislava IV okres). In the 16th century the village was settled by Croats fleeing the Ottomans, and Croatian could still be heard here in the 20th century — the [[Muzeum-kultury-Chorvatov|Museum of Croatian Culture in Slovakia]] on the main Istrijská street is devoted to this heritage. Above the village rises the Sandberg sand cliff — a famous palaeontological exposure of a Tertiary sea and part of the Devínska Kobyla reserve. The former school on Charkovská street now also houses the [[Muzeum-skolstva-a-pedagogiky|Museum of Education and Pedagogy]], which moved here from Petržalka.
+Devínska Nová Ves is the city's north-western borough on the Morava river, right on the Austrian border (Bratislava IV okres). In the 16th century the village was settled by Croats fleeing the Ottomans, and Croatian could still be heard here in the 20th century — the [[Muzeum-kultury-Chorvatov|Museum of Croatian Culture in Slovakia]] on the main Istrijská street is devoted to this heritage. Above the village rises the [[Sandberg|Sandberg]] sand cliff — a famous palaeontological exposure of a Tertiary sea and part of the Devínska Kobyla reserve, crowned by the [[Vyhliadkova-veza-Devinska-Kobyla|lookout tower]] that this very borough built. The former school on Charkovská street now also houses the [[Muzeum-skolstva-a-pedagogiky|Museum of Education and Pedagogy]], which moved here from Petržalka.
 
 ## Coat of Arms
 
@@ -21,6 +21,9 @@ In a red field, a silver dove with spread wings perched on a silver cross patté
 
 - [[Muzeum-kultury-Chorvatov|Museum of Croatian Culture in Slovakia]] — the Croatian heritage of Devínska
 - [[Muzeum-skolstva-a-pedagogiky|Museum of Education and Pedagogy]] — the school classroom through the ages
+- [[Sandberg|Sandberg]] — cliffs of a Tertiary sea: fossils, bee-eaters and sunset views
+- [[Cyklomost-slobody|Freedom Cycling Bridge (Cyklomost slobody)]] — the bridge to Austria over the former curtain; the "Chuck Norris Bridge" that wasn't
+- [[Srot-park|Šrot Park Gallery]] — a scrap-metal menagerie at the bridge entrance
 
 ## See Also
 

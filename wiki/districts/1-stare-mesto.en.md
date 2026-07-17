@@ -79,6 +79,7 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Pomnik-Stefanika|Štefánik Monument (pomník M. R. Štefánika)]] — the general and the legion lion by Eurovea; a saga since 1938
 - [[Kacacia-fontana|Duck Fountain (Kačacia fontána)]] — Kühmayer's boys and ducks (1914) with the water-sprite legend
 - [[Galeria-Umelka|Umelka Gallery (Galéria Umelka)]] — Slovakia's oldest functionalism, cradle of the VPN of 1989
+- [[Galeria-19|Gallery 19 (Galéria 19)]] — Marián Mudroch's non-profit gallery on Lazaretská; free entry
 - [[Sky-Park|Sky Park]] — the Zaha Hadid towers on the Apollo refinery site
 - [[Pamatnik-obetiam-komunizmu|Memorial to the Victims of Communism]] — Barinka's stone on Jakubovo námestie (2005)
 - [[Dunajska-promenada|Danube Promenade]] — an open-air gallery of statues and the Pressburg meridian of 1733

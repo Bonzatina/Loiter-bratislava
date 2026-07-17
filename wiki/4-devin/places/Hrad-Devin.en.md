@@ -32,3 +32,4 @@ Today's route leads from the north gate through the lower castle (foundations of
 - [[Muzeum-mesta-Bratislavy|Bratislava City Museum]] — keeper of the castle exposition
 - [[Amfiteater-Devin|Amphitheatre below Devín Castle]] — the 1938–1945 legacy at the foot
 - [[iron-curtain|Iron Curtain]] — the border that ran along the Morava beneath the walls
+- [[Vyhliadkova-veza-Devinska-Kobyla|Lookout Tower on Devínska Kobyla]] — a three-country panorama from the summit above the castle

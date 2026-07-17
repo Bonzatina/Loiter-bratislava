@@ -24,6 +24,7 @@ Dostojevského rad 2 — opposite Šafárikovo námestie, between the historic c
 ## See Also
 
 - [[Kacacia-fontana|Duck Fountain]] — the neighbour on Šafárikovo námestie
+- [[Galeria-19|Gallery 19 (Galéria 19)]] — its non-profit neighbour in the blocks beyond Dunajská
 - [[functionalism|Functionalism]] — the chapter of architecture this building opened
 - [[Historicka-budova-SND|Historic SND Building]] — a few minutes' walk away
 - [[1-stare-mesto|Staré Mesto]]

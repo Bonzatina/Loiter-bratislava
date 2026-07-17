@@ -30,6 +30,7 @@ In a red field, a silver wall with two golden-roofed towers and a silver double 
 - [[Saleziani-Mileticova|Salesian House on Miletičova]] — the centre of Slovakia's Salesians: 1933, the "barbaric night" of 1950, 1990s revival
 - [[Most-Apollo|Apollo Bridge (Most Apollo)]] — the steel arch of 2005, named in memory of the Apollo refinery
 - [[Pristavny-most|Prístavný Bridge (Prístavný most)]] — the two-storey workhorse: trains below, motorway above
+- [[Keramicka-plastika-s-troma-figurami|Ceramic Sculpture with Three Figures]] — Haberernová-Trančíková's totem (1980) on Ivanská cesta
 
 ## Quarters
 

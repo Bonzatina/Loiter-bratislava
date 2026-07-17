@@ -233,6 +233,17 @@
 | `sky-park-skwiki-2026` | https://sk.wikipedia.org/wiki/SKY_PARK | Словацкая Википедия: Sky Park и рафинерия Apollo |
 | `brana-slobody-peme-2026` | https://www.peme.sk/brana-slobody | Скульптор Петер Месарош: Брана слободы и бюст Срголеца |
 | `obetiam-komunizmu-umeniemesta-2026` | https://umeniemesta.sk/diela/recTQq9AgwC37uezc | Umenie mesta: памятник жертвам коммунизма Баринки |
+| `objekt-bilkovic-storymaps-2026` | https://storymaps.arcgis.com/stories/c9f3091d6e0141a3ac0eef1a298ebc52 | ArcGIS StoryMaps (GMB): «Объект» Билковича на Фединовой |
+| `keramicka-plastika-storymaps-2026` | https://storymaps.arcgis.com/stories/e5d6c376d458492b85d24c3f09872479 | ArcGIS StoryMaps (GMB): керамика Хаберерновой-Транчиковой |
+| `rozpravkovy-strom-umeniemesta-2026` | https://umeniemesta.sk/diela/recmVfYEQHzrH76tL | Umenie mesta: «Сказочное дерево» Масаровичовой |
+| `vyduch-umeniemesta-2026` | https://umeniemesta.sk/diela/recuIWQ95BvBRnZgL | Umenie mesta: «Выдух» у поликлиники Карловой Веси |
+| `muzeum-skolstva-bratislavaden-2024` | https://bratislavaden.sk/vyborne-spravy-pre-milovnikov-kulturyv-bratislave-sa-opat-otvorilo-muzeum-skolstva-a-pedagogiky/ | Bratislavaden: музей школьного дела вновь открылся в Девинской (27.4.2024) |
+| `veza-kobyla-bratislavaden-2025` | https://bratislavaden.sk/veza-na-devinskej-kobyle-patri-medzi-svetove-atrakcie-renomovany-portal-archdaily-ju-zaradil-medzi-25-najzaujimavejsich/ | Bratislavaden: башня на Девинской Кобыле в топ-25 ArchDaily |
+| `sandberg-bratislavaden-2026` | https://bratislavaden.sk/bratislava-ponuka-skryty-kusok-plaze-objavte-miesto-kde-bolo-kedysi-more-uzite-si-tu-unikatnu-prirodu-a-krasne-vyhlady/ | Bratislavaden: Сандберг — «кусочек пляжа», где было море |
+| `galeria-19-galeria19-2026` | https://www.galeria19.sk/galeria-19/ | Сайт Галереи 19: манифест Мудроха, контакты, часы |
+| `srot-park-bratislavaden-2022` | https://bratislavaden.sk/spojte-prechadzku-s-kulturou-a-vyrazte-do-galerie-srot-park-caka-vas-jedinecna-vystava/ | Bratislavaden: галерея «Шрот-парк» — звери из металлолома |
+| `bunkre-predaj-bratislavaden-2022` | https://bratislavaden.sk/mate-peniaze-navyse-a-bojite-sa-vojny-v-bratislavskom-kraji-sa-predavaju-3-vojenske-bunkre/ | Bratislavaden: три военных бункера на продажу (2022) |
+| `cyklomost-bratislavaden-2022` | https://bratislavaden.sk/tip-na-vylet-cyklomost-slobody-je-prijemnou-prechadzkou-privedie-vas-ku-krasnemu-zamku-v-rakusku/ | Bratislavaden: Цикломост свободы и прогулка к Шлоссхофу |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -352,11 +363,20 @@
 | [[Sky-Park|Sky Park]] | 1-stare-mesto | Башни Захи Хадид на месте рафинерии Apollo; парк 35 000 м² |
 | [[Brana-slobody|Брана слободы]] | 4-devin | Ворота свободы у слияния (2005): имена ~400 погибших у занавеса, бюст Срголеца |
 | [[Pamatnik-obetiam-komunizmu|Памятник жертвам коммунизма]] | 1-stare-mesto | Камень Баринки на Якубовой площади (2005) |
+| [[Objekt-Bilkovica|«Объект» Билковича]] | 5-petrzalka | Абстракция на фасаде поликлиники на Фединовой (1990) |
+| [[Keramicka-plastika-s-troma-figurami|Керамическая пластика с тремя фигурами]] | 2-ruzinov | Тотем Хаберерновой-Транчиковой (1980) в атриуме школы на Иванской |
+| [[Rozpravkovy-strom|«Сказочное дерево»]] | 4-karlova-ves | Железная сказка Масаровичовой (1979) в атриуме детской поликлиники |
+| [[Vyduch|«Выдух»]] | 4-karlova-ves | Вентиляционная колонна как дизайн-объект (Щепан, 1975–1980) |
 | [[Bratislavsky-hrad|Братиславский град]] | 1-stare-mesto | Главный силуэт города: пожар 1811, руина 150 лет, облик Марии Терезии |
 | [[Obchodny-dom-Ovsiste|«Малый Приор» в Овсишти]] | 5-petrzalka | ТД «Центрум» (1985) → «дом ужасов» → ТЦ «Bratislavský» с ожившими часами |
 | [[Muzeum-hodin|Музей часов]] | 1-stare-mesto | Часовщики Прессбурга (цех 1776, Гульдан) в доме «У доброго пастыря» |
 | [[Hviezdoslavovo-namestie|Гвездославова площадь]] | 1-stare-mesto | Главный променад города: от Promenadeplatz до корсо; фонтан, театр, посольства |
 | [[Palugyayov-palac|Дворец Палудяи]] | 1-stare-mesto | Неоренессансная штаб-квартира винной империи (Фейглер-мл., 1873–1879); ныне МИД |
+| [[Vyhliadkova-veza-Devinska-Kobyla|Смотровая башня на Девинской Кобыле]] | 4-devin | Параметрическая башня 2020 года: 112 ступеней, три страны, топ-25 ArchDaily |
+| [[Sandberg|Сандберг]] | 4-devinska-nova-ves | Утёсы третичного моря: окаменелости, золотистые щурки, закатные виды |
+| [[Galeria-19|Галерея 19]] | 1-stare-mesto | Некоммерческая галерея Мудроха на Лазаретской (2010); пн–пт 14–19, бесплатно |
+| [[Cyklomost-slobody|Цикломост свободы]] | 4-devinska-nova-ves | Мост в Австрию (2012, Белачек, 525 м); несостоявшийся «мост Чака Норриса» |
+| [[Srot-park|Галерея «Шрот-парк»]] | 4-devinska-nova-ves | Звери из металлолома Покорного у Цикломоста; вход — взнос в канистру |
 | [[Leberfinger|Ресторан «Леберфингер»]] | 5-petrzalka | Старейший трактир правого берега; Наполеон, пожар 1992, возрождение 1998 |
 | [[Strkovecke-jazero|Штрковецкое озеро]] | 2-ruzinov | Озеро-«штерковиско» (56 000 м²): купальня до 1989-го, верблюдица Микланека |
 | [[Historicka-budova-SND|Историческое здание СНТ]] | 1-stare-mesto | Неоренессанс Фелльнера и Хельмера (1886); Талия Фридля, драма бюстов |

@@ -24,6 +24,8 @@ In a blue field, a golden letter "C" entwined with a grape bunch and tendrils. T
 
 - [[Vodarenske-muzeum|The Waterworks Museum (Vodárenské múzeum)]] — the city's first pumping station (1886)
 - [[Most-Lafranconi|Lafranconi Bridge (Most Lafranconi)]] — the city's concrete western gateway (1991), the D2 motorway
+- [[Rozpravkovy-strom|The Fairy-tale Tree (Rozprávkový strom)]] — Masarovičová's iron fairy tale (1979) in the children's policlinic atrium
+- [[Vyduch|The "Vent" (Výduch)]] — a ventilation column as a design object by the same policlinic
 
 ## See Also
 
