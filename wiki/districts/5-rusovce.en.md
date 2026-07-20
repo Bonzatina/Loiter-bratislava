@@ -10,7 +10,7 @@ updated: 2026-07-07
 
 # Rusovce (Bratislava V)
 
-Rusovce is a rural borough on the right bank of the Danube, in the southern part of okres Bratislava V, squeezed between [[5-petrzalka|Petržalka]] and Čunovo. It is the city's most "ancient" spot: here, on the Roman limes, the military camp of [[Gerulata]] stood for almost four centuries — since 2021 part of the UNESCO World Heritage site "Danube Limes". Rusovce's history is as motley as any part of Bratislava's: Hungarian Oroszvár and German Karlburg, the village remained part of Hungary until 1947, when the Paris Peace Treaty transferred it, together with Jarovce and Čunovo, to Czechoslovakia (the "Bratislava bridgehead"); it became part of Bratislava in 1972.
+Rusovce is a rural borough on the right bank of the Danube, in the southern part of okres Bratislava V, squeezed between [[5-petrzalka|Petržalka]] and [[5-cunovo|Čunovo]]. It is the city's most "ancient" spot: here, on the Roman limes, the military camp of [[Gerulata]] stood for almost four centuries — since 2021 part of the UNESCO World Heritage site "Danube Limes". Rusovce's history is as motley as any part of Bratislava's: Hungarian Oroszvár and German Karlburg, the village remained part of Hungary until 1947, when the Paris Peace Treaty transferred it, together with Jarovce and Čunovo, to Czechoslovakia (the "Bratislava bridgehead"); it became part of Bratislava in 1972.
 
 The main sight is the [[Rusovsky-kastiel|Rusovce mansion (Rusovský kaštieľ)]], a neo-Gothic castle in the English "Windsor" style amid a large landscape park. From 1906 to 1945 it was home to [[Stefania-Belgicka|Princess Stephanie of Belgium]] — widow of Crown Prince Rudolf of Habsburg, after whom the famous Bratislava café Štefánka is named; with her husband Elemér Lónyay she turned Rusovce into a model estate. Today Rusovce is a quiet day-trip destination: Roman ruins, the castle park, floodplain forests and Danube branches.
 
@@ -24,6 +24,7 @@ In a blue field, on a green hill, a golden two-tailed lion with protruding tongu
 
 - [[Gerulata]] — Roman military camp of the 2nd–4th centuries, a City Museum site, UNESCO
 - [[Rusovsky-kastiel|Rusovce mansion (Rusovský kaštieľ)]] — neo-Gothic castle with an English park
+- [[Syslovske-polia|Sysľovské Fields (Sysľovské polia)]] — Slovakia's only great bustard nesting ground; seasonal trail July–September
 
 ## See Also
 

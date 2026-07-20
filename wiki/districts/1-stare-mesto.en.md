@@ -82,6 +82,9 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Galeria-19|Gallery 19 (Galéria 19)]] — Marián Mudroch's non-profit gallery on Lazaretská; free entry
 - [[Sky-Park|Sky Park]] — the Zaha Hadid towers on the Apollo refinery site
 - [[Pamatnik-obetiam-komunizmu|Memorial to the Victims of Communism]] — Barinka's stone on Jakubovo námestie (2005)
+- [[Pomnik-Sama-Chalupku|Samo Chalupka Monument]] — the Romantic poet's bust on a stone disc (Chrťan, 1974), corner of Legionárska
+- [[Dvetisicrocna-Bratislava|Two-Thousand-Year Bratislava]] — Meliš's five concrete reliefs by the station (1979–1980)
+- [[Prva-postova-schranka|The First Postbox]] — Sabo's bronze with a working letterbox on Poštová (2001)
 - [[Dunajska-promenada|Danube Promenade]] — an open-air gallery of statues and the Pressburg meridian of 1733
 - [[Pivovar-Stein|Stein Brewery (Pivovar Stein)]] — 135 years of Bratislava beer in Blumentál: from the Stein brothers to the 2014 demolition
 

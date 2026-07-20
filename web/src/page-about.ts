@@ -61,6 +61,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'svu.sk':             'Slovak Union of Visual Arts',
     'peme.sk':            'Sculptor Peter Mészároš\'s site',
     'galeria19.sk':       'Galéria 19 contemporary art gallery',
+    'kastielcunovo.sk':   'Čunovo Ecocentre (Bratislava Region)',
+    'cor.europa.eu':      'European Committee of the Regions',
     'vypadni.sk':         'Slovak trip-ideas portal',
     'dubravka.sk':        'Official website of the Dúbravka borough',
     'bratislava.dnes24.sk': 'Bratislava news portal',
@@ -109,6 +111,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'svu.sk':             'Словацкий союз художников',
     'peme.sk':            'Сайт скульптора Петера Месароша',
     'galeria19.sk':       'Галерея современного искусства Galéria 19',
+    'kastielcunovo.sk':   'Экоцентр Чуново (Братиславский край)',
+    'cor.europa.eu':      'Европейский комитет регионов',
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
     'dubravka.sk':        'Официальный сайт городской части Дубравка',
     'bratislava.dnes24.sk': 'Новостной портал Братиславы',
@@ -189,6 +193,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('svu.sk')}
     ${src('peme.sk')}
     ${src('galeria19.sk')}
+    ${src('kastielcunovo.sk')}
+    ${src('cor.europa.eu')}
     ${src('vypadni.sk')}
     ${src('dubravka.sk')}
     ${src('bratislava.dnes24.sk')}

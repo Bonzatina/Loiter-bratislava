@@ -27,4 +27,5 @@ The street's beginning at Hurbanovo námestie was caught by the era of the [[Mos
 - [[Vydrica]] and [[Zuckermandel]] — the quarters that vanished entirely under the same project
 - [[Ramharterov-dom|The Ramharter house — Café Regina]] — modernism on neighbouring Hurbanovo námestie
 - [[Stara-trznica|The Old Market Hall]] — the covered market a few steps away
+- [[Prva-postova-schranka|The First Postbox]] — Sabo's bronze on adjoining Poštová
 - [[1-stare-mesto|Staré Mesto]]

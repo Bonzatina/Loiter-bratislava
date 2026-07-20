@@ -244,6 +244,14 @@
 | `srot-park-bratislavaden-2022` | https://bratislavaden.sk/spojte-prechadzku-s-kulturou-a-vyrazte-do-galerie-srot-park-caka-vas-jedinecna-vystava/ | Bratislavaden: галерея «Шрот-парк» — звери из металлолома |
 | `bunkre-predaj-bratislavaden-2022` | https://bratislavaden.sk/mate-peniaze-navyse-a-bojite-sa-vojny-v-bratislavskom-kraji-sa-predavaju-3-vojenske-bunkre/ | Bratislavaden: три военных бункера на продажу (2022) |
 | `cyklomost-bratislavaden-2022` | https://bratislavaden.sk/tip-na-vylet-cyklomost-slobody-je-prijemnou-prechadzkou-privedie-vas-ku-krasnemu-zamku-v-rakusku/ | Bratislavaden: Цикломост свободы и прогулка к Шлоссхофу |
+| `syslovske-polia-bratislavaden-2023` | https://bratislavaden.sk/sezonny-naucny-chodnik-na-syslovskych-poliach-je-uz-otvoreny-pre-chodcov-aj-cyklistov/ | Bratislavaden: сезонная тропа по Сысловским полям (CHVÚ) |
+| `historia-kastielcunovo-2026` | https://www.kastielcunovo.sk/historia/ | Сайт Экоцентра Чуново: история каштеля Сапари, часы |
+| `ekocentrum-cunovo-coreuropa-2026` | https://www.cor.europa.eu/sk/node/16869 | Комитет регионов ЕС: проект Экоцентра Чуново |
+| `ekocentrum-rekonstrukcia-bratislavaden-2023` | https://bratislavaden.sk/ekocentrum-v-cunove-uz-rekonstruuju-vo-vnutri-takto-to-tam-vyzera-teraz/ | Bratislavaden: ход реконструкции каштеля Чуново (2023) |
+| `havedovacka-bratislavaden-2026` | https://bratislavaden.sk/kam-s-detmi-v-bratislave-zadarmo-v-cunove-zazijete-hady-pavuky-ci-skorpiony-poriadne-zblizka/ | Bratislavaden: «Летняя хаведёвачка» в Экоцентре Чуново |
+| `pomnik-chalupku-umeniemesta-2026` | https://umeniemesta.sk/diela/recQy8e54kV3Vz1hO | Umenie mesta: памятник Само Халупке на Легионерской |
+| `dvetisicrocna-umeniemesta-2026` | https://umeniemesta.sk/diela/recfdnzBGssdgPp67 | Umenie mesta: рельефы Мелиша «Двухтысячелетняя Братислава» |
+| `postova-schranka-umeniemesta-2026` | https://umeniemesta.sk/diela/recj7z8F5HZHzz2LK | Umenie mesta: «Первый почтовый ящик» Сабо на Почтовой |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -261,6 +269,7 @@
 | [[4-karlova-ves|Карлова Вес (Bratislava IV)]] | Придунайская часть с островом Сихоть — источником воды города |
 | [[5-petrzalka|Петржалка (Petržalka, Bratislava V)]] | Крупнейшая часть города на правом берегу, панельный район |
 | [[5-rusovce|Русовце (Rusovce, Bratislava V)]] | Село с римской Герулатой и неоготическим каштелем |
+| [[5-cunovo|Чуново (Čunovo, Bratislava V)]] | Самое южное село города: каштель Сапари, плотина и Данубиана |
 
 ## Достопримечательности
 
@@ -377,6 +386,11 @@
 | [[Galeria-19|Галерея 19]] | 1-stare-mesto | Некоммерческая галерея Мудроха на Лазаретской (2010); пн–пт 14–19, бесплатно |
 | [[Cyklomost-slobody|Цикломост свободы]] | 4-devinska-nova-ves | Мост в Австрию (2012, Белачек, 525 м); несостоявшийся «мост Чака Норриса» |
 | [[Srot-park|Галерея «Шрот-парк»]] | 4-devinska-nova-ves | Звери из металлолома Покорного у Цикломоста; вход — взнос в канистру |
+| [[Syslovske-polia|Сысловские поля]] | 5-rusovce | CHVÚ у тройной границы: дрофа, кобчик; сезонная тропа июль–сентябрь |
+| [[Kastiel-Cunovo|Каштель Чуново — Экоцентр]] | 5-cunovo | Усадьба Сапари XVIII века → экоцентр BSK (Interreg, 2023); экспозиция о Дунае |
+| [[Pomnik-Sama-Chalupku|Памятник Само Халупке]] | 1-stare-mesto | Бюст на каменном диске (Хрчан и Хаускрехт, 1974); парк у общежития Юра Гронца |
+| [[Dvetisicrocna-Bratislava|«Двухтысячелетняя Братислава»]] | 1-stare-mesto | Пять бетонных рельефов Мелиша у вокзала (1979–1980): от кельтов до имён сёл |
+| [[Prva-postova-schranka|«Первый почтовый ящик»]] | 1-stare-mesto | Бронза Сабо (2001) с действующим ящиком; дизайн-улица BKU со Старком и Вильмоттом |
 | [[Leberfinger|Ресторан «Леберфингер»]] | 5-petrzalka | Старейший трактир правого берега; Наполеон, пожар 1992, возрождение 1998 |
 | [[Strkovecke-jazero|Штрковецкое озеро]] | 2-ruzinov | Озеро-«штерковиско» (56 000 м²): купальня до 1989-го, верблюдица Микланека |
 | [[Historicka-budova-SND|Историческое здание СНТ]] | 1-stare-mesto | Неоренессанс Фелльнера и Хельмера (1886); Талия Фридля, драма бюстов |
