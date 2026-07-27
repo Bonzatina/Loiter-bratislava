@@ -252,6 +252,9 @@
 | `pomnik-chalupku-umeniemesta-2026` | https://umeniemesta.sk/diela/recQy8e54kV3Vz1hO | Umenie mesta: памятник Само Халупке на Легионерской |
 | `dvetisicrocna-umeniemesta-2026` | https://umeniemesta.sk/diela/recfdnzBGssdgPp67 | Umenie mesta: рельефы Мелиша «Двухтысячелетняя Братислава» |
 | `postova-schranka-umeniemesta-2026` | https://umeniemesta.sk/diela/recj7z8F5HZHzz2LK | Umenie mesta: «Первый почтовый ящик» Сабо на Почтовой |
+| `labutia-fontana-bratislavaden-2026` | https://bratislavaden.sk/jedna-z-ikon-bratislavy-oziva-labutia-fontana-sa-ukaze-v-plnej-krase-a-privita-navstevnikov-uz-o-par-dni/ | Bratislavaden: Лебединый фонтан после реставрации — запуск 28.7.2026 |
+| `medicka-zahrada-bratislavaden-2017` | https://bratislavaden.sk/medicka-zahrada-jedinecne-miesto-na-oddych-i-zabavu/ | Bratislavaden: Медицкий сад — от Аспремонта до наших дней |
+| `labutia-fontana-umeniemesta-2026` | https://umeniemesta.sk/diela/rec8ggjTuJn3SDFPX | Umenie mesta: Лебединый фонтан Микшика — описание, датировки, координаты |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -420,6 +423,8 @@
 | [[Pivovar-Stein|Пивоварня Stein]] | 1-stare-mesto | Главная пивоварня города (1873–2008); снесена в 2014, уцелела только спилка |
 | [[Grasalkovicov-palac|Грассалковичев дворец]] | 1-stare-mesto | Рококо 1760 (Майерхофер); дом пионеров, с 1996 — резиденция президента |
 | [[Stanica-konskej-zeleznice|Станция конной железной дороги]] | 3-nove-mesto | Вокзал первой железной дороги Венгрии (1836–1840); здание с герба района |
+| [[Medicka-zahrada|Медицкий сад]] | 1-stare-mesto | Барочный сад Аспремонтова дворца (Тальхерр); липы Эстерхази, реконструкция 1985–1988 |
+| [[Labutia-fontana|Лебединый фонтан]] | 1-stare-mesto | Четыре бронзовых лебедя Микшика (1986) в центре Медицкого сада; перезапуск 28.7.2026 |
 
 ## Кварталы
 

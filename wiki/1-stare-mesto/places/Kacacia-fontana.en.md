@@ -21,6 +21,7 @@ Kühmayer is believed to have been inspired by an old Danube legend about a wate
 
 ## See Also
 
+- [[Labutia-fontana|Swan Fountain]] — its avian counterpart in the Medical Garden
 - [[Galeria-Umelka|Umelka Gallery]] — the functionalist neighbour across the road
 - [[Modry-kostolik|Blue Church]] — two hundred metres along Grösslingová
 - [[Stary-most|Old Bridge]] — the bridge that gave birth to the square

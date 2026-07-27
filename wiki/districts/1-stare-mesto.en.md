@@ -78,6 +78,8 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Pamatnik-Kuciaka-a-Kusnirovej|Ján Kuciak & Martina Kušnírová Memorial]] — the memory of the 2018 murder that changed Slovakia
 - [[Pomnik-Stefanika|Štefánik Monument (pomník M. R. Štefánika)]] — the general and the legion lion by Eurovea; a saga since 1938
 - [[Kacacia-fontana|Duck Fountain (Kačacia fontána)]] — Kühmayer's boys and ducks (1914) with the water-sprite legend
+- [[Medicka-zahrada|Medical Garden (Medická záhrada)]] — the baroque garden of the Aspremont palace, now the centre's favourite park
+- [[Labutia-fontana|Swan Fountain (Labutia fontána)]] — Mikšík's four bronze swans (1986) at the heart of the Medical Garden
 - [[Galeria-Umelka|Umelka Gallery (Galéria Umelka)]] — Slovakia's oldest functionalism, cradle of the VPN of 1989
 - [[Galeria-19|Gallery 19 (Galéria 19)]] — Marián Mudroch's non-profit gallery on Lazaretská; free entry
 - [[Sky-Park|Sky Park]] — the Zaha Hadid towers on the Apollo refinery site
