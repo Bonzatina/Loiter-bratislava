@@ -16,11 +16,14 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
       ? 'A language model (LLM) is used to process and structure material. Although all information is drawn from open sources, errors of interpretation or inaccuracies are possible. If you notice a mistake — it is probably there.'
       : 'При обработке и структурировании материалов используется языковая модель (LLM). Несмотря на то что все сведения берутся из открытых источников, ошибки интерпретации или неточности возможны. Если вы заметили ошибку — она там, скорее всего, есть.',
     support:     isEn ? 'Support the project:'                           : 'Поддержать проект:',
+    notes:       isEn
+      ? 'Every place page has a “Leave a note” button. A note goes to the moderator by e-mail, is not published automatically, and may be worked into the page if it adds something worth having. Nothing is stored on the site.'
+      : 'На странице каждого объекта есть кнопка «Оставить заметку». Заметка уходит модератору на почту, не публикуется автоматически и может войти в текст страницы, если добавляет что-то стоящее. На сайте ничего не сохраняется.',
     h2:          isEn ? 'Sources'                                        : 'Источники',
     sourceIntro: isEn ? 'Open resources used as sources:'                : 'Открытые ресурсы, использованные как источники:',
     images:      isEn
-      ? 'Photographs on place pages are taken from the open sources listed below. Copyright on images belongs to their respective owners. If you are a rights holder and wish to request removal of an image, please write to <a href="mailto:martymckul@gmail.com">martymckul@gmail.com</a>.'
-      : 'Фотографии на страницах объектов взяты из открытых источников, перечисленных ниже. Авторские права на изображения принадлежат их правообладателям. Если вы правообладатель и хотите запросить удаление изображения, напишите на <a href="mailto:martymckul@gmail.com">martymckul@gmail.com</a>.',
+      ? 'Photographs on place pages are taken from the open sources listed below. Copyright on images belongs to their respective owners. If you are a rights holder and wish to request removal of an image, please write to <a href="mailto:loiter.traveler@gmail.com">loiter.traveler@gmail.com</a>.'
+      : 'Фотографии на страницах объектов взяты из открытых источников, перечисленных ниже. Авторские права на изображения принадлежат их правообладателям. Если вы правообладатель и хотите запросить удаление изображения, напишите на <a href="mailto:loiter.traveler@gmail.com">loiter.traveler@gmail.com</a>.',
   }
 
   // Seed list — extend thematically as sources are ingested
@@ -146,6 +149,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
   <p>${t.intro2}</p>
 
   <div class="note">${t.note}</div>
+
+  <p>${t.notes}</p>
 
   <div class="support-section">
     <p>${t.support}</p>

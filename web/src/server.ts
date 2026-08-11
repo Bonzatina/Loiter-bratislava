@@ -7,7 +7,9 @@ import matter from 'gray-matter'
 import { marked } from 'marked'
 import { loadWikiPages } from './wiki'
 import { renderPage, renderDetailPage, renderAboutPage } from './templates'
-import { wikiPrefix } from './routes'
+import { wikiPrefix, wikiUrl } from './routes'
+import { notesEnabled, validateNote, sendNote } from './notes'
+import type { NoteState } from './page-detail'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ASSETS_ROOT  = path.resolve(__dirname, '../assets')
@@ -16,6 +18,10 @@ const SCRIPTS_ROOT = path.resolve(__dirname, '../scripts')
 
 const app = express()
 const PORT = process.env.PORT ? Number(process.env.PORT) : 3002
+
+// Render (and any other proxy host) forwards the visitor IP in X-Forwarded-For;
+// without this the note rate limiter would see one address for everyone.
+app.set('trust proxy', 1)
 
 app.use(compression())
 app.use('/assets',  express.static(ASSETS_ROOT))
@@ -39,7 +45,8 @@ function processWikilinks(text: string, prefix = ''): string {
 async function serveWikiPage(
   slug: string,
   nav: 'ru' | 'en',
-  res: express.Response
+  res: express.Response,
+  noteState?: NoteState,
 ): Promise<void> {
   const pages = await loadWikiPages()
   const slugLower = slug.toLowerCase()
@@ -59,7 +66,50 @@ async function serveWikiPage(
   const bodyHtml = marked.parse(processWikilinks(stripLeadingH1(content), prefix)) as string
   const displayTitle = (data.title as string) || page.title
 
-  res.send(renderDetailPage(page, bodyHtml, { current: effectiveLang, nav, slug, hasEn }, displayTitle))
+  res.send(renderDetailPage(page, bodyHtml, { current: effectiveLang, nav, slug, hasEn }, displayTitle, noteState))
+}
+
+// ── Visitor notes ────────────────────────────────────────────────────────────
+// One endpoint for every page: the slug travels in the form body. Post/Redirect/Get
+// on success so a refresh cannot send the note twice; on failure the page is
+// re-rendered with the form open and the typed text preserved.
+
+app.post('/note', express.urlencoded({ extended: false, limit: '32kb' }), async (req, res) => {
+  if (!notesEnabled()) { res.status(404).send('Not found'); return }
+
+  const body = (req.body ?? {}) as Record<string, unknown>
+  const nav: 'ru' | 'en' = body.lang === 'en' ? 'en' : 'ru'
+  const slug = String(body.slug ?? '')
+
+  const pages = await loadWikiPages()
+  const page = pages.find(p => p.slug.toLowerCase() === slug.toLowerCase())
+  if (!page || page.type !== 'place') { res.status(400).send('Bad request'); return }
+
+  const check = validateNote(body, req.ip ?? 'unknown')
+  if (!check.ok) {
+    await serveWikiPage(page.slug, nav, res, { status: 'err', code: check.code, values: check.values })
+    return
+  }
+
+  try {
+    await sendNote({
+      page,
+      displayTitle: page.title,
+      lang: nav,
+      values: check.values,
+      ip: req.ip ?? 'unknown',
+      userAgent: String(req.get('user-agent') ?? ''),
+    })
+    res.redirect(303, `${wikiUrl(page.slug, nav)}?note=ok`)
+  } catch (err) {
+    console.error('[note] send failed:', err)
+    await serveWikiPage(page.slug, nav, res, { status: 'err', code: 'mail', values: check.values })
+  }
+})
+
+// `?note=ok` after the redirect that follows a successful submission.
+function noteBanner(req: express.Request): NoteState | undefined {
+  return req.query.note === 'ok' ? { status: 'ok' } : undefined
 }
 
 // ── EN routes (must come before /:slug to avoid /en being captured as slug) ──
@@ -72,7 +122,7 @@ app.get('/en', async (_req, res) => {
 })
 
 app.get('/en/:slug', async (req, res) => {
-  await serveWikiPage(decodeURIComponent(req.params.slug), 'en', res)
+  await serveWikiPage(decodeURIComponent(req.params.slug), 'en', res, noteBanner(req))
 })
 
 // ── RU routes ────────────────────────────────────────────────────────────────
@@ -85,7 +135,7 @@ app.get('/', async (_req, res) => {
 })
 
 app.get('/:slug', async (req, res) => {
-  await serveWikiPage(decodeURIComponent(req.params.slug), 'ru', res)
+  await serveWikiPage(decodeURIComponent(req.params.slug), 'ru', res, noteBanner(req))
 })
 
 app.listen(PORT, () => {

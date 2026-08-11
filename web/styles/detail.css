@@ -28,3 +28,40 @@ h1 { font-size: 1.5rem; font-weight: 700; margin: 10px 0 12px; }
             display: block; border-radius: 4px; margin-bottom: 16px; }
 .body img[alt^="Герб"],
 .body img[alt^="Coat of Arms"] { max-width: min(100%, 220px); max-height: none; }
+
+/* ── Visitor notes ───────────────────────────────────────────────────────── */
+.note-banner { border-radius: 4px; padding: 10px 12px; font-size: 0.88rem; margin: 24px 0 0; }
+.note-ok  { background: #e8f5e9; border: 1px solid #c8e6c9; color: #1b5e20; }
+.note-err { background: #fdecea; border: 1px solid #f5c6c2; color: #8b2e26; }
+.note-err a { color: #8b2e26; }
+.note-box { margin: 28px 0 8px; border-top: 1px solid #e0e0e0; padding-top: 16px; }
+.note-box > summary {
+  cursor: pointer; display: inline-block; font-size: 0.85rem; color: #2e7d32;
+  border: 1px solid #c8e6c9; border-radius: 4px; padding: 5px 12px; background: #f3faf3;
+  list-style: none;
+}
+.note-box > summary::-webkit-details-marker { display: none; }
+.note-box > summary:hover { background: #e8f5e9; }
+.note-form { margin-top: 14px; }
+.nf-intro { font-size: 0.85rem; color: #555; line-height: 1.6; margin-bottom: 12px; }
+.nf-label { display: block; font-size: 0.8rem; color: #444; margin-bottom: 4px; }
+.note-form textarea {
+  width: 100%; box-sizing: border-box; font: inherit; font-size: 0.9rem; line-height: 1.6;
+  padding: 8px 10px; border: 1px solid #cfd8dc; border-radius: 4px; resize: vertical;
+}
+.nf-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px; }
+.nf-field { display: flex; flex-direction: column; font-size: 0.8rem; color: #444; flex: 1 1 160px; }
+.nf-field input {
+  margin-top: 4px; font: inherit; font-size: 0.88rem; padding: 6px 8px;
+  border: 1px solid #cfd8dc; border-radius: 4px;
+}
+.nf-opt { color: #90a4ae; font-size: 0.72rem; }
+.note-form textarea:focus, .nf-field input:focus { outline: 2px solid #a5d6a7; outline-offset: 0; border-color: #a5d6a7; }
+.nf-submit {
+  margin-top: 14px; font: inherit; font-size: 0.85rem; cursor: pointer;
+  background: #2e7d32; color: #fff; border: none; border-radius: 4px; padding: 8px 16px;
+}
+.nf-submit:hover { background: #256428; }
+.nf-privacy { font-size: 0.75rem; color: #78909c; line-height: 1.5; margin-top: 10px; }
+/* Honeypot: off-screen for people, irresistible for bots. */
+.nf-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
