@@ -19,7 +19,9 @@ It is one of the city's most intimate museums — and a good excuse to see the q
 
 ## Practical Information
 
-Address: Fialkové údolie 2. Visits by prior arrangement (phone/e-mail at jan-cikker.org).
+- Address: Fialkové údolie 2
+- Hours: visits by prior arrangement
+- Website: [jan-cikker.org](https://jan-cikker.org) — phone and e-mail
 
 ## See Also
 

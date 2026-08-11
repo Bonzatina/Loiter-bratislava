@@ -17,7 +17,11 @@ The Museum of Trade (Múzeum obchodu) in the Juraj Albert curia at Linzbothova 1
 
 ## Practical Information
 
-Address: Linzbothova 16. Hours: Tue–Fri 9:00–17:00, Sat–Sun 10:00–17:00, closed on public holidays. Ticket: €3 / reduced €1.50. Inn-brewery: Tue–Sun 17:00–22:00. Wheelchair accessible.
+- Address: Linzbothova 16
+- Hours: Tue–Fri 9:00–17:00, Sat–Sun 10:00–17:00; closed on public holidays
+- Tickets: €3,00, reduced €1,50
+- Inn-brewery: Tue–Sun 17:00–22:00
+- Access: wheelchair accessible
 
 ## See Also
 

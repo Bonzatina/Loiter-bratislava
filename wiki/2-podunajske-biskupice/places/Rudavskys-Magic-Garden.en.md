@@ -19,7 +19,9 @@ The place arose in the 1960s from the talent and passion of the sculptor Andrej 
 
 ## Practical Information
 
-The garden is open to the public on Sundays from 13:00 to 18:00 — only with a reservation confirmed in advance; school visits are arranged on weekdays. The suggested voluntary donation is €10 (supporting the artists and the development of the space). Parking is available at the Podunajské Biskupice railway station or at Tesco (both about 8 minutes on foot).
+- Hours: Sun 13:00–18:00, only with a reservation confirmed in advance; school visits arranged on weekdays
+- Tickets: suggested voluntary donation €10,00 (supporting the artists and the development of the space)
+- Parking: at the Podunajské Biskupice railway station or at Tesco (both about 8 minutes on foot)
 
 ## See Also
 

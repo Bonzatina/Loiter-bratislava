@@ -17,7 +17,10 @@ The Museum of History of the Slovak National Museum (Historické múzeum SNM) is
 
 ## Practical Information
 
-Address: Bratislavský hrad. Hours: Mon, Wed–Sun 10:00–18:00 (last entry 17:00), closed Tuesdays. Tickets at snm.sk and the castle box office.
+- Address: Bratislavský hrad
+- Hours: Mon, Wed–Sun 10:00–18:00 (last entry 17:00), closed Tuesdays
+- Tickets: the castle box office and the website
+- Website: [snm.sk](https://snm.sk)
 
 ## See Also
 

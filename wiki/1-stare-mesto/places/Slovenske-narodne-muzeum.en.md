@@ -19,7 +19,10 @@ The building's national programme was carried by sculpture: on the facade, the r
 
 ## Practical Information
 
-Address: Vajanského nábrežie 2. Hours: Tue–Sun 9:00–17:00 (last entry 16:30). Ticket: €6 / reduced €3, family €9. Tickets and events at snm.sk.
+- Address: Vajanského nábrežie 2
+- Hours: Tue–Sun 9:00–17:00 (last entry 16:30)
+- Tickets: €6,00, reduced €3,00, family €9,00
+- Website: [snm.sk](https://snm.sk) — tickets and events
 
 ## See Also
 

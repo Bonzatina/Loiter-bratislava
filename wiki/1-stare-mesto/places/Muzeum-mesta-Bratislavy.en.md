@@ -19,7 +19,11 @@ The MMB is a whole constellation of sites across the city and beyond: the Appony
 
 ## Practical Information
 
-Main exhibition address: Radničná 1. Hours vary by site — see muzeumbratislava.sk (tickets there too). Wheelchair access: Apponyi Palace, Gerulata, Devín.
+- Address: Radničná 1 (main exhibition)
+- Hours: vary by site — current times on the website
+- Tickets: on the website
+- Website: [muzeumbratislava.sk](https://muzeumbratislava.sk)
+- Access: wheelchair — Apponyi Palace, Gerulata, Devín
 
 ## See Also
 

@@ -21,7 +21,9 @@ The museum's exhibition is split between the history and the present of Bratisla
 
 ## Practical Information
 
-In summer the museum is open on weekdays from 9:00 to 14:00, entry free (no guided tours); the grounds with the garden are open daily from 6:00 to 21:00. In summer the Waterworks Garden hosts the free classes of the "Karlova Ves cultural and sporting summer" — from zumba and yoga to tai chi.
+- Hours: in summer the museum is open on weekdays 9:00–14:00; the grounds with the garden daily 6:00–21:00
+- Tickets: admission free (no guided tours)
+- Summer classes: the Waterworks Garden hosts the free classes of the "Karlova Ves cultural and sporting summer" — from zumba and yoga to tai chi
 
 ## See Also
 

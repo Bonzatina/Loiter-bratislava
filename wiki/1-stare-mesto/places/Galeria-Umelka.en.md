@@ -19,7 +19,9 @@ The house is written into political history too: in front of it, in August 1968,
 
 ## Practical Information
 
-Dostojevského rad 2 — opposite Šafárikovo námestie, between the historic centre and Eurovea. The gallery is open Tuesday to Sunday from 12:00 to 18:00, admission free.
+- Address: Dostojevského rad 2 — opposite Šafárikovo námestie, between the historic centre and Eurovea
+- Hours: Tue–Sun 12:00–18:00
+- Tickets: admission free
 
 ## See Also
 

@@ -19,7 +19,11 @@ The daring of the structure is inseparable from a trauma: to make way for the mo
 
 ## Practical Information
 
-The UFO observation deck is open daily (the ticket counts towards the restaurant bill); entry from the Petržalka side of the bridge. A ten-person lift in the pylon leg takes you up, the emergency staircase counts 430 steps; the restaurant and bar sit at the 85-metre mark, and in clear weather the terrace view reaches some hundred kilometres — from the Danube to the Little Carpathians. The pedestrian and cycling level runs under the roadway.
+- Hours: the UFO observation deck is open daily; entry from the Petržalka side of the bridge
+- Tickets: the deck ticket counts towards the restaurant bill
+- Getting up: a ten-person lift in the pylon leg; the emergency staircase counts 430 steps
+- Restaurant and bar: at the 85-metre mark; in clear weather the terrace view reaches some hundred kilometres — from the Danube to the Little Carpathians
+- Pedestrian and cycling level: under the roadway
 
 ## See Also
 

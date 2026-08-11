@@ -17,7 +17,9 @@ The Museum of Transport (Múzeum dopravy) at Šancová 1/B is the Bratislava bra
 
 ## Practical Information
 
-Address: Šancová 1/B (by the main station). Hours and tickets at stm-ke.sk (section "Múzeum dopravy v Bratislave").
+- Address: Šancová 1/B (by the main station)
+- Hours and tickets: on the website, section "Múzeum dopravy v Bratislave"
+- Website: [stm-ke.sk](https://stm-ke.sk)
 
 ## See Also
 

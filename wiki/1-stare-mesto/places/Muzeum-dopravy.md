@@ -17,7 +17,9 @@ updated: 2026-07-07
 
 ## Практическая информация
 
-Адрес: Šancová 1/B (у главного вокзала). Часы и билеты — на stm-ke.sk (раздел «Múzeum dopravy v Bratislave»).
+- Адрес: Šancová 1/B (у главного вокзала)
+- Часы и билеты: на сайте, раздел «Múzeum dopravy v Bratislave»
+- Сайт: [stm-ke.sk](https://stm-ke.sk)
 
 ## См. также
 

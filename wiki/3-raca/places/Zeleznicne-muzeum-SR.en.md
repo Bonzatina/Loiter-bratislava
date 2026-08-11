@@ -17,7 +17,9 @@ The Railway Museum of the Slovak Republic (Železničné múzeum SR) lives in th
 
 ## Practical Information
 
-Address: Dopravná ulica (Bratislava východ depot). Season: 15 April — 15 October, daily 10:00–17:00 — open-air exhibition; indoor halls and guided visits by appointment 3 days ahead (+421 2 2029 7296). Details at mdc.sk / zeleznicnemuzeum.sk.
+- Address: Dopravná ulica (Bratislava východ depot)
+- Hours: 15 April — 15 October, daily 10:00–17:00 — open-air exhibition; indoor halls and guided visits by appointment 3 days ahead (+421 2 2029 7296)
+- Website: [mdc.sk](https://mdc.sk), [zeleznicnemuzeum.sk](https://zeleznicnemuzeum.sk)
 
 ## See Also
 

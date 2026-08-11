@@ -17,7 +17,9 @@ The Slovak Olympic and Sports Museum (Slovenské olympijské a športové múzeu
 
 ## Practical Information
 
-Address: Olympijské námestie 1 (Dom športu). Hours: Mon 15:00–18:00, Sat–Sun 12:00–17:00 for the public; Tue–Thu 9:00–15:00 for booked groups. Details at olympic.sk/muzeum.
+- Address: Olympijské námestie 1 (Dom športu)
+- Hours: Mon 15:00–18:00, Sat–Sun 12:00–17:00 for the public; Tue–Thu 9:00–15:00 for booked groups
+- Website: [olympic.sk/muzeum](https://olympic.sk/muzeum)
 
 ## See Also
 

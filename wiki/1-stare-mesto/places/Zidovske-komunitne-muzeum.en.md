@@ -19,7 +19,9 @@ The museum is deliberately "communal": it shows the living, continuing history o
 
 ## Practical Information
 
-Address: Heydukova 11–13. Hours: June–September, Fri and Sun 10:00–16:00. Details at synagogue.sk.
+- Address: Heydukova 11–13
+- Hours: June–September, Fri and Sun 10:00–16:00
+- Website: [synagogue.sk](https://synagogue.sk)
 
 ## See Also
 

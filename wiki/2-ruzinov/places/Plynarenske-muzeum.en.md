@@ -17,7 +17,10 @@ The Slovak Gas Museum (Slovenské plynárenské múzeum) is the corporate museum
 
 ## Practical Information
 
-Address: Mlynské nivy 44/a (entry via the SPP gatehouse, 44/c). Hours: Mon–Fri 10:00–18:00. **Admission free.** Groups (~20 people) by arrangement 3 days ahead.
+- Address: Mlynské nivy 44/a (entry via the SPP gatehouse, 44/c)
+- Hours: Mon–Fri 10:00–18:00
+- Tickets: admission free
+- Groups: ~20 people, by arrangement 3 days ahead
 
 ## See Also
 

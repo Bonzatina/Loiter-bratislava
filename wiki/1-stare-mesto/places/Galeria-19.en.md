@@ -19,7 +19,13 @@ Exhibitions in the white ground-floor halls change roughly once a month; the pro
 
 ## Practical Information
 
-Exhibition space: Lazaretská 19. Hours: Monday–Friday 14:00–19:00; **admission free**. In summer the gallery usually closes for holidays (in 2026 — from 6 July to 9 September). No wheelchair access; guided group visits by prior arrangement. Tel. +421 903 256 675, galeria@galeria19.sk. Surrounding parking is paid (PAAS zone, most spaces on nearby Jakubovo square).
+- Address: Lazaretská 19
+- Hours: Mon–Fri 14:00–19:00; in summer the gallery usually closes for holidays (in 2026 — from 6 July to 9 September)
+- Tickets: admission free
+- Website: [galeria19.sk](https://www.galeria19.sk/)
+- Contacts: +421 903 256 675, galeria@galeria19.sk
+- Access: no wheelchair access; guided group visits by prior arrangement
+- Parking: paid all around (PAAS zone, most spaces on nearby Jakubovo square)
 
 ## See Also
 

@@ -39,7 +39,8 @@ Six metres beneath the church lie the crypts — burials here were restricted as
 
 ## Practical Information
 
-The crypt is open year-round and free of charge (in the All Souls' week of 1–8 November, worshippers have priority). In the Martineum on Rudnayovo námestie — a burgher house connected to the cathedral, restored by the end of 2021 — the information centre on the second floor sells a combined-route ticket: the choir gallery and the Treasury (Klenotnica).
+- Hours: the crypt is open year-round (in the All Souls' week of 1–8 November worshippers have priority)
+- Tickets: the crypt is free; the combined-route ticket (choir gallery and the Treasury, Klenotnica) is sold at the information centre on the second floor of the Martineum on Rudnayovo námestie — a burgher house connected to the cathedral, restored by the end of 2021
 
 ## See Also
 

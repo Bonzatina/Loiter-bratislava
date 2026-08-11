@@ -19,7 +19,9 @@ The museum is the heart of a living community: the annual Festival of Croatian C
 
 ## Practical Information
 
-Address: Istrijská 68. Hours: Tue, Thu 11:00–17:00; Wed, Fri 11:00–16:00; Sat 12:00–17:00; closed Mon, Sun (last entry 30 minutes before closing). Ticket: €4 / reduced €2.
+- Address: Istrijská 68
+- Hours: Tue, Thu 11:00–17:00; Wed, Fri 11:00–16:00; Sat 12:00–17:00; closed Mon, Sun (last entry 30 minutes before closing)
+- Tickets: €4,00, reduced €2,00
 
 ## See Also
 

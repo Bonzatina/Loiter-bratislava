@@ -19,7 +19,9 @@ Five thematic rooms lead from oldest and medieval Dúbravka through the history 
 
 ## Practical Information
 
-Address: Pod záhradami 39. Visits by arrangement via dkd@dubravka.sk (the museum is run by the Dúbravka house of culture); details also at muzeum.bratislava.sk.
+- Address: Pod záhradami 39
+- Hours: visits by arrangement via dkd@dubravka.sk (the museum is run by the Dúbravka house of culture)
+- Website: [muzeum.bratislava.sk](https://muzeum.bratislava.sk)
 
 ## See Also
 

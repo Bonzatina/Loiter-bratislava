@@ -19,7 +19,9 @@ updated: 2026-07-07
 
 ## Практическая информация
 
-Адрес: Pod záhradami 39. Посещение — по договорённости по почте dkd@dubravka.sk (музей ведёт дом культуры Дубравки); подробности также на muzeum.bratislava.sk.
+- Адрес: Pod záhradami 39
+- Часы: посещение по договорённости по почте dkd@dubravka.sk (музей ведёт дом культуры Дубравки)
+- Сайт: [muzeum.bratislava.sk](https://muzeum.bratislava.sk)
 
 ## См. также
 

@@ -21,7 +21,9 @@ The key date of this memory is 9 September: on that day in 1941 the government o
 
 ## Practical Information
 
-Address: Židovská 17. Hours: Mon–Thu, Sun 11:00–17:00; Fri — pre-booked organised groups only. Ticket: €7 / reduced €5.
+- Address: Židovská 17
+- Hours: Mon–Thu, Sun 11:00–17:00; Fri — pre-booked organised groups only
+- Tickets: €7,00, reduced €5,00
 
 ## See Also
 

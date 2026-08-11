@@ -27,7 +27,9 @@ The SNM Museums on Žižkova (Múzeá SNM na Žižkovej) are a museum complex of
 
 ## Practical Information
 
-Address: Žižkova 12–18. Hours: Tue–Sun 10:00–17:00 (last entry 16:30). The joint ticket covers all SNM museums on Žižkova (Archaeological, Hungarian culture, Carpathian Germans, Music, Podhradie pavilion); individually: Archaeological €3 / €1.50, Hungarian culture €4 / €2. Children under 6 free.
+- Address: Žižkova 12–18
+- Hours: Tue–Sun 10:00–17:00 (last entry 16:30)
+- Tickets: the joint ticket covers all SNM museums on Žižkova (Archaeological, Hungarian culture, Carpathian Germans, Music, Podhradie pavilion); individually Archaeological €3 / reduced €1.50, Hungarian culture €4 / €2; children under 6 free
 
 ## See Also
 

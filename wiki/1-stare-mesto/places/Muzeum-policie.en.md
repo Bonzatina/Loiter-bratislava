@@ -19,7 +19,10 @@ An amusing contrast: the museum of a stern agency hides in an ornate eclectic ap
 
 ## Practical Information
 
-Address: Gunduličova 2. Hours: Tue–Fri 10:00–14:00 (last entry 13:30); closed Mon, Sat, Sun. **Admission free.** Groups and guided visits by appointment (muzeumpz@minv.sk).
+- Address: Gunduličova 2
+- Hours: Tue–Fri 10:00–14:00 (last entry 13:30); closed Mon, Sat, Sun
+- Tickets: admission free
+- Groups: guided visits by appointment (muzeumpz@minv.sk)
 
 ## See Also
 

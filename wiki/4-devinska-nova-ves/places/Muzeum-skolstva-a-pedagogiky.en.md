@@ -19,7 +19,11 @@ The permanent exhibition "Through the History of Schooling" (Dejinami školstva)
 
 ## Practical Information
 
-Address: Charkovská 1. Hours: every Thursday 13:00–19:00. **Admission free.** Wheelchair accessible. Details at msap.sk.
+- Address: Charkovská 1
+- Hours: every Thursday 13:00–19:00
+- Tickets: admission free
+- Website: [msap.sk](https://msap.sk)
+- Access: wheelchair accessible
 
 ## See Also
 
