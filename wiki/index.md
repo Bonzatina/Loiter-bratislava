@@ -266,6 +266,21 @@
 | `popraviska-bratislavaden-2026` | https://bratislavaden.sk/spravodlivost-v-starom-presporku-mala-poriadne-desivu-tvar-okolo-niekdajsich-popravisk-denne-chodite-aj-dnes/ | Bratislavaden: лобные места старого Прессбурга |
 | `tabula-agaty-pamepocha-2026` | https://pam.epocha.sk/pamatniky-bratislava/stare-mesto/agatha-toott-borlobaschin-t-24-5-1602-hurbanovo-nam | Pam.epocha: памятная доска Агате Тоотовой Борлобашиновой |
 | `tabula-agaty-dnes24-2019` | https://bratislava.dnes24.sk/na-hurbanovo-namestie-sa-vratila-pamatna-tabula-venovana-spomienke-na-prvu-upalenu-carodejnicu-335735 | Dnes24: возвращение доски на Гурбанову площадь (12.7.2019) |
+| `mlada-garda-register-architektury-2026` | https://register-architektury.sk/sk/objekt/259-internat-mlada-garda | Register architektúry: интернат «Млада гарда» |
+| `mlada-garda-stuba-2026` | https://www.stuba.sk/sk/diani-na-stu/prehlad-aktualit/mlada-garda-je-vynimocny-internat.html?page_id=11892 | STU: «Млада гарда — исключительный интернат»: хроника стройки, вместимость, жильцы |
+| `cvernovka-bratislavaden-2026` | https://bratislavaden.sk/z-fabriky-na-kulturne-srdce-mesta-bratislavska-cvernovka-je-dnes-kulture-centrum-pred-rokmi-takmer-zmizla-z-mapy-mesta/ | Bratislavaden: Цверновка — от фабрики к культурному сердцу города |
+| `cvernovka-skwiki-2026` | https://sk.wikipedia.org/wiki/Cvernovka_(Bratislava) | Словацкая Википедия: Цверновка — названия предприятия, памятники, снос |
+| `nova-cvernovka-onas-2026` | https://novacvernovka.eu/o-nas/ | Сайт «Новой Цверновки»: ателье, парк, программа |
+| `nova-cvernovka-dobremesto-2026` | https://dobremesto.gov.sk/obnova-uzemi/skusenosti-miest/nova-cvernovka/ | Dobré mesto: кейс «Новой Цверновки» — здание Карфика и переезд сообщества |
+| `metropolka-bratislavaden-2026` | https://bratislavaden.sk/metropolka/ | Bratislavaden: «Метрополка» и судьба семьи Тварожков |
+| `metropol-amazingarchitecture-2026` | https://amazingarchitecture.com/apartments/metropol-bratislava-slovakia-by-beef-architekti | Amazing Architecture: перестройка «Метрополя» под co-living (BEEF architekti, 2024) |
+| `metropol-skwiki-2026` | https://sk.wikipedia.org/wiki/Obytný_dom_a_kino_Metropol | Словацкая Википедия: дом и кинотеатр «Метрополь» — описание и реконструкции |
+| `metropol-krizomkrazom-2026` | https://www.krizom-krazom.online/bytovy-dom-mickiewiczova-18-metropol/ | Krížom-krážom: дом на Мицкевичовой, 18 — датировки и статус памятки |
+| `tvarozek-skwiki-2026` | https://sk.wikipedia.org/wiki/Juraj_Tvarožek | Словацкая Википедия: Юрай Тварожек (1887–1966) |
+| `tvarozek-register-architektury-2026` | https://www.register-architektury.sk/sk/architekti/tvarozek-juraj | Register architektúry: профиль Юрая Тварожека |
+| `kamenne-namestie-bratislavaden-2026` | https://bratislavaden.sk/kamenne-namestie-v-bratislave-vyvolava-uz-roky-zmiesane-pocity-poznate-tieto-detaily-z-jeho-historie/ | Bratislavaden: Каменная площадь — история и «чёрная дыра» центра |
+| `paracelsus-bratislavaden-2026` | https://bratislavaden.sk/vedeli-ste-o-tom-ze-slavny-lekar-paracelsus-kedysi-navstivil-bratislavu-udalost-pripomina-pamatna-tabula/ | Bratislavaden: Парацельс в Прессбурге и памятная доска |
+| `paracelsus-pamepocha-2026` | https://pam.epocha.sk/pamatniky-bratislava/stare-mesto/paracelsus-von-hohenheim-1493-1541-ursulinska-ul | Pam.epocha: доска Парацельса — Фауст, Бехайм, описание рельефа |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -440,6 +455,12 @@
 | [[Hlavna-stanica|Главный вокзал]] | 1-stare-mesto | Здание Фейглера-мл. (1871), лишённое декора в 1939–1941; «скленик» 1989 года |
 | [[Socha-Schone-Naciho|Статуя Шёне Наци]] | 1-stare-mesto | Алюминиевый джентльмен Мелиша (1997) у Рыбарской браны; цилиндр в приветствии |
 | [[Pamatna-tabula-Agaty|Памятная доска Агаты]] | 1-stare-mesto | Плита в мостовой Гурбановой площади: первая сожжённая «ведьма» города (1602) |
+| [[Internat-Mlada-Garda|Интернат «Млада гарда»]] | 3-nove-mesto | Соцреализм Беллуша (1953–1955): башня со сграффито, 2400 мест, 400-метровая дорожка |
+| [[Cvernovka|Цверновка (Cvernovka)]] | 2-ruzinov | Ниточная фабрика с 1902 года, культурный квартал 2000-х, снос под Zwirn; Pradiareň 1900 |
+| [[Nova-Cvernovka|Новая Цверновка (Nová Cvernovka)]] | 3-nove-mesto | 132 ателье, парк и сцена в бывшей химической школе на Рачианской |
+| [[Metropol|Дом и кинотеатр «Метрополь»]] | 1-stare-mesto | «Метрополка» Тварожека (1927–1928): кино в подвале, кафе, квартиры; НКП с 1985, co-living с 2024 |
+| [[Kamenne-namestie|Каменная площадь]] | 1-stare-mesto | Рынок каменщиков → Stein Platz → Киевская → «чёрная дыра»; проект «Живая площадь» с 2016 |
+| [[Pamatna-tabula-Paracelsa|Памятная доска Парацельса]] | 1-stare-mesto | Бронза Людовита Мака (1937) на Примациальном дворце: визит 1537 года |
 
 ## Кварталы
 
@@ -465,6 +486,7 @@
 | [[Matusik-Ivan|Иван Матушик]] | Архитектор торговой Братиславы (1930–2022): «Слимак», «Приор»/«Киев», Тржница |
 | [[Milucky-Ferdinand|Фердинанд Милучкий]] | Мастер «максимальной абстракции» (1929–2019): крематорий, парк Глинки |
 | [[Silinger-Klement|Клемент Шилингер]] | Главный рондокубист Братиславы (1887–1951): Анатомический институт, Лафранкони |
+| [[Tvarozek-Juraj|Юрай Тварожек]] | Автор «Метрополя» (1887–1966): функционализм с мыявской нотой, СНП, тюрьма в 1950-е |
 | [[Stefania-Belgicka|Стефания Бельгийская]] | Принцесса (1864–1945), хозяйка Русовского каштеля; имя кофейни «Штефанка» |
 | [[Lanfranconi-Enea|Энеа Ланфранкони]] | Инженер (1850–1895), регулятор Дуная; имя интерната и моста (с опечаткой) |
 | [[Quastler-Desider|Дезидер Квастлер]] | Архитектор соцжилья (1889–1944), погиб в Освенциме; дом на Рентгеновой |

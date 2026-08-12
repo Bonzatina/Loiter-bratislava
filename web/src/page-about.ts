@@ -79,6 +79,11 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'podnavylet.sk':      'Slovak trip-ideas portal',
     'storymaps.arcgis.com': 'ArcGIS StoryMaps platform',
     'velkykostol.sk':     'Lutheran congregation of Bratislava Staré Mesto',
+    'stuba.sk':           'Slovak University of Technology in Bratislava',
+    'novacvernovka.eu':   'Nová Cvernovka cultural and creative centre',
+    'dobremesto.gov.sk':  'State portal on urban regeneration',
+    'amazingarchitecture.com': 'International architecture project magazine',
+    'krizom-krazom.online': 'Catalogue of Slovak monuments and sights',
   } : {
     'sk.wikipedia.org':   'Словацкая Википедия',
     'en.wikipedia.org':   'Английская Википедия',
@@ -130,6 +135,11 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'podnavylet.sk':      'Портал идей для прогулок по Словакии',
     'storymaps.arcgis.com': 'Платформа интерактивных историй ArcGIS',
     'velkykostol.sk':     'Сайт евангелического прихода Старе-Места',
+    'stuba.sk':           'Словацкий технический университет в Братиславе',
+    'novacvernovka.eu':   'Культурно-креативный центр «Новая Цверновка»',
+    'dobremesto.gov.sk':  'Государственный портал об обновлении городских территорий',
+    'amazingarchitecture.com': 'Международный журнал архитектурных проектов',
+    'krizom-krazom.online': 'Каталог памятников и достопримечательностей Словакии',
   }
 
   const src = (domain: string) => `
@@ -215,6 +225,11 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('podnavylet.sk')}
     ${src('storymaps.arcgis.com')}
     ${src('velkykostol.sk')}
+    ${src('stuba.sk')}
+    ${src('novacvernovka.eu')}
+    ${src('dobremesto.gov.sk')}
+    ${src('amazingarchitecture.com')}
+    ${src('krizom-krazom.online')}
 </ul>
 </div>`,
   })

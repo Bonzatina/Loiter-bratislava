@@ -27,6 +27,7 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Druzstevne-domy|Coop Houses (Družstevné domy)]] — Belluš's "three red houses"
 - [[Narodna-banka-ceskoslovenska|Czechoslovak National Bank]] — a travertine monument, now the Prosecutor General's Office
 - [[Lutherov-dom|Luther House (Lutherov dom)]] — residential complex with reliefs by Alojz Rigele
+- [[Metropol|Metropol Residential Building and Cinema]] — Tvarožek's "Metropolka" (1928): cinema, café, flats, now co-living
 - [[Ramharterov-dom|Ramharter House — Café Regina]] — modernism on Hurbanovo Square
 - [[Letny-arcibiskupsky-palac|Archbishop's Summer Palace]] — baroque, seat of the government
 - [[Propeler|Ferry wharfs of the Propeler]] — Belluš's Danube crossing
@@ -93,6 +94,8 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Hlavna-stanica|Main Railway Station (Bratislava hlavná stanica)]] — the 1871 building stripped of its ornament in 1939–1941
 - [[Socha-Schone-Naciho|Statue of Schöne Náci]] — Meliš's aluminium gentleman at Rybárska brána (1997)
 - [[Pamatna-tabula-Agaty|Agáta Memorial Plaque]] — a slab in the paving of Hurbanovo námestie recalling the execution of 1602
+- [[Pamatna-tabula-Paracelsa|Paracelsus Memorial Plaque]] — Mack's bronze (1937) on the Primatial Palace towards Uršulínska
+- [[Kamenne-namestie|Kamenné námestie (Stone Square)]] — the centre's "black hole": from a stonemasons' market to Prior
 
 ## Museums
 

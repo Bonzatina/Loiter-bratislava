@@ -19,6 +19,7 @@ Prior opened on 20 November 1968 as Czechoslovakia's first mall-type department 
 
 ## See Also
 
+- [[Kamenne-namestie|Kamenné námestie]] — the square the complex was built on
 - [[Matusik-Ivan|Ivan Matušík]] — author of the design
 - [[Manderlak|Manderlák]] — its pre-war "high-rise" neighbour a block away
 - [[Obchodny-dom-Dunaj|Dunaj department store]] — the previous generation of retail architecture

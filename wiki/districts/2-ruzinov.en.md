@@ -31,6 +31,7 @@ In a red field, a silver wall with two golden-roofed towers and a silver double 
 - [[Most-Apollo|Apollo Bridge (Most Apollo)]] — the steel arch of 2005, named in memory of the Apollo refinery
 - [[Pristavny-most|Prístavný Bridge (Prístavný most)]] — the two-storey workhorse: trains below, motorway above
 - [[Keramicka-plastika-s-troma-figurami|Ceramic Sculpture with Three Figures]] — Haberernová-Trančíková's totem (1980) on Ivanská cesta
+- [[Cvernovka]] — the 1902 thread mill that became a cultural quarter and was all but demolished
 
 ## Quarters
 
