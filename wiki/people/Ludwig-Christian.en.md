@@ -21,6 +21,7 @@ In 1945 Ludwig emigrated with his family to Austria and opened a design office i
 ## See Also
 
 - [[Manderlak|Manderlák]], the [[Obchodny-dom-Dunaj|Dunaj department store]], [[Lutherov-dom|Luther House]] — his buildings
+- [[Velky-evanjelicky-kostol|Great Lutheran Church]] — design of the 1923 organ
 - [[Attersee-Christian-Ludwig|Christian Ludwig Attersee]] — his son
 - [[functionalism|Functionalism]]
 - [[1-stare-mesto|Staré Mesto]]

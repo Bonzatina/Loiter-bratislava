@@ -21,6 +21,7 @@ updated: 2026-07-07
 ## См. также
 
 - [[Manderlak|Манделак]], [[Obchodny-dom-Dunaj|универмаг «Дунай»]], [[Lutherov-dom|Лютеров дом]] — его постройки
+- [[Velky-evanjelicky-kostol|Большой евангелический костёл]] — оформление органа 1923 года
 - [[Attersee-Christian-Ludwig|Кристиан Людвиг Аттерзее]] — сын
 - [[functionalism|Функционализм]]
 - [[1-stare-mesto|Старе-Место]]

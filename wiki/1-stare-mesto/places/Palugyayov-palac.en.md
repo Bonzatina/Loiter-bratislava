@@ -24,5 +24,6 @@ The Palugyays are one of the principal [[pressburg-families|Pressburg families]]
 - [[pressburg-families|Pressburg Families]] — the Palugyays among the city's ten dynasties
 - [[Au-Cafe|Au Café]] — the café bought by Karl Palugyay in 1892
 - [[Kaviaren-Stefanka|Štefanka Café]] — another Feigler building
+- [[Hlavna-stanica|Main Railway Station]] — Feigler the Younger's building of 1871
 - [[Muzeum-hodin|Museum of Clocks]] — the Palugyays as Fadrusz's patrons
 - [[1-stare-mesto|Staré Mesto]]

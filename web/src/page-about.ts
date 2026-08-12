@@ -78,6 +78,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'yimba.sk':           'Bratislava development and architecture magazine',
     'podnavylet.sk':      'Slovak trip-ideas portal',
     'storymaps.arcgis.com': 'ArcGIS StoryMaps platform',
+    'velkykostol.sk':     'Lutheran congregation of Bratislava Staré Mesto',
   } : {
     'sk.wikipedia.org':   'Словацкая Википедия',
     'en.wikipedia.org':   'Английская Википедия',
@@ -128,6 +129,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'yimba.sk':           'Журнал о девелопменте и архитектуре Братиславы',
     'podnavylet.sk':      'Портал идей для прогулок по Словакии',
     'storymaps.arcgis.com': 'Платформа интерактивных историй ArcGIS',
+    'velkykostol.sk':     'Сайт евангелического прихода Старе-Места',
   }
 
   const src = (domain: string) => `
@@ -212,6 +214,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('yimba.sk')}
     ${src('podnavylet.sk')}
     ${src('storymaps.arcgis.com')}
+    ${src('velkykostol.sk')}
 </ul>
 </div>`,
   })

@@ -23,4 +23,6 @@ Before the gate, Michael's Bridge crosses the former moat, guarded by two pendan
 
 - [[Muzeum-mesta-Bratislavy|Bratislava City Museum]] — the tower's keeper
 - [[Stara-radnica|The Old Town Hall]] — the old town's other tower
+- [[Pamatna-tabula-Agaty|Agáta Memorial Plaque]] — the 1602 execution at the moat before this gate
+- [[justice-in-presporok|Justice in Old Prešporok]] — the gallows before the gate as a warning to all who entered
 - [[1-stare-mesto|Staré Mesto]]

@@ -255,6 +255,17 @@
 | `labutia-fontana-bratislavaden-2026` | https://bratislavaden.sk/jedna-z-ikon-bratislavy-oziva-labutia-fontana-sa-ukaze-v-plnej-krase-a-privita-navstevnikov-uz-o-par-dni/ | Bratislavaden: Лебединый фонтан после реставрации — запуск 28.7.2026 |
 | `medicka-zahrada-bratislavaden-2017` | https://bratislavaden.sk/medicka-zahrada-jedinecne-miesto-na-oddych-i-zabavu/ | Bratislavaden: Медицкий сад — от Аспремонта до наших дней |
 | `labutia-fontana-umeniemesta-2026` | https://umeniemesta.sk/diela/rec8ggjTuJn3SDFPX | Umenie mesta: Лебединый фонтан Микшика — описание, датировки, координаты |
+| `velky-evanjelicky-kostol-cswiki-2026` | https://cs.wikipedia.org/wiki/Velký_evangelický_kostel_(Panenská_ulice) | Чешская Википедия: Большой евангелический костёл на Паненской |
+| `velky-evanjelicky-kostol-skwiki-2026` | https://sk.wikipedia.org/wiki/Veľký_evanjelický_kostol_(Bratislava) | Словацкая Википедия: Большой евангелический костёл |
+| `velky-kostol-ecav-2026` | https://www.velkykostol.sk/ | Сайт евангелического прихода Старе-Место: богослужения и история храма |
+| `hlavna-stanica-bratislavaden-2026` | https://bratislavaden.sk/bratislavska-hlavna-stanica-bola-kedysi-ozdobou-mesta-viete-ako-vyzerala-pred-velkou-premenou/ | Bratislavaden: каким главный вокзал был до перестроек |
+| `hlavna-stanica-skwiki-2026` | https://sk.wikipedia.org/wiki/Bratislava_hlavná_stanica | Словацкая Википедия: главный вокзал — история зданий и инфраструктура |
+| `schone-naci-bratislavaden-2026` | https://bratislavaden.sk/muz-s-cylindrom-z-centra-bratislavy-skutocne-zil-kto-bol-legendarny-schone-naci-gentleman-presporka-rozdaval-usmevy/ | Bratislavaden: кем был легендарный Шёне Наци |
+| `schone-naci-skwiki-2026` | https://sk.wikipedia.org/wiki/Schöner_Náci | Словацкая Википедия: Шёне Наци (Игнац Ламар) |
+| `schone-naci-umeniemesta-2026` | https://umeniemesta.sk/diela/reczdeNutnzrCA3sl | Umenie mesta: статуя Шёне Наци — Мелиш, 1997, материалы и размеры |
+| `popraviska-bratislavaden-2026` | https://bratislavaden.sk/spravodlivost-v-starom-presporku-mala-poriadne-desivu-tvar-okolo-niekdajsich-popravisk-denne-chodite-aj-dnes/ | Bratislavaden: лобные места старого Прессбурга |
+| `tabula-agaty-pamepocha-2026` | https://pam.epocha.sk/pamatniky-bratislava/stare-mesto/agatha-toott-borlobaschin-t-24-5-1602-hurbanovo-nam | Pam.epocha: памятная доска Агате Тоотовой Борлобашиновой |
+| `tabula-agaty-dnes24-2019` | https://bratislava.dnes24.sk/na-hurbanovo-namestie-sa-vratila-pamatna-tabula-venovana-spomienke-na-prvu-upalenu-carodejnicu-335735 | Dnes24: возвращение доски на Гурбанову площадь (12.7.2019) |
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -425,6 +436,10 @@
 | [[Stanica-konskej-zeleznice|Станция конной железной дороги]] | 3-nove-mesto | Вокзал первой железной дороги Венгрии (1836–1840); здание с герба района |
 | [[Medicka-zahrada|Медицкий сад]] | 1-stare-mesto | Барочный сад Аспремонтова дворца (Тальхерр); липы Эстерхази, реконструкция 1985–1988 |
 | [[Labutia-fontana|Лебединый фонтан]] | 1-stare-mesto | Четыре бронзовых лебедя Микшика (1986) в центре Медицкого сада; перезапуск 28.7.2026 |
+| [[Velky-evanjelicky-kostol|Большой евангелический костёл]] | 1-stare-mesto | Храм без башни по воле императора (Валх, 1774–1776): алтарь-кафедра, акустика, орган 1923 года |
+| [[Hlavna-stanica|Главный вокзал]] | 1-stare-mesto | Здание Фейглера-мл. (1871), лишённое декора в 1939–1941; «скленик» 1989 года |
+| [[Socha-Schone-Naciho|Статуя Шёне Наци]] | 1-stare-mesto | Алюминиевый джентльмен Мелиша (1997) у Рыбарской браны; цилиндр в приветствии |
+| [[Pamatna-tabula-Agaty|Памятная доска Агаты]] | 1-stare-mesto | Плита в мостовой Гурбановой площади: первая сожжённая «ведьма» города (1602) |
 
 ## Кварталы
 
@@ -465,6 +480,7 @@
 | [[Lasica-Milan|Милан Ласица]] | Юморист и актёр (1940–2021): дуэт с Сатинским, Студия L+S, смерть на сцене |
 | [[Messerschmidt-Franz-Xaver|Франц Ксавер Мессершмидт]] | Скульптор «характерных голов» (1736–1783): Цукермандель, «дух пропорций» |
 | [[Tesar-Arpad|Арпад Тесар]] | Инженер обоих великих мостов (1919–1989): мост СНП, Красный мост, сварка |
+| [[Lamar-Ignac|Игнац Ламар — Шёне Наци]] | Легенда улицы (1897–1967): фрак, цилиндр и приветствия на трёх языках |
 
 ## Концепции
 
@@ -476,3 +492,4 @@
 | [[pressburg-families|Прессбургские семьи]] | Десять династий старого Прессбурга и их судьбы в XX веке |
 | [[iron-curtain|Железный занавес]] | Граница у порога города: жертвы, побеги, память |
 | [[solar-system-model|Модель Солнечной системы]] | «Прогулки по Солнечной системе» 1:464 млн: от фонтана-«Солнца» до Юпитера |
+| [[justice-in-presporok|Правосудие старого Прессбурга]] | Лобные места на людных перекрёстках, городской палач, процессы над ведьмами |

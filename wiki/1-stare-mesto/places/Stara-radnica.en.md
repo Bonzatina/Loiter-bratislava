@@ -22,5 +22,6 @@ The town hall had its dark side too: its cellars held debtors, suspects under in
 ## See Also
 
 - [[Muzeum-mesta-Bratislavy|Bratislava City Museum]] — the town hall's present occupant
+- [[justice-in-presporok|Justice in Old Prešporok]] — the court, the executioner and the city's places of execution
 - [[pressburg-families|Pressburg Families]] — the burgher world around the town hall
 - [[1-stare-mesto|Staré Mesto]]

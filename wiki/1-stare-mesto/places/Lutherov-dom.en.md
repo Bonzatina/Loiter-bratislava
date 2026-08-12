@@ -22,5 +22,6 @@ The house stands in the upper part of the Old Town, on the way from the castle h
 ## See Also
 
 - [[Ludwig-Christian|Christian Ludwig]] — co-author of the design
+- [[Velky-evanjelicky-kostol|Great Lutheran Church]] — the same congregation's principal church
 - [[Manderlak|Manderlák]] and the [[Obchodny-dom-Dunaj|Dunaj department store]] — Ludwig's later functionalist works
 - [[1-stare-mesto|Staré Mesto]]

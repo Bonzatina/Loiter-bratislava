@@ -20,6 +20,8 @@ Meliš, who worked in Bratislava from the start of his studies at the Academy of
 ## See Also
 
 - [[1-stare-mesto|Staré Mesto]] — the reliefs' borough
+- [[Hlavna-stanica|Main Railway Station]] — the building the reliefs stand by
+- [[Socha-Schone-Naciho|Statue of Schöne Náci]] — another work by Juraj Meliš in the city
 - [[Muzeum-dopravy|Museum of Transport]] — the neighbour by the station
 - [[Stara-radnica|The Old Town Hall]] and [[Bratislavsky-hrad|Bratislava Castle]] — heroes of the third and fourth panels
 - [[Pomnik-Sama-Chalupku|Samo Chalupka Monument]] — another 1970s work in the blocks behind the station

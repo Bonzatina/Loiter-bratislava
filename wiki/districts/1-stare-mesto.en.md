@@ -89,6 +89,10 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Prva-postova-schranka|The First Postbox]] — Sabo's bronze with a working letterbox on Poštová (2001)
 - [[Dunajska-promenada|Danube Promenade]] — an open-air gallery of statues and the Pressburg meridian of 1733
 - [[Pivovar-Stein|Stein Brewery (Pivovar Stein)]] — 135 years of Bratislava beer in Blumentál: from the Stein brothers to the 2014 demolition
+- [[Velky-evanjelicky-kostol|Great Lutheran Church]] — a church denied a tower by imperial condition (1774–1776), with concert-hall acoustics
+- [[Hlavna-stanica|Main Railway Station (Bratislava hlavná stanica)]] — the 1871 building stripped of its ornament in 1939–1941
+- [[Socha-Schone-Naciho|Statue of Schöne Náci]] — Meliš's aluminium gentleman at Rybárska brána (1997)
+- [[Pamatna-tabula-Agaty|Agáta Memorial Plaque]] — a slab in the paving of Hurbanovo námestie recalling the execution of 1602
 
 ## Museums
 
@@ -104,4 +108,5 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 ## See Also
 
 - [[Ludwig-Christian|Christian Ludwig]], [[Bellus-Emil|Emil Belluš]], [[Harminc-Milan-Michal|Milan Michal Harminc]], [[Jurkovic-Dusan|Dušan Jurkovič]], [[Dedecek-Vladimir|Vladimír Dedeček]]
-- [[functionalism|Functionalism]], [[postwar-modernism|Post-war modernism]]
+- [[Lamar-Ignac|Ignác Lamár — Schöne Náci]] — the street legend of old Prešporok
+- [[functionalism|Functionalism]], [[postwar-modernism|Post-war modernism]], [[justice-in-presporok|Justice in Old Prešporok]]

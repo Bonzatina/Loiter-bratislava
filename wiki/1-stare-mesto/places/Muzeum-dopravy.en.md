@@ -24,5 +24,6 @@ The Museum of Transport (Múzeum dopravy) at Šancová 1/B is the Bratislava bra
 ## See Also
 
 - [[Zeleznicne-muzeum-SR|Railway Museum of Slovakia]] at Rendez — the "big" railway collection
+- [[Hlavna-stanica|Main Railway Station]] — the museum's neighbour
 - [[Propeler|Ferry wharfs of the Propeler]] — the Danube crossing
 - [[1-stare-mesto|Staré Mesto]]
