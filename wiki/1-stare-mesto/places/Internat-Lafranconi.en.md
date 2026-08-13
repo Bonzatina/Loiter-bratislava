@@ -2,6 +2,7 @@
 title: Lafranconi Dormitory (Internát Lafranconi)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14465, 17.07742]
 tags: [functionalism, dormitory, interwar, danube]

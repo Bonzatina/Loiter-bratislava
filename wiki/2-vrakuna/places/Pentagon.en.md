@@ -2,6 +2,7 @@
 title: The Pentagon
 type: place
 domain: architecture
+fame: 2
 district: 2-vrakuna
 coords: [48.13885, 17.20344]
 tags: [panelak, socialist-era, social-housing, infamous]

@@ -2,6 +2,7 @@
 title: Leberfinger Restaurant
 type: place
 domain: cuisine
+fame: 2
 district: 5-petrzalka
 coords: [48.13590, 17.10690]
 tags: [restaurant, inn, historic, danube, napoleon]

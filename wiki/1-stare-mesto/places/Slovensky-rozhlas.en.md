@@ -2,6 +2,7 @@
 title: Slovak Radio Building (Slovenský rozhlas)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.15409, 17.11384]
 tags: [pyramid, postwar-modernism, radio, concert-hall, steel]

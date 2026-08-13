@@ -2,6 +2,7 @@
 title: Pasienky Sports Hall (Športová hala Pasienky)
 type: place
 domain: architecture
+fame: 1
 district: 2-ruzinov
 coords: [48.16240, 17.14138]
 tags: [postwar-modernism, sport, cable-roof, engineering]

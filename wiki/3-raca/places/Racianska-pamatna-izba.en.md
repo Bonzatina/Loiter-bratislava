@@ -2,6 +2,7 @@
 title: Rača Memorial Room (Račianska pamätná izba)
 type: place
 domain: museums
+fame: 2
 district: 3-raca
 coords: [48.21382, 17.15111]
 tags: [local-history, winegrowing, ethnography, matica, maria-theresa]

@@ -2,6 +2,7 @@
 title: Štefánik Monument (pomník M. R. Štefánika)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.13973, 17.12313]
 tags: [monument, stefanik, czechoslovakia, legions, lion, eurovea]

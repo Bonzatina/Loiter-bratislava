@@ -2,6 +2,7 @@
 title: «Объект» Билковича (Objekt)
 type: place
 domain: sights
+fame: 1
 district: 5-petrzalka
 coords: [48.11633, 17.10150]
 tags: [public-art, sculpture, abstract, bilkovic, fedinova]

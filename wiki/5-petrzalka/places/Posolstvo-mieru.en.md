@@ -2,6 +2,7 @@
 title: Message of Peace (Posolstvo mieru)
 type: place
 domain: sights
+fame: 1
 district: 5-petrzalka
 coords: [48.10152, 17.10240]
 tags: [sculpture, public-art, socialist-era, luky]

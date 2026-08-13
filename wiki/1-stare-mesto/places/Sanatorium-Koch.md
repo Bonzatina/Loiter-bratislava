@@ -2,6 +2,7 @@
 title: Санаторий Коха (Kochovo sanatórium)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14650, 17.09488]
 tags: [functionalism, interwar, healthcare, garden]

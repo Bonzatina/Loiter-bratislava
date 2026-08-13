@@ -2,6 +2,7 @@
 title: Grassalkovich Palace (Grasalkovičov palác)
 type: place
 domain: architecture
+fame: 5
 district: 1-stare-mesto
 coords: [48.14960, 17.10740]
 tags: [rococo, palace, presidential-palace, garden, hodzovo-namestie]

@@ -2,6 +2,7 @@
 title: Apartment Block at Heydukova 23 (Nájomný dom, Heydukova 23)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14760, 17.11310]
 tags: [rondocubism, housing, interwar, heydukova]

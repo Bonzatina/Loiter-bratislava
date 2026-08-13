@@ -2,6 +2,7 @@
 title: Галерея «Умелка» (Galéria Umelka)
 type: place
 domain: culture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14111, 17.11750]
 tags: [gallery, functionalism, vpn-1989, bielik-1968, national-monument]

@@ -2,6 +2,7 @@
 title: Парк Андрея Глинки (Park Andreja Hlinku)
 type: place
 domain: nature
+fame: 2
 district: 2-ruzinov
 coords: [48.15678, 17.15953]
 tags: [park, landscape-architecture, postwar-modernism, travniky]

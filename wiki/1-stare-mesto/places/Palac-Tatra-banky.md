@@ -2,6 +2,7 @@
 title: Дворец Татра-банка (Palác Tatra banky)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14526, 17.10946]
 tags: [bank, classicism, interwar, namestie-snp]

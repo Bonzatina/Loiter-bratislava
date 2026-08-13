@@ -2,6 +2,7 @@
 title: Prior Department Store and Kyjev Hotel (Prior a hotel Kyjev)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14511, 17.11477]
 tags: [postwar-modernism, department-store, hotel, kamenne-namestie]

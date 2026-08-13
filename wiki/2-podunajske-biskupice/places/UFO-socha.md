@@ -2,6 +2,7 @@
 title: Скульптура «НЛО» (UFO)
 type: place
 domain: sights
+fame: 1
 district: 2-podunajske-biskupice
 coords: [48.13950, 17.19900]
 tags: [sculpture, socialist-era, panelak, public-art, pamatihodnost, film]

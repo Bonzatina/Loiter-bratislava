@@ -2,6 +2,7 @@
 title: The Fairy-tale Tree (Rozprávkový strom)
 type: place
 domain: sights
+fame: 1
 district: 4-karlova-ves
 coords: [48.15328, 17.06177]
 tags: [public-art, sculpture, iron, enamel, masarovicova, children]

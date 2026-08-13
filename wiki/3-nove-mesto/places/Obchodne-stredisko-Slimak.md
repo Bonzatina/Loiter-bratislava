@@ -2,6 +2,7 @@
 title: Торговый центр «Слимак» (Obchodné stredisko Slimák)
 type: place
 domain: architecture
+fame: 2
 district: 3-nove-mesto
 coords: [48.17003, 17.12932]
 tags: [postwar-modernism, shopping-centre, circular]

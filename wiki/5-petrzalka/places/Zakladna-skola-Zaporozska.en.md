@@ -2,6 +2,7 @@
 title: Pavilion School on Záporožská (ZŠ Záporožská)
 type: place
 domain: architecture
+fame: 2
 district: 5-petrzalka
 coords: [48.12573, 17.09845]
 tags: [school, postwar-modernism, pavilion, dvory]

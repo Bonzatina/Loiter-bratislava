@@ -2,6 +2,7 @@
 title: Универмаг «Дунай» (Obchodný dom Dunaj)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14532, 17.11059]
 tags: [department-store, functionalism, interwar, namestie-snp]

@@ -2,6 +2,7 @@
 title: Statue of St Florian (Socha sv. Floriána)
 type: place
 domain: religion
+fame: 1
 district: 3-raca
 coords: [48.21540, 17.15518]
 tags: [statue, baroque, firefighters, pamatihodnost, community]

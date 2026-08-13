@@ -2,6 +2,7 @@
 title: Slavín — Memorial and War Cemetery
 type: place
 domain: lookout
+fame: 4
 district: 1-stare-mesto
 coords: [48.15390, 17.09959]
 tags: [memorial, wwii, cemetery, viewpoint, socialist-era]

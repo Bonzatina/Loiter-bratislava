@@ -2,6 +2,7 @@
 title: Фонтан для Зузаны — фонтан любви (Fontána pre Zuzanu)
 type: place
 domain: sights
+fame: 1
 district: 2-ruzinov
 coords: [48.15493, 17.13134]
 tags: [fountain, film, hidden-gem, stary-ruzinov]

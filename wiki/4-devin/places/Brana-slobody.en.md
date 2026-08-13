@@ -2,6 +2,7 @@
 title: Gate of Freedom (Brána slobody)
 type: place
 domain: history
+fame: 2
 district: 4-devin
 coords: [48.17451, 16.97633]
 tags: [memorial, iron-curtain, communism, confluence, srholec]

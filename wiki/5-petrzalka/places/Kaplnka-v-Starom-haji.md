@@ -2,6 +2,7 @@
 title: Часовня Святого Креста в Старом гае (Kaplnka sv. Kríža v Starom háji)
 type: place
 domain: religion
+fame: 1
 district: 5-petrzalka
 coords: [48.11993, 17.12307]
 tags: [chapel, cross, flood, stary-haj, pressburg]

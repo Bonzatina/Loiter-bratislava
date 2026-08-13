@@ -2,6 +2,7 @@
 title: Church of St Nicholas (Chrám sv. Mikuláša)
 type: place
 domain: religion
+fame: 3
 district: 1-stare-mesto
 coords: [48.14307, 17.10319]
 tags: [orthodox, baroque, podhradie, neglected, palffy]

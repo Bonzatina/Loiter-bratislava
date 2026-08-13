@@ -2,6 +2,7 @@
 title: Prístavný Bridge (Prístavný most)
 type: place
 domain: sights
+fame: 4
 district: 2-ruzinov
 coords: [48.13530, 17.14036]
 tags: [bridge, danube, railway, motorway, dukla]

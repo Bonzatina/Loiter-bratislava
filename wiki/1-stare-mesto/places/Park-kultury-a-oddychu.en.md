@@ -2,6 +2,7 @@
 title: The Park of Culture and Leisure — PKO (Park kultúry a oddychu)
 type: place
 domain: culture
+fame: 3
 district: 1-stare-mesto
 coords: [48.14250, 17.08800]
 tags: [demolished, socialist-era, concerts, embankment, memory]

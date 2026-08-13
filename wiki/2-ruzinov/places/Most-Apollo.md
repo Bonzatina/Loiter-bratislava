@@ -2,6 +2,7 @@
 title: Мост Аполло (Most Apollo)
 type: place
 domain: sights
+fame: 4
 district: 2-ruzinov
 coords: [48.13711, 17.12805]
 tags: [bridge, danube, apollo, refinery, ww2, memorial]

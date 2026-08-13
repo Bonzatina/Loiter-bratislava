@@ -2,6 +2,7 @@
 title: Manderlák
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14459, 17.11275]
 tags: [high-rise, functionalism, interwar, namestie-snp]

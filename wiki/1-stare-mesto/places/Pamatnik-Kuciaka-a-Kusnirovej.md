@@ -2,6 +2,7 @@
 title: Мемориал Куцяка и Кушнировой (Pamätník Jána Kuciaka a Martiny Kušnírovej)
 type: place
 domain: history
+fame: 2
 district: 1-stare-mesto
 coords: [48.14581, 17.11057]
 tags: [memorial, journalism, protests, contemporary-history]

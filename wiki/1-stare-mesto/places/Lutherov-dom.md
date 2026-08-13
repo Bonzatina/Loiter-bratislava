@@ -2,6 +2,7 @@
 title: Лютеров дом (Lutherov dom)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.14868, 17.10568]
 tags: [residential, interwar, evangelical, palisady]

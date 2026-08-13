@@ -2,6 +2,7 @@
 title: Станция конной железной дороги (Stanica konskej železnice)
 type: place
 domain: history
+fame: 1
 district: 3-nove-mesto
 coords: [48.15602, 17.12491]
 tags: [horse-railway, railway-history, national-monument, krizna, trnavske-myto]

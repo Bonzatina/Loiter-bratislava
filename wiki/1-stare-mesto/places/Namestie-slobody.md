@@ -2,6 +2,7 @@
 title: Площадь Свободы (Námestie slobody)
 type: place
 domain: sights
+fame: 3
 district: 1-stare-mesto
 coords: [48.15230, 17.11170]
 tags: [square, socialist-era, fountain, druzba, firsnal]

@@ -2,6 +2,7 @@
 title: Памятник Гвездославу (Pomník P. O. Hviezdoslava)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.14090, 17.10760]
 tags: [monument, poet, square, interwar]

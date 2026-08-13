@@ -2,6 +2,7 @@
 title: Protestant Church on Legionárska (Evanjelický kostol)
 type: place
 domain: religion
+fame: 1
 district: 1-stare-mesto
 coords: [48.15640, 17.12216]
 tags: [church, protestant, modernism, blumental]

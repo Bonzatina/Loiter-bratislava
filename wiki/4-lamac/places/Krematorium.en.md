@@ -2,6 +2,7 @@
 title: Crematorium and Urn Grove (Krematórium a urnový háj)
 type: place
 domain: architecture
+fame: 1
 district: 4-lamac
 coords: [48.21118, 17.04330]
 tags: [postwar-modernism, crematorium, landscape, national-monument]

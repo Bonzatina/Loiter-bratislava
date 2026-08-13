@@ -2,6 +2,7 @@
 title: Great Lutheran Church (Veľký evanjelický kostol)
 type: place
 domain: religion
+fame: 3
 district: 1-stare-mesto
 coords: [48.14756, 17.10563]
 tags: [lutheran, baroque-classicism, walch, panenska, organ, national-monument]

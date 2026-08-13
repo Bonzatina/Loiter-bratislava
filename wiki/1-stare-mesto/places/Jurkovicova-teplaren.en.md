@@ -2,6 +2,7 @@
 title: Jurkovič Heating Plant (Jurkovičova tepláreň)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14376, 17.12376]
 tags: [industrial, modernism, revitalization, sky-park]

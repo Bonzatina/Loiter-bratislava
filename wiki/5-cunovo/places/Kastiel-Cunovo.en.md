@@ -2,6 +2,7 @@
 title: Čunovo Manor — Ecocentre (Kaštieľ Čunovo)
 type: place
 domain: museums
+fame: 1
 district: 5-cunovo
 coords: [48.02602, 17.19684]
 tags: [manor, baroque, classicism, szapary, ecocentre, education, danube]

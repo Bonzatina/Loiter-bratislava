@@ -2,6 +2,7 @@
 title: The Old Town Hall (Stará radnica)
 type: place
 domain: history
+fame: 4
 district: 1-stare-mesto
 coords: [48.14285, 17.10940]
 tags: [town-hall, medieval, main-square, justice, turmmusik]

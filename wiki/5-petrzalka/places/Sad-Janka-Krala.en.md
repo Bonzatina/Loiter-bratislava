@@ -2,6 +2,7 @@
 title: Janko Kráľ Park (Sad Janka Kráľa)
 type: place
 domain: nature
+fame: 3
 district: 5-petrzalka
 coords: [48.13430, 17.11064]
 tags: [park, oldest, danube, monument]

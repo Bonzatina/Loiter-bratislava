@@ -2,6 +2,7 @@
 title: Штрковецкое озеро (Štrkovecké jazero)
 type: place
 domain: nature
+fame: 3
 district: 2-ruzinov
 coords: [48.15796, 17.14730]
 tags: [lake, gravel-pit, recreation, birds, park-art]

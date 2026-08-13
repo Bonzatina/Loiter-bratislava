@@ -2,6 +2,7 @@
 title: Legionnaires' Houses (Legionárske domy)
 type: place
 domain: architecture
+fame: 2
 district: 3-nove-mesto
 coords: [48.16306, 17.12089]
 tags: [rondocubism, interwar, cooperative, veterans]

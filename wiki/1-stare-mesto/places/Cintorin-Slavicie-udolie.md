@@ -2,6 +2,7 @@
 title: Кладбище Славичье удолье (Cintorín Slávičie údolie)
 type: place
 domain: history
+fame: 3
 district: 1-stare-mesto
 coords: [48.15611, 17.06790]
 tags: [cemetery, memory, dubcek, notable-graves]

@@ -2,6 +2,7 @@
 title: Музей города Братиславы (Múzeum mesta Bratislavy)
 type: place
 domain: museums
+fame: 4
 district: 1-stare-mesto
 coords: [48.14405, 17.10925]
 tags: [museum, city-history, stara-radnica, oldest]

@@ -2,6 +2,7 @@
 title: Michael's Tower (Michalská veža)
 type: place
 domain: history
+fame: 2
 district: 1-stare-mesto
 coords: [48.14517, 17.10674]
 tags: [city-gate, medieval, tower, landmark, museum]

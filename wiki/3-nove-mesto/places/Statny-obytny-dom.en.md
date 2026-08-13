@@ -2,6 +2,7 @@
 title: The State Residential House on Vajnorská (Štátny obytný dom)
 type: place
 domain: architecture
+fame: 1
 district: 3-nove-mesto
 coords: [48.15863, 17.12886]
 tags: [rondocubism, interwar, wwii, trnavske-myto]

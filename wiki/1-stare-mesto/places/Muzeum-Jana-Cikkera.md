@@ -2,6 +2,7 @@
 title: Музей Яна Циккера (Múzeum Jána Cikkera)
 type: place
 domain: museums
+fame: 1
 district: 1-stare-mesto
 coords: [48.14506, 17.09302]
 tags: [museum, composer, functionalism, villa]

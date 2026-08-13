@@ -2,6 +2,7 @@
 title: Devín Castle (hrad Devín)
 type: place
 domain: history
+fame: 5
 district: 4-devin
 coords: [48.17389, 16.97806]
 tags: [castle, ruins, great-moravia, celts, romans, stur, national-monument]

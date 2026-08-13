@@ -2,6 +2,7 @@
 title: Дворец Палудяи (Paluďaiho palác)
 type: place
 domain: architecture
+fame: 3
 district: 1-stare-mesto
 coords: [48.15510, 17.10480]
 tags: [neo-renaissance, wine, palace, ministry, monument, pressburg-families]

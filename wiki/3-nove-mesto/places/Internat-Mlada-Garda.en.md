@@ -2,6 +2,7 @@
 title: Mladá Garda Dormitory (Internát Mladá Garda)
 type: place
 domain: architecture
+fame: 2
 district: 3-nove-mesto
 coords: [48.17731, 17.12703]
 tags: [socialist-realism, dormitory, students, 1950s]

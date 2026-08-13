@@ -2,6 +2,7 @@
 title: Универмаг TETA (Obchodný dom TETA)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.14429, 17.11387]
 tags: [department-store, functionalism, interwar, grocery, passage]

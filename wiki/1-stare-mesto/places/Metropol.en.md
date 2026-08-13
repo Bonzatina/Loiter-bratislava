@@ -2,6 +2,7 @@
 title: Metropol Residential Building and Cinema (Obytný dom a kino Metropol)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.15044, 17.11722]
 tags: [functionalism, interwar, cinema, cafe, national-monument, coliving]

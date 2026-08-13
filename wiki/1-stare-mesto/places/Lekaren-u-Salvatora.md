@@ -2,6 +2,7 @@
 title: Аптека «У Сальватора» (Lekáreň u Salvatora)
 type: place
 domain: sights
+fame: 3
 district: 1-stare-mesto
 coords: [48.14139, 17.10558]
 tags: [pharmacy, neo-renaissance, baroque-mobiliar, jesuits, rigele]

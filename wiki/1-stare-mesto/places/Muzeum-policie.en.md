@@ -2,6 +2,7 @@
 title: Police Museum of the Slovak Republic (Múzeum polície SR)
 type: place
 domain: museums
+fame: 1
 district: 1-stare-mesto
 coords: [48.15007, 17.10655]
 tags: [museum, police, free-entry]

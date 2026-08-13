@@ -2,6 +2,7 @@
 title: Мост Лафранкони (Most Lafranconi)
 type: place
 domain: sights
+fame: 4
 district: 4-karlova-ves
 coords: [48.14120, 17.07502]
 tags: [bridge, danube, motorway, concrete, lafranconi]

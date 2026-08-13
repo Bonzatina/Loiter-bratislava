@@ -2,6 +2,7 @@
 title: Собор святого Мартина (Dóm sv. Martina)
 type: place
 domain: religion
+fame: 1
 district: 1-stare-mesto
 coords: [48.14198, 17.10488]
 tags: [cathedral, gothic, coronation, crypts, donner, bells]

@@ -2,6 +2,7 @@
 title: Смотровая башня на Девинской Кобыле (Vyhliadková veža na Devínskej Kobyle)
 type: place
 domain: lookout
+fame: 2
 district: 4-devin
 coords: [48.18930, 16.99549]
 tags: [lookout, tower, contemporary-architecture, devinska-kobyla, archdaily]

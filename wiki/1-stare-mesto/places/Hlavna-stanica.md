@@ -2,6 +2,7 @@
 title: Главный вокзал (Bratislava hlavná stanica)
 type: place
 domain: architecture
+fame: 4
 district: 1-stare-mesto
 coords: [48.15880, 17.10602]
 tags: [railway, feigler, 1871, reconstruction, transport-history]

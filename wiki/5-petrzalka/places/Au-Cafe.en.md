@@ -2,6 +2,7 @@
 title: Au Café
 type: place
 domain: cuisine
+fame: 3
 district: 5-petrzalka
 coords: [48.13666, 17.10933]
 tags: [cafe, restaurant, empire, danube, revival]

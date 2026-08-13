@@ -2,6 +2,7 @@
 title: Дунайская променада (Dunajská promenáda)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.14005, 17.09560]
 tags: [promenade, embankment, statues, meridian, walk]

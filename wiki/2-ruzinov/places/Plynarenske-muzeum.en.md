@@ -2,6 +2,7 @@
 title: Slovak Gas Museum (Slovenské plynárenské múzeum)
 type: place
 domain: museums
+fame: 2
 district: 2-ruzinov
 coords: [48.14326, 17.13759]
 tags: [museum, industry, gas, free-entry]

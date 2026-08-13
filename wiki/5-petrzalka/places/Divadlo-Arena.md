@@ -2,6 +2,7 @@
 title: Театр «Арена» (Divadlo Aréna)
 type: place
 domain: culture
+fame: 3
 district: 5-petrzalka
 coords: [48.13584, 17.11434]
 tags: [theatre, monument, reconstruction, danube]

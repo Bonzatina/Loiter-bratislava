@@ -2,6 +2,7 @@
 title: Two-Thousand-Year Bratislava (Dvetisícročná Bratislava)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.15480, 17.10720]
 tags: [relief, concrete, socialist-era, public-art, history]

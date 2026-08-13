@@ -2,6 +2,7 @@
 title: Лужный мост (Lužný most)
 type: place
 domain: sights
+fame: 3
 district: 2-podunajske-biskupice
 coords: [48.08302, 17.15156]
 tags: [bridge, danube, d4, bypass, floodplain]

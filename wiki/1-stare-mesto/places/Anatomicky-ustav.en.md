@@ -2,6 +2,7 @@
 title: Institute of Anatomy (Anatomický ústav)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.15121, 17.12017]
 tags: [rondocubism, university, interwar, sasinkova]

@@ -2,6 +2,7 @@
 title: Nová Cvernovka
 type: place
 domain: culture
+fame: 1
 district: 3-nove-mesto
 coords: [48.18311, 17.13183]
 tags: [cultural-centre, ateliers, community, dynamitka]

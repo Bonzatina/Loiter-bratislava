@@ -2,6 +2,7 @@
 title: Статуя Шёне Наци (Socha Schöne Náciho)
 type: place
 domain: sights
+fame: 4
 district: 1-stare-mesto
 coords: [48.14316, 17.10837]
 tags: [statue, melis, schone-naci, rybarska-brana, aluminium, 1997]

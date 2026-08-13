@@ -2,6 +2,7 @@
 title: Памятная доска Парацельса (Pamätná tabuľa Paracelsa)
 type: place
 domain: history
+fame: 1
 district: 1-stare-mesto
 coords: [48.14400, 17.11010]
 tags: [memorial-plaque, medicine, renaissance, 1937]

@@ -2,6 +2,7 @@
 title: Музеи СНМ на Жижковой (Múzeá SNM na Žižkovej)
 type: place
 domain: museums
+fame: 1
 district: 1-stare-mesto
 coords: [48.14075, 17.09640]
 tags: [museum, snm, zizkova, archaeology, music, hungarians, carpathian-germans]

@@ -2,6 +2,7 @@
 title: The Old Market Hall and the Bread Market (Stará tržnica)
 type: place
 domain: sights
+fame: 3
 district: 1-stare-mesto
 coords: [48.14520, 17.11150]
 tags: [market, trade, medieval-walls, snp-square]

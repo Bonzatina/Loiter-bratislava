@@ -2,6 +2,7 @@
 title: Hviezdoslav Square (Hviezdoslavovo námestie)
 type: place
 domain: sights
+fame: 2
 district: 1-stare-mesto
 coords: [48.14030, 17.10520]
 tags: [square, promenade, corso, embassies, theatre]

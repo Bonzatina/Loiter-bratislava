@@ -2,6 +2,7 @@
 title: Памятник жертвам экстремизма (Pamätník obetiam extrémizmu)
 type: place
 domain: history
+fame: 1
 district: 5-petrzalka
 coords: [48.13659, 17.11434]
 tags: [memorial, extremism, daniel-tupy, embankment]

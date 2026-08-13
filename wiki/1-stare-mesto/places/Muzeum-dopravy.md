@@ -2,6 +2,7 @@
 title: Музей транспорта (Múzeum dopravy)
 type: place
 domain: museums
+fame: 3
 district: 1-stare-mesto
 coords: [48.15561, 17.10660]
 tags: [museum, transport, vintage-cars, railways]

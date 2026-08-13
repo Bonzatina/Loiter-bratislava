@@ -2,6 +2,7 @@
 title: Statue of St Andrew (Socha sv. Ondreja)
 type: place
 domain: religion
+fame: 1
 district: 2-ruzinov
 coords: [48.15488, 17.13519]
 tags: [statue, baroque, relocated, park]

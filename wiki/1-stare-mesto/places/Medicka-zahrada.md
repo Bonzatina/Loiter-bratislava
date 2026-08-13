@@ -2,6 +2,7 @@
 title: Медицкий сад (Medická záhrada)
 type: place
 domain: nature
+fame: 3
 district: 1-stare-mesto
 coords: [48.14915, 17.11840]
 tags: [park, baroque-garden, aspremont, esterhazy, lime-alleys]

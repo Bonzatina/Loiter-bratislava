@@ -2,6 +2,7 @@
 title: Герулата (Gerulata) — римский военный лагерь
 type: place
 domain: history
+fame: 4
 district: 5-rusovce
 coords: [48.05604, 17.14960]
 tags: [roman, limes, unesco, archaeology, museum]

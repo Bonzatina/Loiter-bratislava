@@ -2,6 +2,7 @@
 title: Летний архиепископский дворец (Letný arcibiskupský palác)
 type: place
 domain: architecture
+fame: 4
 district: 1-stare-mesto
 coords: [48.15246, 17.10932]
 tags: [baroque, palace, government, adaptation]

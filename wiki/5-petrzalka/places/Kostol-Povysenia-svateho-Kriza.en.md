@@ -2,6 +2,7 @@
 title: Church of the Exaltation of the Holy Cross (Kostol Povýšenia svätého Kríža)
 type: place
 domain: religion
+fame: 2
 district: 5-petrzalka
 coords: [48.12805, 17.09876]
 tags: [church, functionalism, bata, interwar]

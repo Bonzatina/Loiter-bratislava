@@ -2,6 +2,7 @@
 title: Market Hall at Trnavské mýto (Tržnica)
 type: place
 domain: architecture
+fame: 2
 district: 3-nove-mesto
 coords: [48.15731, 17.12590]
 tags: [postwar-modernism, market, glass, trnavske-myto]

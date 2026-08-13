@@ -2,6 +2,7 @@
 title: Лодочная станция «Дунайчик» (Lodenica Dunajčík)
 type: place
 domain: culture
+fame: 1
 district: 5-petrzalka
 coords: [48.13581, 17.12401]
 tags: [paddling, club, danube, ovsiste, tradition]

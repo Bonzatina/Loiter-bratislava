@@ -2,6 +2,7 @@
 title: Еврейский общинный музей (Židovské komunitné múzeum)
 type: place
 domain: museums
+fame: 1
 district: 1-stare-mesto
 coords: [48.14688, 17.11223]
 tags: [museum, jewish, synagogue, heydukova]

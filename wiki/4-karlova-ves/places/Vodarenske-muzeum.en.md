@@ -2,6 +2,7 @@
 title: The Waterworks Museum (Vodárenské múzeum)
 type: place
 domain: museums
+fame: 2
 district: 4-karlova-ves
 coords: [48.14769, 17.06277]
 tags: [waterworks, industrial-heritage, museum, sihot, garden]

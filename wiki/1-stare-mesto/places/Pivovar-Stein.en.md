@@ -2,6 +2,7 @@
 title: Stein Brewery (Pivovar Stein)
 type: place
 domain: cuisine
+fame: 1
 district: 1-stare-mesto
 coords: [48.15588, 17.12381]
 tags: [beer, brewery, industrial-heritage, blumental, demolished]

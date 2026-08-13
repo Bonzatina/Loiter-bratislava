@@ -2,6 +2,7 @@
 title: Каменная площадь (Kamenné námestie)
 type: place
 domain: sights
+fame: 3
 district: 1-stare-mesto
 coords: [48.14550, 17.11360]
 tags: [square, socialist-era, urbanism, revitalization]

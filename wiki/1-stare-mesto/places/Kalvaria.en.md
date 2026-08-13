@@ -2,6 +2,7 @@
 title: Bratislava Calvary (Bratislavská kalvária)
 type: place
 domain: religion
+fame: 3
 district: 1-stare-mesto
 coords: [48.16105, 17.09996]
 tags: [calvary, baroque, restoration, hlboka-cesta]

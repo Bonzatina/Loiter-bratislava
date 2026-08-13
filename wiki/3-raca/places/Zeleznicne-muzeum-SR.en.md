@@ -2,6 +2,7 @@
 title: Railway Museum of Slovakia (Železničné múzeum SR)
 type: place
 domain: museums
+fame: 1
 district: 3-raca
 coords: [48.19951, 17.15971]
 tags: [museum, railway, rendez, depot]

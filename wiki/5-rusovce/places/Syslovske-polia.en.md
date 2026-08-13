@@ -2,6 +2,7 @@
 title: Sysľovské Fields (Sysľovské polia)
 type: place
 domain: nature
+fame: 2
 district: 5-rusovce
 coords: [48.03793, 17.10046]
 tags: [nature, birds, natura-2000, bustard, trail, border]

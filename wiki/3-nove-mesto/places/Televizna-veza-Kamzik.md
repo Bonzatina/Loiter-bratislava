@@ -2,6 +2,7 @@
 title: Телебашня Камзик (Televízna veža Kamzík)
 type: place
 domain: lookout
+fame: 4
 district: 3-nove-mesto
 coords: [48.18257, 17.09473]
 tags: [tv-tower, viewpoint, postwar-modernism, little-carpathians, restaurant]

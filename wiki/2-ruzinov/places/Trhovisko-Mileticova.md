@@ -2,6 +2,7 @@
 title: Рынок Милетичова (Trhovisko Miletičova)
 type: place
 domain: cuisine
+fame: 1
 district: 2-ruzinov
 coords: [48.15379, 17.13671]
 tags: [market, food, industrial-heritage, slaughterhouse]

@@ -2,6 +2,7 @@
 title: Здание YMCA (Budova YMCA)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.15703, 17.11369]
 tags: [ymca, red-brick, interwar, sport-history, cinema, monument]

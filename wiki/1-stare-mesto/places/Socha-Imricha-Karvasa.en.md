@@ -2,6 +2,7 @@
 title: Statue of Imrich Karvaš (Socha Imricha Karvaša)
 type: place
 domain: sights
+fame: 2
 district: 1-stare-mesto
 coords: [48.15291, 17.11477]
 tags: [statue, granite, banker, snp, memory]

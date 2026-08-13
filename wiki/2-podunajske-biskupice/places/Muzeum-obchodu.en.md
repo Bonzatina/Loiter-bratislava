@@ -2,6 +2,7 @@
 title: Museum of Trade (Múzeum obchodu)
 type: place
 domain: museums
+fame: 1
 district: 2-podunajske-biskupice
 coords: [48.12900, 17.20472]
 tags: [museum, trade, advertising, brewery]

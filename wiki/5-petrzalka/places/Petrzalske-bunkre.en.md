@@ -2,6 +2,7 @@
 title: The Petržalka Bunkers B-S 1–15 (Petržalské predmostie)
 type: place
 domain: history
+fame: 2
 district: 5-petrzalka
 coords: [48.12754, 17.07194]
 tags: [bunkers, fortification, interwar, first-republic, museum]

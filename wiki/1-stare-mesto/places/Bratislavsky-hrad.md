@@ -2,6 +2,7 @@
 title: Братиславский град (Bratislavský hrad)
 type: place
 domain: history
+fame: 5
 district: 1-stare-mesto
 coords: [48.14259, 17.10047]
 tags: [castle, landmark, maria-theresa, fire, reconstruction]

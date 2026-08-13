@@ -2,6 +2,7 @@
 title: Jupiter of the Solar System Model (Jupiter)
 type: place
 domain: sights
+fame: 1
 district: 2-ruzinov
 coords: [48.15521, 17.12832]
 tags: [astronomy, scale-model, public-art]

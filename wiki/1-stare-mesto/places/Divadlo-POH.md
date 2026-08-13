@@ -2,6 +2,7 @@
 title: Театр П. О. Гвездослава — DPOH (Divadlo P. O. Hviezdoslava)
 type: place
 domain: culture
+fame: 1
 district: 1-stare-mesto
 coords: [48.14397, 17.11183]
 tags: [theatre, postwar, laurinska, bank]

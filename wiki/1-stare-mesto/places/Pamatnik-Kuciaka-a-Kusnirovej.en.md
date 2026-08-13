@@ -2,6 +2,7 @@
 title: Ján Kuciak & Martina Kušnírová Memorial
 type: place
 domain: history
+fame: 2
 district: 1-stare-mesto
 coords: [48.14581, 17.11057]
 tags: [memorial, journalism, protests, contemporary-history]

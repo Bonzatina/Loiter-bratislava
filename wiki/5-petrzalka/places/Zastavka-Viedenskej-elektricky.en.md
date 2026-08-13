@@ -2,6 +2,7 @@
 title: Vienna Tram Stop (Zastávka Viedenskej električky)
 type: place
 domain: history
+fame: 1
 district: 5-petrzalka
 coords: [48.13690, 17.10820]
 tags: [vienna-tram, heritage, interwar, paving]

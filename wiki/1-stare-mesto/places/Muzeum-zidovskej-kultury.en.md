@@ -2,6 +2,7 @@
 title: SNM Museum of Jewish Culture (Múzeum židovskej kultúry SNM)
 type: place
 domain: museums
+fame: 3
 district: 1-stare-mesto
 coords: [48.14404, 17.10352]
 tags: [museum, snm, jewish, zidovska]

@@ -2,6 +2,7 @@
 title: Сандберг (Sandberg)
 type: place
 domain: nature
+fame: 3
 district: 4-devinska-nova-ves
 coords: [48.20082, 16.97428]
 tags: [nature, geology, paleontology, reserve, fossils, viewpoint]

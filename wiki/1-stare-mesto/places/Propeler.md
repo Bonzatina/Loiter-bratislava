@@ -2,6 +2,7 @@
 title: Пристани пропеллера (Propeler)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.13985, 17.10965]
 tags: [functionalism, interwar, danube, ferry]

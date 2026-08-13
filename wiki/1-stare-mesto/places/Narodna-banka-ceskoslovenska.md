@@ -2,6 +2,7 @@
 title: Национальный банк Чехословакии (Národná banka československá)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14344, 17.11279]
 tags: [bank, interwar, travertine, novecento]

@@ -2,6 +2,7 @@
 title: Park of the Border's Victims (Park obetí Hraničiarov)
 type: place
 domain: history
+fame: 1
 district: 5-petrzalka
 coords: [48.12184, 17.11874]
 tags: [iron-curtain, memorial, socialist-era, stary-haj]

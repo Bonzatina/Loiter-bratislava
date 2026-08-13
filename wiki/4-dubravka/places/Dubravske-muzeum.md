@@ -2,6 +2,7 @@
 title: Дубравское музей (Dúbravské múzeum)
 type: place
 domain: museums
+fame: 1
 district: 4-dubravka
 coords: [48.18818, 17.03083]
 tags: [museum, local-history, viticulture, village]

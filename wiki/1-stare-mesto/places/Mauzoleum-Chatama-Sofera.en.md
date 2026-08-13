@@ -2,6 +2,7 @@
 title: Chatam Sofer Mausoleum (Mauzóleum Chatama Sofera)
 type: place
 domain: religion
+fame: 3
 district: 1-stare-mesto
 coords: [48.14189, 17.09187]
 tags: [jewish-heritage, mausoleum, cemetery, rabbi, zizkova]

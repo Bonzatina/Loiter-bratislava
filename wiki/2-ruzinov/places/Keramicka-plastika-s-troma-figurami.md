@@ -2,6 +2,7 @@
 title: Керамическая пластика с тремя фигурами (Keramická plastika s troma figúrami)
 type: place
 domain: sights
+fame: 1
 district: 2-ruzinov
 coords: [48.16953, 17.17438]
 tags: [public-art, ceramics, totem, haberernova, ivanska-cesta]

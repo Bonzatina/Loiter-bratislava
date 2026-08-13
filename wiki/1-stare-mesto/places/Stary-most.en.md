@@ -2,6 +2,7 @@
 title: The Old Bridge (Starý most)
 type: place
 domain: sights
+fame: 4
 district: 1-stare-mesto
 coords: [48.13817, 17.11721]
 tags: [bridge, danube, franz-joseph, tram]

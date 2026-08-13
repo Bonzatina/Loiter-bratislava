@@ -2,6 +2,7 @@
 title: Лебединый фонтан (Labutia fontána)
 type: place
 domain: sights
+fame: 3
 district: 1-stare-mesto
 coords: [48.14999, 17.11963]
 tags: [fountain, medicka-zahrada, miksik, bronze, restoration]

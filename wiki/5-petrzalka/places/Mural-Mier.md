@@ -2,6 +2,7 @@
 title: Мурал «Мир» (Mier)
 type: place
 domain: sights
+fame: 1
 district: 5-petrzalka
 coords: [48.11770, 17.11041]
 tags: [mural, public-art, socialist-era, stary-haj]

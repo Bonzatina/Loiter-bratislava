@@ -2,6 +2,7 @@
 title: Salesian House on Miletičova (Saleziáni Don Bosca, Miletičova)
 type: place
 domain: religion
+fame: 1
 district: 2-ruzinov
 coords: [48.15571, 17.13444]
 tags: [salesians, church, oratory, functionalism, communist-persecution]

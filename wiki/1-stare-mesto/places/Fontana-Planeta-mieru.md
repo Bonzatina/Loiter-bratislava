@@ -2,6 +2,7 @@
 title: Фонтан «Планета мира» (Fontána Planéta mieru)
 type: place
 domain: sights
+fame: 2
 district: 1-stare-mesto
 coords: [48.14857, 17.10765]
 tags: [fountain, sculpture, hodzovo-namestie, astronomy, scale-model]

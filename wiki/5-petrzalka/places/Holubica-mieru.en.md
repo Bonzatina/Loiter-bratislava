@@ -2,6 +2,7 @@
 title: Dove of Peace (Holubica mieru)
 type: place
 domain: sights
+fame: 1
 district: 5-petrzalka
 coords: [48.09854, 17.12127]
 tags: [sculpture, public-art, socialist-era, luky, landmark]

@@ -2,6 +2,7 @@
 title: «Выдух» (Výduch)
 type: place
 domain: sights
+fame: 1
 district: 4-karlova-ves
 coords: [48.15333, 17.06030]
 tags: [public-art, technical, ventilation, design, liscie-udolie]

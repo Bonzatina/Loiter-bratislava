@@ -2,6 +2,7 @@
 title: Šrot Park Gallery (Galéria Šrot park)
 type: place
 domain: sights
+fame: 1
 district: 4-devinska-nova-ves
 coords: [48.21480, 16.97089]
 tags: [sculpture, scrap-art, open-air, animals, family]

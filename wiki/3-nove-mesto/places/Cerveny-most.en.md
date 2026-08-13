@@ -2,6 +2,7 @@
 title: Red Bridge (Červený most)
 type: place
 domain: sights
+fame: 2
 district: 3-nove-mesto
 coords: [48.17357, 17.07478]
 tags: [viaduct, railway-heritage, 1848, technical-monument, mlynska-dolina]

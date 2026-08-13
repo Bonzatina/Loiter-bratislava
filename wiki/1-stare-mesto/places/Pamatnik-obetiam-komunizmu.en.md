@@ -2,6 +2,7 @@
 title: Memorial to the Victims of Communism (Pamätník obetiam komunizmu)
 type: place
 domain: history
+fame: 2
 district: 1-stare-mesto
 coords: [48.14332, 17.11936]
 tags: [memorial, communism, barinka, jakubovo-namestie]

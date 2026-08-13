@@ -2,6 +2,7 @@
 title: Historic SND Building (Historická budova SND)
 type: place
 domain: culture
+fame: 4
 district: 1-stare-mesto
 coords: [48.14100, 17.11000]
 tags: [theatre, neo-renaissance, fellner-helmer, opera, monument]

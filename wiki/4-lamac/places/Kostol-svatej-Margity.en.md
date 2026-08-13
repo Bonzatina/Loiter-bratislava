@@ -2,6 +2,7 @@
 title: Church of St Margaret (Kostol svätej Margity)
 type: place
 domain: religion
+fame: 2
 district: 4-lamac
 coords: [48.19413, 17.04778]
 tags: [church, catholic, harminc, lamac]

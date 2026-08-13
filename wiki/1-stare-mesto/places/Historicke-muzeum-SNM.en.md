@@ -2,6 +2,7 @@
 title: SNM Museum of History (Historické múzeum SNM)
 type: place
 domain: museums
+fame: 3
 district: 1-stare-mesto
 coords: [48.14225, 17.10145]
 tags: [museum, snm, history, castle]

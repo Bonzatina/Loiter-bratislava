@@ -2,6 +2,7 @@
 title: The Blue Church (Modrý kostolík)
 type: place
 domain: religion
+fame: 5
 district: 1-stare-mesto
 coords: [48.14336, 17.11674]
 tags: [art-nouveau, lechner, church, landmark]

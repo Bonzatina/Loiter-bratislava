@@ -2,6 +2,7 @@
 title: Павлачовый дом на Рентгеновой (Pavlačový dom, Röntgenova)
 type: place
 domain: architecture
+fame: 2
 district: 5-petrzalka
 coords: [48.12567, 17.10269]
 tags: [social-housing, interwar, functionalism, dvory]

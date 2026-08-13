@@ -2,6 +2,7 @@
 title: Словацкий национальный музей (Slovenské národné múzeum)
 type: place
 domain: museums
+fame: 5
 district: 1-stare-mesto
 coords: [48.14029, 17.11312]
 tags: [museum, neoclassicism, interwar, danube-embankment]

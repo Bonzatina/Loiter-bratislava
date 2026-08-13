@@ -2,6 +2,7 @@
 title: Словацкий олимпийский и спортивный музей (Slovenské olympijské a športové múzeum)
 type: place
 domain: museums
+fame: 4
 district: 3-nove-mesto
 coords: [48.16713, 17.13955]
 tags: [museum, sport, olympics, pasienky]

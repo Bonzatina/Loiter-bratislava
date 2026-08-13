@@ -2,6 +2,7 @@
 title: Rudavskys Magic Garden
 type: place
 domain: museums
+fame: 1
 district: 2-podunajske-biskupice
 coords: [48.13514, 17.21720]
 tags: [sculpture-garden, gallery, open-air, art, family]

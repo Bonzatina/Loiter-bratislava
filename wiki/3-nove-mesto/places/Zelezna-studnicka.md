@@ -2,6 +2,7 @@
 title: Железная студничка (Železná studnička)
 type: place
 domain: nature
+fame: 1
 district: 3-nove-mesto
 coords: [48.19019, 17.08213]
 tags: [forest-park, spa-history, revival, hiking]

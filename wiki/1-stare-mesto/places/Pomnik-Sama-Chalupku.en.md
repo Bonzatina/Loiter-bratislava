@@ -2,6 +2,7 @@
 title: Samo Chalupka Monument (Pomník Sama Chalupku)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.15691, 17.12050]
 tags: [monument, bust, poet, literature, socialist-era, blumental]

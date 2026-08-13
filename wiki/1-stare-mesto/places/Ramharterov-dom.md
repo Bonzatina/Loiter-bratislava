@@ -2,6 +2,7 @@
 title: Дом Рамгартера — кафе «Регина» (Ramharterov dom, Café Regina)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.14648, 17.10744]
 tags: [modernism, interwar, cafe, hurbanovo-namestie]

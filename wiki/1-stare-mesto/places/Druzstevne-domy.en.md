@@ -2,6 +2,7 @@
 title: Coop Houses (Družstevné domy)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14545, 17.11240]
 tags: [functionalism, interwar, namestie-snp, cooperative]

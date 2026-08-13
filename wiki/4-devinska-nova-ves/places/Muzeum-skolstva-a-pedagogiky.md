@@ -2,6 +2,7 @@
 title: Музей школьного дела и педагогики (Múzeum školstva a pedagogiky)
 type: place
 domain: museums
+fame: 2
 district: 4-devinska-nova-ves
 coords: [48.21151, 16.97703]
 tags: [museum, education, school, free-entry]

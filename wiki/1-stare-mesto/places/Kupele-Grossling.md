@@ -2,6 +2,7 @@
 title: Купальни Грёсслинг (Kúpele Grössling)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.14075, 17.11190]
 tags: [baths, 19th-century, renovation, kupelna]

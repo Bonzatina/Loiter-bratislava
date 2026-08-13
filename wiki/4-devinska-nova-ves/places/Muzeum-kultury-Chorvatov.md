@@ -2,6 +2,7 @@
 title: Музей культуры хорватов в Словакии (Múzeum kultúry Chorvátov na Slovensku)
 type: place
 domain: museums
+fame: 1
 district: 4-devinska-nova-ves
 coords: [48.21228, 16.97367]
 tags: [museum, snm, croats, istrijska]

@@ -2,6 +2,7 @@
 title: Carlton Hotel
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.14155, 17.10880]
 tags: [hotel, historic, palugyay, harminc, cinema-history]

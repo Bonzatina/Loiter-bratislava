@@ -2,6 +2,7 @@
 title: Русовский каштель (Rusovský kaštieľ)
 type: place
 domain: architecture
+fame: 3
 district: 5-rusovce
 coords: [48.05241, 17.15115]
 tags: [castle, neo-gothic, english-park, habsburg]

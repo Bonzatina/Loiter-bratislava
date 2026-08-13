@@ -2,6 +2,7 @@
 title: Дом Фердинанда Милучкого (Dom Ferdinanda Milučkého)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.14649, 17.07822]
 tags: [postwar-modernism, villa, vernacular, vinarky]

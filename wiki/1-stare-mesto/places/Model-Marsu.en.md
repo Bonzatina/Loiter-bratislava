@@ -2,6 +2,7 @@
 title: Mars of the Solar System Model (Mars)
 type: place
 domain: sights
+fame: 2
 district: 1-stare-mesto
 coords: [48.15176, 17.11257]
 tags: [astronomy, scale-model, public-art, namestie-slobody]

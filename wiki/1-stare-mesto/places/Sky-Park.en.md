@@ -2,6 +2,7 @@
 title: Sky Park
 type: place
 domain: architecture
+fame: 3
 district: 1-stare-mesto
 coords: [48.14389, 17.12556]
 tags: [skyscraper, zaha-hadid, downtown, apollo, contemporary]

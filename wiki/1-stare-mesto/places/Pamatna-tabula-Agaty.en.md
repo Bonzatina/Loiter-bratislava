@@ -2,6 +2,7 @@
 title: Agáta Memorial Plaque (Pamätná tabuľa Agáte)
 type: place
 domain: history
+fame: 2
 district: 1-stare-mesto
 coords: [48.14573, 17.10719]
 tags: [witch-trials, 1602, memorial-plaque, hurbanovo-namestie, cvengrosova]

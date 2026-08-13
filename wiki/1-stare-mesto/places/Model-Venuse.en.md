@@ -2,6 +2,7 @@
 title: Venus of the Solar System Model (Venuša)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.14976, 17.11027]
 tags: [astronomy, scale-model, public-art]

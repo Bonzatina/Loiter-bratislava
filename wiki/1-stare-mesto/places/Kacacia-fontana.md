@@ -2,6 +2,7 @@
 title: Утиный фонтан (Kačacia fontána)
 type: place
 domain: sights
+fame: 2
 district: 1-stare-mesto
 coords: [48.14169, 17.11612]
 tags: [fountain, kuhmayer, legend, safarikovo-namestie, national-monument]

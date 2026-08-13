@@ -2,6 +2,7 @@
 title: Apartment Block for Postal Employees (Dom poštových zamestnancov)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.15744, 17.12045]
 tags: [rondocubism, housing, interwar, blumental]

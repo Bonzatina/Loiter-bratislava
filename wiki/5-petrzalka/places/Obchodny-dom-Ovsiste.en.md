@@ -2,6 +2,7 @@
 title: The Ovsište Shopping Centre — the "Little Prior" (OD Centrum / Bratislavský)
 type: place
 domain: sights
+fame: 1
 district: 5-petrzalka
 coords: [48.12014, 17.13015]
 tags: [shopping, socialist-era, ovsiste, clock-tower, decay-and-revival]

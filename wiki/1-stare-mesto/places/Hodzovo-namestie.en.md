@@ -2,6 +2,7 @@
 title: Hodža Square (Hodžovo námestie)
 type: place
 domain: sights
+fame: 3
 district: 1-stare-mesto
 coords: [48.14905, 17.10855]
 tags: [square, presidential-palace, fountain, underpass, decorative-stones]

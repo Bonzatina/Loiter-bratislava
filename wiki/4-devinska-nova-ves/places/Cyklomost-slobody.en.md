@@ -2,6 +2,7 @@
 title: Freedom Cycling Bridge (Cyklomost slobody)
 type: place
 domain: sights
+fame: 2
 district: 4-devinska-nova-ves
 coords: [48.21087, 16.96666]
 tags: [bridge, morava, border, cycling, iron-curtain, chuck-norris]

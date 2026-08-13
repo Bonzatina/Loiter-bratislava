@@ -2,6 +2,7 @@
 title: Жилые дома на Штетиновой (Nájomné domy, Štetinova 1–5)
 type: place
 domain: architecture
+fame: 2
 district: 1-stare-mesto
 coords: [48.14815, 17.10355]
 tags: [rondocubism, housing, interwar, evanjelicka-stvrt]

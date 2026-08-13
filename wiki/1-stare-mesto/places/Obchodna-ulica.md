@@ -2,6 +2,7 @@
 title: Улица Обходна (Obchodná ulica)
 type: place
 domain: sights
+fame: 3
 district: 1-stare-mesto
 coords: [48.14741, 17.11019]
 tags: [street, trade, tram, schondorf, wine]

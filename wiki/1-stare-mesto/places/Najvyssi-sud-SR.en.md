@@ -2,6 +2,7 @@
 title: Supreme Court of the Slovak Republic (Najvyšší súd SR)
 type: place
 domain: architecture
+fame: 3
 district: 1-stare-mesto
 coords: [48.14600, 17.10525]
 tags: [postwar-modernism, court, socialist-era, zupne-namestie]

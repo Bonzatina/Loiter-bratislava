@@ -2,6 +2,7 @@
 title: Gallery 19 (Galéria 19)
 type: place
 domain: museums
+fame: 2
 district: 1-stare-mesto
 coords: [48.14518, 17.12042]
 tags: [gallery, contemporary-art, nonprofit, free-entry]

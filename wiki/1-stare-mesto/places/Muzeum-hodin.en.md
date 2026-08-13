@@ -2,6 +2,7 @@
 title: The Museum of Clocks in the House of the Good Shepherd (Múzeum hodín)
 type: place
 domain: museums
+fame: 3
 district: 1-stare-mesto
 coords: [48.14230, 17.10399]
 tags: [museum, clocks, rococo, podhradie, mmb]

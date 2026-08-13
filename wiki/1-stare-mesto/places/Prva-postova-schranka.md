@@ -2,6 +2,7 @@
 title: «Первый почтовый ящик» (Prvá poštová schránka)
 type: place
 domain: sights
+fame: 1
 district: 1-stare-mesto
 coords: [48.14717, 17.10910]
 tags: [sculpture, bronze, public-art, tourist-attraction, post]

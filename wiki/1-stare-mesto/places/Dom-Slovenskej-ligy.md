@@ -2,6 +2,7 @@
 title: Дом Словацкой лиги (Dom Slovenskej ligy)
 type: place
 domain: architecture
+fame: 1
 district: 1-stare-mesto
 coords: [48.14432, 17.11594]
 tags: [modernism, interwar, arcade, cinema]

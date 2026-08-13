@@ -2,6 +2,7 @@
 title: Цверновка (Cvernovka)
 type: place
 domain: architecture
+fame: 1
 district: 2-ruzinov
 coords: [48.14806, 17.13111]
 tags: [industrial-heritage, factory, national-monument, nivy]

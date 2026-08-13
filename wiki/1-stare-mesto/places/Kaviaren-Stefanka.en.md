@@ -2,6 +2,7 @@
 title: Café Štefánka (Kaviareň Štefánka)
 type: place
 domain: cuisine
+fame: 2
 district: 1-stare-mesto
 coords: [48.14884, 17.10653]
 tags: [cafe, cult-place, palisady, intelligentsia]

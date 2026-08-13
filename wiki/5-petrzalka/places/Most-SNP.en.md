@@ -2,6 +2,7 @@
 title: SNP Bridge and the UFO (Most SNP)
 type: place
 domain: lookout
+fame: 5
 district: 5-petrzalka
 coords: [48.13700, 17.10400]
 tags: [bridge, ufo, postwar-modernism, viewpoint]
