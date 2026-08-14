@@ -18,7 +18,7 @@ Early Šilinger means Rondocubism national in spirit: the apartment houses on [[
 
 ## See Also
 
-- [[Anatomicky-ustav|Institute of Anatomy]], the [[Domy-Stetinova|Štetinová houses]], [[Dom-Heydukova-23|Heydukova 23]], the [[Dom-postovych-zamestnancov|postal employees' block]], the [[Internat-Lafranconi|Lafranconi dormitory]] — his works in this wiki
+- [[Anatomicky-ustav|Institute of Anatomy]], the [[Domy-Stetinova|Štetinová houses]], [[Dom-Heydukova-23|Heydukova 23]], the [[Dom-postovych-zamestnancov|postal employees' block]], the [[Internat-Lafranconi|Lafranconi dormitory]] — his works
 - [[rondocubism|Rondocubism]] — his signature style
-- [[Jurkovic-Dusan|Dušan Jurkovič]] — the wiki's other Rondocubist
+- [[Jurkovic-Dusan|Dušan Jurkovič]] — the other Rondocubist in Bratislava
 - [[functionalism|Functionalism]]

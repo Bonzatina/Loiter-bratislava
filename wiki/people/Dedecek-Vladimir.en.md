@@ -17,6 +17,6 @@ For years Dedeček's name was almost a term of abuse — his enormous structures
 
 ## See Also
 
-- [[Najvyssi-sud-SR|Supreme Court of the Slovak Republic]] and the [[Zakladna-skola-Zaporozska|pavilion school on Záporožská]] — his works in this wiki
+- [[Najvyssi-sud-SR|Supreme Court of the Slovak Republic]] and the [[Zakladna-skola-Zaporozska|pavilion school on Záporožská]] — his works
 - [[postwar-modernism|Post-war modernism]]
 - [[Bellus-Emil|Emil Belluš]] — the previous generation of Slovak architecture

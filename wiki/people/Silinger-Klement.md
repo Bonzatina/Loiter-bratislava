@@ -18,7 +18,7 @@ updated: 2026-07-07
 
 ## См. также
 
-- [[Anatomicky-ustav|Анатомический институт]], [[Domy-Stetinova|дома на Штетиновой]], [[Dom-Heydukova-23|дом на Гейдуковой]], [[Dom-postovych-zamestnancov|дом почтовых служащих]], [[Internat-Lafranconi|интернат Лафранкони]] — его работы в вики
+- [[Anatomicky-ustav|Анатомический институт]], [[Domy-Stetinova|дома на Штетиновой]], [[Dom-Heydukova-23|дом на Гейдуковой]], [[Dom-postovych-zamestnancov|дом почтовых служащих]], [[Internat-Lafranconi|интернат Лафранкони]] — его работы
 - [[rondocubism|Рондокубизм]] — его стиль-визитка
-- [[Jurkovic-Dusan|Душан Юркович]] — второй рондокубист вики
+- [[Jurkovic-Dusan|Душан Юркович]] — второй рондокубист Братиславы
 - [[functionalism|Функционализм]]

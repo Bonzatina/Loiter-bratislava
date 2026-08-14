@@ -20,6 +20,6 @@ Harminc lived to 94 and died in Bratislava, leaving the city buildings of four d
 
 ## See Also
 
-- [[Palac-Tatra-banky|Tatra Bank palace]], the [[Slovenske-narodne-muzeum|Slovak National Museum]], the [[Dom-Slovenskej-ligy|House of the Slovak League]], the [[Evanjelicky-kostol-Legionarska|Protestant church on Legionárska]], the [[Kostol-svatej-Margity|Church of St Margaret in Lamač]] — his works in this wiki
+- [[Palac-Tatra-banky|Tatra Bank palace]], the [[Slovenske-narodne-muzeum|Slovak National Museum]], the [[Dom-Slovenskej-ligy|House of the Slovak League]], the [[Evanjelicky-kostol-Legionarska|Protestant church on Legionárska]], the [[Kostol-svatej-Margity|Church of St Margaret in Lamač]] — his works
 - [[Bellus-Emil|Emil Belluš]], [[Ludwig-Christian|Christian Ludwig]] — his younger contemporaries
 - [[functionalism|Functionalism]]

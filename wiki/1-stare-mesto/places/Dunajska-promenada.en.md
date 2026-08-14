@@ -24,6 +24,6 @@ Among the newest stars is the "Mythical Boat" by the Czech sculptor Jaroslav Ró
 
 - [[Park-kultury-a-oddychu|PKO]] — the vanished heart of the old promenade
 - [[Zuckermandel]] — the new quarter at the western end
-- [[Jurkovic-Dusan|Dušan Jurkovič]] and the [[Muzeum-hodin|Museum of Clocks]] (Fadrusz) — the embankment's heroes in this wiki
+- [[Jurkovic-Dusan|Dušan Jurkovič]] and the [[Muzeum-hodin|Museum of Clocks]] (Fadrusz) — the embankment's heroes
 - [[Propeler|The Propeler wharfs]] and the [[Most-SNP|SNP Bridge]] — the promenade's crossings
 - [[1-stare-mesto|Staré Mesto]]

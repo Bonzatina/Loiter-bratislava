@@ -22,6 +22,6 @@ The Calvary also has a detective story — the fate of the statue of St Veronica
 
 ## See Also
 
-- [[Kostol-svatej-Margity|Church of St Margaret]] and the [[Evanjelicky-kostol-Legionarska|church on Legionárska]] — the wiki's sacred pages
+- [[Kostol-svatej-Margity|Church of St Margaret]] and the [[Evanjelicky-kostol-Legionarska|church on Legionárska]] — other sacred places in the city
 - [[Sanatorium-Koch|Koch Sanatorium]] — a neighbour on the hills above the centre
 - [[1-stare-mesto|Staré Mesto]]

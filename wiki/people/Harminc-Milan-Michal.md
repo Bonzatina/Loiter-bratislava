@@ -20,6 +20,6 @@ updated: 2026-07-07
 
 ## См. также
 
-- [[Palac-Tatra-banky|Дворец Татра-банка]], [[Slovenske-narodne-muzeum|Словацкий национальный музей]], [[Dom-Slovenskej-ligy|дом Словацкой лиги]], [[Evanjelicky-kostol-Legionarska|евангелическая церковь на Легионерской]], [[Kostol-svatej-Margity|костёл св. Маргиты в Ламаче]] — его работы в вики
+- [[Palac-Tatra-banky|Дворец Татра-банка]], [[Slovenske-narodne-muzeum|Словацкий национальный музей]], [[Dom-Slovenskej-ligy|дом Словацкой лиги]], [[Evanjelicky-kostol-Legionarska|евангелическая церковь на Легионерской]], [[Kostol-svatej-Margity|костёл св. Маргиты в Ламаче]] — его работы
 - [[Bellus-Emil|Эмиль Беллуш]], [[Ludwig-Christian|Кристиан Людвиг]] — младшие современники
 - [[functionalism|Функционализм]]

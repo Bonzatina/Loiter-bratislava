@@ -11,7 +11,7 @@ updated: 2026-07-14
 
 Nové Mesto (New Town) is the borough north-east of the historic centre (Bratislava III okres), grown along the roads to Trnava and into the foothills of the Little Carpathians. It is a heterogeneous belt of the city: tenement blocks and early-20th-century villas closer to the centre, industrial and railway lands around the main station, and, to the north, green slopes with the [[Koliba]] quarter and the [[Televizna-veza-Kamzik|TV tower on Kamzík hill]], the city's main lookout point.
 
-The wiki's first object here is the [[Legionarske-domy|Legionnaires' Houses]] (1920s) by Dušan Jurkovič and Jan Pacl on Ursínyho street: a cooperative quarter for veterans of the Czechoslovak Legions and a rare Bratislava example of Rondocubism — the "national style" of young Czechoslovakia.
+On Ursínyho street stand the [[Legionarske-domy|Legionnaires' Houses]] (1920s) by Dušan Jurkovič and Jan Pacl: a cooperative quarter for veterans of the Czechoslovak Legions and a rare Bratislava example of Rondocubism — the "national style" of young Czechoslovakia.
 
 ## Coat of Arms
 
