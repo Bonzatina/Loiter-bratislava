@@ -213,6 +213,12 @@
 | `farnost-mileticka-2026` | https://mileticka.sk/dejiny-farnosti/ | Сайт салезианского прихода на Милетичовой: история фарности |
 | `pivovar-stein-opive-2014` | https://opive.sk/pribeh-pivovaru-po-ktorom-nezostane-nic-stein/ | oPive: история пивоварни Stein (1872–2014) |
 | `pivovar-stein-register-architektury-2026` | https://register-architektury.sk/sk/objekt/568-pivovar-stein | Register architektúry: пивоварня Stein — строительная история и снос |
+| `karacsonyiho-palac-bratislavaden-2026` | https://bratislavaden.sk/bratislava-obnovila-jeden-zo-svojich-klenotov-vdaka-europskym-zdrojom-presiel-rekonstrukciou-karacsonyiho-palac/ | Bratislavaden: реконструкция дворца Карачони на европейские деньги |
+| `karacsonyiho-palac-skwiki-2026` | https://sk.wikipedia.org/wiki/Karáčoniho_palác | Словацкая Википедия: дворец Карачони — памятник 101-596/0 |
+| `pistoriho-palac-skwiki-2026` | https://sk.wikipedia.org/wiki/Pistoriho_palác | Словацкая Википедия: дворец Пистори — памятник 101-166/0, ленинские доски |
+| `pistoriho-palac-staremesto-2026` | https://www.staremesto.sk/23186/pistoriho-palac | Сайт Старого Места: дворец Пистори — история, фрески, реконструкция 2015–2017 |
+| `pistoriho-nadvorie-asb-2026` | https://www.asb.sk/architektura/stare-mesto-startuje-kompletnu-revitalizaciu-nadvoria-pistoriho-palaca | ASB: ревитализация двора дворца Пистори (Studio 2021 Architekti, 2026) |
+| `karacsonyiho-palac-yimba-2026` | https://www.yimba.sk/rekonstrukcie-historickych-pamiatok/krasny-bratislavsky-palac-s-obnovenou-podobou-stefanikova-je-bohatsia-o-zrekonstruovanu-pamiatku-pomohli-europske-zdroje | YIM.BA: дворец Карачони — тендер, стоимость, ход работ |
 | `pivovar-stein-balove-2019` | https://balove.sk/ked-bratislavskym-pivarom-pukalo-srdce-takto-sme-prisli-o-stein/ | Balove.sk: снос пивоварни Stein 2014 года, фоторепортаж |
 | `spilka-visitbratislava-2026` | https://www.visitbratislava.com/places/spilka-beer-restaurant/ | Visit Bratislava: ресторан Spilka в спилке пивоварни Stein |
 | `grasalkovicov-palac-skwiki-2026` | https://sk.wikipedia.org/wiki/Grasalkovičov_palác | Словацкая Википедия: Грассалковичев дворец |
@@ -461,6 +467,8 @@
 | [[Metropol|Дом и кинотеатр «Метрополь»]] | 1-stare-mesto | «Метрополка» Тварожека (1927–1928): кино в подвале, кафе, квартиры; НКП с 1985, co-living с 2024 |
 | [[Kamenne-namestie|Каменная площадь]] | 1-stare-mesto | Рынок каменщиков → Stein Platz → Киевская → «чёрная дыра»; проект «Живая площадь» с 2016 |
 | [[Pamatna-tabula-Paracelsa|Памятная доска Парацельса]] | 1-stare-mesto | Бронза Людовита Мака (1937) на Примациальном дворце: визит 1537 года |
+| [[Karacsonyiho-palac|Дворец Карачони]] | 1-stare-mesto | Историзм 1883–1884 на Штефаниковой; НКП 101-596/0, реконструкция 2025–2026 за 8,6 млн € |
+| [[Pistoriho-palac|Дворец Пистори]] | 1-stare-mesto | Эклектика аптекаря Пистори (1890-е); музей Ленина → центр культуры и кино Film Europe |
 
 ## Кварталы
 

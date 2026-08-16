@@ -26,5 +26,6 @@ Behind the palace stretches a French-style garden adjoining that of the [[Letny-
 - [[Fontana-Planeta-mieru|Planet of Peace Fountain]] — Bártfay's sphere before the fence
 - [[Letny-arcibiskupsky-palac|Summer Archbishop's Palace]] — the garden neighbour, seat of the government
 - [[Bellus-Emil|Emil Belluš]] — author of the 1940s adaptation
+- [[Karacsonyiho-palac|Karáčoni Palace]] — grew on the site of a utility building of the palace grounds
 - [[Muzeum-policie|Police Museum]] — in the block below the palace
 - [[1-stare-mesto|Staré Mesto]]

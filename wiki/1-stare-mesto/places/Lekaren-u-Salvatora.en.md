@@ -25,4 +25,5 @@ The return began when in May 2020 the city obtained the house on Panská in full
 - [[Rigele-Alojz|Alojz Rigele]] — author of the Saviour on the facade
 - [[Michalska-veza|Michael's Tower]] — nearby stands the Red Crab pharmacy with its museum past
 - [[Dom-svateho-Martina|St Martin's Cathedral]] — the Jesuit residence where the furnishings began their service
+- [[Pistoriho-palac|Pisztory Palace]] — a house with a pharmacy, built by a pharmacist for himself
 - [[1-stare-mesto|Staré Mesto]]

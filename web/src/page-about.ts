@@ -34,6 +34,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'visitbratislava.com': 'Official tourism portal',
     'welcometobratislava.eu': 'Independent Bratislava guide',
     'bratislava.sk':      'Official website of the city of Bratislava',
+    'staremesto.sk':      'Official website of the Staré Mesto borough',
     'register-architektury.sk': 'Register of modern Slovak architecture',
     'muop.eu':            'City Institute for Monument Protection',
     'muzeum.sk':          'Directory of Slovak museums',
@@ -73,6 +74,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'opive.sk':           'Slovak beer magazine',
     'balove.sk':          'Bratislava photo-stories blog',
     'yimba.sk':           'Bratislava development and architecture magazine',
+    'asb.sk':             'Slovak architecture and construction magazine',
     'podnavylet.sk':      'Slovak trip-ideas portal',
     'storymaps.arcgis.com': 'ArcGIS StoryMaps platform',
     'velkykostol.sk':     'Lutheran congregation of Bratislava Staré Mesto',
@@ -90,6 +92,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'visitbratislava.com': 'Официальный туристический портал',
     'welcometobratislava.eu': 'Независимый путеводитель по Братиславе',
     'bratislava.sk':      'Официальный сайт города Братислава',
+    'staremesto.sk':      'Официальный сайт городской части Старе-Место',
     'register-architektury.sk': 'Реестр современной словацкой архитектуры',
     'muop.eu':            'Городской институт охраны памятников',
     'muzeum.sk':          'Каталог музеев Словакии',
@@ -129,6 +132,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'opive.sk':           'Словацкий пивной журнал',
     'balove.sk':          'Блог фотоисторий о Братиславе',
     'yimba.sk':           'Журнал о девелопменте и архитектуре Братиславы',
+    'asb.sk':             'Словацкий журнал об архитектуре и строительстве',
     'podnavylet.sk':      'Портал идей для прогулок по Словакии',
     'storymaps.arcgis.com': 'Платформа интерактивных историй ArcGIS',
     'velkykostol.sk':     'Сайт евангелического прихода Старе-Места',
@@ -174,6 +178,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('visitbratislava.com')}
     ${src('welcometobratislava.eu')}
     ${src('bratislava.sk')}
+    ${src('staremesto.sk')}
     ${src('sk.wikipedia.org')}
     ${src('en.wikipedia.org')}
     ${src('hu.wikipedia.org')}
@@ -217,6 +222,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('opive.sk')}
     ${src('balove.sk')}
     ${src('yimba.sk')}
+    ${src('asb.sk')}
     ${src('podnavylet.sk')}
     ${src('storymaps.arcgis.com')}
     ${src('velkykostol.sk')}

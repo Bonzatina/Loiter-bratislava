@@ -70,6 +70,8 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Hotel-Carlton|Carlton Hotel]] — eight centuries of innkeeping: from At the Swan to the Savoy-Carlton
 - [[Pomnik-Hviezdoslava|The Hviezdoslav Monument]] — the bronze poet on the square that bears his name (1937)
 - [[Palugyayov-palac|Palugyay Palace]] — the neo-renaissance headquarters of a wine empire (1873–1879), now the Foreign Ministry
+- [[Karacsonyiho-palac|Karáčoni Palace (Karáčoniho palác)]] — historicism of 1883–1884 on Štefánikova, renewed in 2025–2026
+- [[Pistoriho-palac|Pisztory Palace (Pisztoryho palác)]] — a pharmacist's house of the 1890s: Lenin museum, now a cultural centre and art cinema
 - [[Lekaren-u-Salvatora|The Salvator Pharmacy]] — Rigele's Saviour and the returned Jesuit furnishings of 1727
 - [[Kupele-Grossling|The Grössling Baths]] — the 1895 baths awaiting their second life (~2027)
 - [[Namestie-slobody|Freedom Square]] — the concrete "Firšnál" with the city's largest fountain, Družba
