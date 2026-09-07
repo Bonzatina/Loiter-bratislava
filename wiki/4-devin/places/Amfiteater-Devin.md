@@ -2,7 +2,7 @@
 title: Амфитеатр под градом Девин (Amfiteáter Devín)
 type: place
 domain: history
-fame: 5
+fame: 2
 district: 4-devin
 coords: [48.17346, 16.97701]
 tags: [amphitheatre, third-reich, socialist-era, decay, danube]

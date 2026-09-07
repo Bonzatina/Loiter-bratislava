@@ -4,7 +4,7 @@ type: place
 domain: culture
 fame: 4
 district: 1-stare-mesto
-coords: [48.14100, 17.11000]
+coords: [48.14241, 17.11023]
 tags: [theatre, neo-renaissance, fellner-helmer, opera, monument]
 sources: [snd-budova-skwiki-2026]
 updated: 2026-07-13
@@ -24,6 +24,7 @@ updated: 2026-07-13
 
 - [[Hviezdoslavovo-namestie|Гвездославова площадь]] — театр замыкает её восточный конец
 - [[Pomnik-Hviezdoslava|Памятник Гвездославу]] — бронзовый поэт перед театром
+- [[Nova-budova-SND|Новое здание СНТ]] — сцена того же театра на Прибиновой (2007)
 - [[Divadlo-POH|Театр П. О. Гвездослава]] — драматическая сцена города
 - [[Hotel-Carlton|Отель «Карлтон»]] — сосед по площади и по строителю
 - [[1-stare-mesto|Старе-Место]]

@@ -2,7 +2,7 @@
 title: Michael's Tower (Michalská veža)
 type: place
 domain: history
-fame: 2
+fame: 4
 district: 1-stare-mesto
 coords: [48.14517, 17.10674]
 tags: [city-gate, medieval, tower, landmark, museum]
@@ -26,4 +26,5 @@ Before the gate, Michael's Bridge crosses the former moat, guarded by two pendan
 - [[Stara-radnica|The Old Town Hall]] — the old town's other tower
 - [[Pamatna-tabula-Agaty|Agáta Memorial Plaque]] — the 1602 execution at the moat before this gate
 - [[justice-in-presporok|Justice in Old Prešporok]] — the gallows before the gate as a warning to all who entered
+- [[Mestske-hradby-Staromestska|City Walls on Staromestská]] — the longest surviving stretch of the same fortifications
 - [[1-stare-mesto|Staré Mesto]]

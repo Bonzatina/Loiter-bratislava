@@ -23,4 +23,5 @@ It is not just a monument but a real cemetery: about seven thousand Red Army sol
 - [[Najvyssi-sud-SR|Supreme Court of the SR]] — the city's other "hidden cross"
 - [[Most-SNP|SNP Bridge]] — its counterpart in the panorama
 - [[Kalvaria|Calvary]] — the neighbouring hill with a very different story
+- [[Maly-Slavin|Malý Slavín]] — the forest grave of two soldiers, named after this memorial
 - [[1-stare-mesto|Staré Mesto]]

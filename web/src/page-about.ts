@@ -54,6 +54,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'muzeum.racan.sk':    'Rača local-history museum society',
     'kriz.epocha.sk':     'Catalogue of Slovakia\'s sacral monuments',
     'pam.epocha.sk':      'Catalogue of Slovakia\'s memorials',
+    'doew.at':            'Documentation Centre of Austrian Resistance',
+    'petrzalka.sk':       'Official website of the Petržalka borough',
     'beliana.sav.sk':     'Slovak general encyclopedia (SAV)',
     'slovakia.travel':    'Official tourism portal of Slovakia',
     'bratislavaguide.com': 'Bratislava city guide',
@@ -62,6 +64,9 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'svu.sk':             'Slovak Union of Visual Arts',
     'peme.sk':            'Sculptor Peter Mészároš\'s site',
     'galeria19.sk':       'Galéria 19 contemporary art gallery',
+    'webumenia.sk':       'Online collections of Slovak galleries',
+    'romanfecikgallery.sk': 'Roman Fecik Gallery, Bratislava',
+    'gib-bratislava.eu':  'Bratislava\'s general investor (city construction authority)',
     'kastielcunovo.sk':   'Čunovo Ecocentre (Bratislava Region)',
     'cor.europa.eu':      'European Committee of the Regions',
     'vypadni.sk':         'Slovak trip-ideas portal',
@@ -83,6 +88,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'dobremesto.gov.sk':  'State portal on urban regeneration',
     'amazingarchitecture.com': 'International architecture project magazine',
     'krizom-krazom.online': 'Catalogue of Slovak monuments and sights',
+    'archinfo.sk':        'Slovak architecture database and magazine',
+    'zsceska.sk':         'Website of the school on Česká street',
   } : {
     'sk.wikipedia.org':   'Словацкая Википедия',
     'en.wikipedia.org':   'Английская Википедия',
@@ -112,6 +119,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'muzeum.racan.sk':    'Рачанское музейное общество',
     'kriz.epocha.sk':     'Каталог сакральных памятников Словакии',
     'pam.epocha.sk':      'Каталог мемориалов Словакии',
+    'doew.at':            'Архив документации австрийского Сопротивления',
+    'petrzalka.sk':       'Официальный сайт городской части Петржалка',
     'beliana.sav.sk':     'Словацкая универсальная энциклопедия (САН)',
     'slovakia.travel':    'Официальный туристический портал Словакии',
     'bratislavaguide.com': 'Путеводитель по Братиславе',
@@ -120,6 +129,9 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'svu.sk':             'Словацкий союз художников',
     'peme.sk':            'Сайт скульптора Петера Месароша',
     'galeria19.sk':       'Галерея современного искусства Galéria 19',
+    'webumenia.sk':       'Собрания словацких галерей онлайн',
+    'romanfecikgallery.sk': 'Галерея Романа Фецика в Братиславе',
+    'gib-bratislava.eu':  'Генеральный инвестор Братиславы (городская строительная организация)',
     'kastielcunovo.sk':   'Экоцентр Чуново (Братиславский край)',
     'cor.europa.eu':      'Европейский комитет регионов',
     'vypadni.sk':         'Портал идей для прогулок по Словакии',
@@ -141,6 +153,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'dobremesto.gov.sk':  'Государственный портал об обновлении городских территорий',
     'amazingarchitecture.com': 'Международный журнал архитектурных проектов',
     'krizom-krazom.online': 'Каталог памятников и достопримечательностей Словакии',
+    'archinfo.sk':        'База данных и журнал словацкой архитектуры',
+    'zsceska.sk':         'Сайт школы на Ческой улице',
   }
 
   const src = (domain: string) => `
@@ -202,6 +216,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('muzeum.racan.sk')}
     ${src('kriz.epocha.sk')}
     ${src('pam.epocha.sk')}
+    ${src('doew.at')}
+    ${src('petrzalka.sk')}
     ${src('beliana.sav.sk')}
     ${src('slovakia.travel')}
     ${src('bratislavaguide.com')}
@@ -210,6 +226,9 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('svu.sk')}
     ${src('peme.sk')}
     ${src('galeria19.sk')}
+    ${src('webumenia.sk')}
+    ${src('romanfecikgallery.sk')}
+    ${src('gib-bratislava.eu')}
     ${src('kastielcunovo.sk')}
     ${src('cor.europa.eu')}
     ${src('vypadni.sk')}
@@ -231,6 +250,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('dobremesto.gov.sk')}
     ${src('amazingarchitecture.com')}
     ${src('krizom-krazom.online')}
+    ${src('archinfo.sk')}
+    ${src('zsceska.sk')}
 </ul>
 </div>`,
   })

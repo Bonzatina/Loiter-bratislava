@@ -4,7 +4,7 @@ type: place
 domain: sights
 fame: 2
 district: 1-stare-mesto
-coords: [48.14030, 17.10520]
+coords: [48.14140, 17.10700]
 tags: [square, promenade, corso, embassies, theatre]
 sources: [hviezdoslavovo-namestie-skwiki-2026]
 updated: 2026-07-12
@@ -27,4 +27,7 @@ The eastern end of the square is anchored by the historic building of the Nation
 - [[Hviezdoslav-Pavol-Orszagh|Pavol Országh Hviezdoslav]] — whose name the square bears
 - [[Rigele-Alojz|Alojz Rigele]] — "Girl with a Deer" on the square
 - [[Most-SNP|SNP Bridge]] — the western end of the promenade
+- [[Morovy-stlp-Rybne-namestie|Plague Column on Rybné námestie]] — the 1713 Trinity column at the western end
+- [[Pomnik-Sandora-Petofiho|Sándor Petőfi Monument]] — stood here in 1911–1921, when the square was Kossuth Square
+- [[Pomnik-Hummela|Hummel Monument]] — Tilgner, 1887: five moves and a return by the embassy
 - [[1-stare-mesto|Staré Mesto]]

@@ -273,6 +273,7 @@
 | `tabula-agaty-pamepocha-2026` | https://pam.epocha.sk/pamatniky-bratislava/stare-mesto/agatha-toott-borlobaschin-t-24-5-1602-hurbanovo-nam | Pam.epocha: памятная доска Агате Тоотовой Борлобашиновой |
 | `tabula-agaty-dnes24-2019` | https://bratislava.dnes24.sk/na-hurbanovo-namestie-sa-vratila-pamatna-tabula-venovana-spomienke-na-prvu-upalenu-carodejnicu-335735 | Dnes24: возвращение доски на Гурбанову площадь (12.7.2019) |
 | `mlada-garda-register-architektury-2026` | https://register-architektury.sk/sk/objekt/259-internat-mlada-garda | Register architektúry: интернат «Млада гарда» |
+| `dazdovniky-umeniemesta-2026` | https://umeniemesta.sk/diela/recMfAsRpU51V51Q9 | Umenie mesta: башня для стрижей на Лимбовой — авторы, размеры, GPS |
 | `mlada-garda-stuba-2026` | https://www.stuba.sk/sk/diani-na-stu/prehlad-aktualit/mlada-garda-je-vynimocny-internat.html?page_id=11892 | STU: «Млада гарда — исключительный интернат»: хроника стройки, вместимость, жильцы |
 | `cvernovka-bratislavaden-2026` | https://bratislavaden.sk/z-fabriky-na-kulturne-srdce-mesta-bratislavska-cvernovka-je-dnes-kulture-centrum-pred-rokmi-takmer-zmizla-z-mapy-mesta/ | Bratislavaden: Цверновка — от фабрики к культурному сердцу города |
 | `cvernovka-skwiki-2026` | https://sk.wikipedia.org/wiki/Cvernovka_(Bratislava) | Словацкая Википедия: Цверновка — названия предприятия, памятники, снос |
@@ -287,6 +288,51 @@
 | `kamenne-namestie-bratislavaden-2026` | https://bratislavaden.sk/kamenne-namestie-v-bratislave-vyvolava-uz-roky-zmiesane-pocity-poznate-tieto-detaily-z-jeho-historie/ | Bratislavaden: Каменная площадь — история и «чёрная дыра» центра |
 | `paracelsus-bratislavaden-2026` | https://bratislavaden.sk/vedeli-ste-o-tom-ze-slavny-lekar-paracelsus-kedysi-navstivil-bratislavu-udalost-pripomina-pamatna-tabula/ | Bratislavaden: Парацельс в Прессбурге и памятная доска |
 | `paracelsus-pamepocha-2026` | https://pam.epocha.sk/pamatniky-bratislava/stare-mesto/paracelsus-von-hohenheim-1493-1541-ursulinska-ul | Pam.epocha: доска Парацельса — Фауст, Бехайм, описание рельефа |
+| `nova-budova-snd-bratislavaden-2026` | https://bratislavaden.sk/slovenske-narodne-divadlo-v-bratislave-pozna-kazdy-no-tieto-zaujimavosti-ste-o-novej-budove-mozno-nevedeli/ | Bratislavaden: новое здание СНТ — конкурс, стройка, цифры и художественные элементы |
+| `roller-romanfecikgallery-2026` | https://romanfecikgallery.sk/kategoria-produktu/peter-roller/ | Galéria Romana Fecika: Петер Роллер — биография, образование, премии, выставки, работы |
+| `roller-petrogramy-webumenia-2026` | https://www.webumenia.sk/en/dielo/SVK:TMP.1133 | Web umenia: «Петрограммы» Роллера (2023) в собрании SNG — описание проекта |
+| `morovy-stlp-gib-2026` | https://www.gib-bratislava.eu/file/1682670 | GIB: чумной столб на Рыбной площади — история, описание, реставрация 2003–2007 |
+| `petofi-gib-2026` | https://www.gib-bratislava.eu/file/1682673 | GIB: памятник Шандору Петёфи — конкурс 1904, четыре адреса, реставрация 2002–2003 |
+| `hradby-staromestska-gib-2026` | https://www.gib-bratislava.eu/mestske-hradby-na-staromestskej-ulici | GIB: городские стены на Староместской — маршрут и режим доступа (2017) |
+| `hradby-baxova-veza-gib-2026` | https://www.gib-bratislava.eu/spristupnenie-mestskych-hradieb-pre-verejnost-a-oprava-schodiska-v-priestore-baxovej-veze | GIB: открытие стен (2016), ремонт лестницы у Баксовой башни, аварийный Эстергазиев дворец |
+| `kmet-pomnik-gib-2026` | https://www.gib-bratislava.eu/obnoveny-pomnik-andreja-kmeta-v-parciku-na-kmetovom-namesti | GIB: памятник Андрею Кметю — Фердинанди (1971), описание и обновление после вандализма |
+| `lamac-pomnik-padlych-gib-2026` | https://www.gib-bratislava.eu/pomnik-padlych-v-i-a-ii-sv-vojne-v-lamaci | GIB: памятник павшим в Ламаче — Ригеле (1928), иконография, реставрация 2008 |
+| `maly-slavin-gib-2026` | https://www.gib-bratislava.eu/pamatnik-maly-slavin | GIB: «Малый Славин» — Горюнов и Финюшкин, ареал 1984 года, реставрация 2003 |
+| `hummel-pomnik-gib-2026` | https://www.gib-bratislava.eu/pomnik-jana-nepomuka-hummela | GIB: памятник Гуммелю — Тильгнер (1887), пять переездов, реставрация 2002 |
+| `zahorska-bystrica-skwiki-2026` | https://sk.wikipedia.org/wiki/Záhorská_Bystrica | Словацкая Википедия: Загорска Быстрица — первое упоминание 1314, площадь, костёл, часовни |
+| `cumil-skwiki-2026` | https://sk.wikipedia.org/wiki/Čumil_(socha) | Словацкая Википедия: «Чумил» — Гулик, 1997, «Корзо парти», шапка вместо каски |
+| `cumil-umeniemesta-2026` | https://umeniemesta.sk/en/artworks/rec8TCFPvQIalx98Z | Umenie mesta: каталожная карточка «Чумила» — материалы, размеры, ремонты 1999–2018 |
+| `cumil-bratislavskenoviny-2026` | https://www.bratislavskenoviny.sk/kultura/8645-cumil-nie-je-nijaky-vojak-ale-zvedavec | Bratislavské noviny: объяснение автора и дорожный знак «MAN AT WORK» |
+| `primacialny-palac-skwiki-2026` | https://sk.wikipedia.org/wiki/Primaciálny_palác | Словацкая Википедия: Примациальный дворец — Хефеле, аттиковая скульптура, гобелены, Зеркальный зал |
+| `malokarpatska-oblast-skwiki-2026` | https://sk.wikipedia.org/wiki/Malokarpatská_vinohradnícka_oblasť | Словацкая Википедия: Малокарпатская винодельческая область — районы, сёла, сорта |
+| `incheba-skwiki-2026` | https://sk.wikipedia.org/wiki/Incheba | Словацкая Википедия: «Инхеба» — происхождение имени, несбывшийся замысел, состав ареала |
+| `matador-enwiki-2026` | https://en.wikipedia.org/wiki/Matador_(company) | Английская Википедия: Matador — основание 1905, шины с 1925, национализация и Пухов |
+| `matador-yimba-2026` | https://www.yimba.sk/smaltovna-matador/premena-arealu-matador-sa-posuva-v-povolovani | YIMBA: перестройка ареала «Матадор», эмальерный цех, проект «Новая Матадорка» |
+| `chorvatske-rameno-skwiki-2026` | https://sk.wikipedia.org/wiki/Chorvátske_rameno | Словацкая Википедия: Хорватское рамено — длина, отсечение от Дуная, гидрология и фауна |
+| `drazdiak-skwiki-2026` | https://sk.wikipedia.org/wiki/Veľký_Draždiak | Словацкая Википедия: Вельки-Драждяк — гравийный карьер, 13 га, ЛЭП над водой |
+| `lido-skwiki-2026` | https://sk.wikipedia.org/wiki/Lido_(Bratislava) | Словацкая Википедия: купальня «Лидо» — 1928–1980-е, пожар, бомбардировка, снос |
+| `lido-bratislavskenoviny-2026` | https://www.bratislavskenoviny.sk/nasa-tema/60892-historia-legendarne-petrzalske-kupalisko-lido-ktoru-jeho-podobu-si-este-pamatate-vy | Bratislavské noviny: история «Лидо» в фотографиях |
+| `petrzalka-skwiki-2026` | https://sk.wikipedia.org/wiki/Bratislava_–_mestská_časť_Petržalka | Словацкая Википедия: Петржалка — местные части и локалиты, культура, зоны |
+| `hlavne-namestie-skwiki-2026` | https://sk.wikipedia.org/wiki/Hlavné_námestie_(Bratislava) | Словацкая Википедия: Главная площадь — Forum 1373, смены имён, реконструкции |
+| `frantiskansky-kostol-skwiki-2026` | https://sk.wikipedia.org/wiki/Kostol_Zvestovania_Pána_(Bratislava) | Словацкая Википедия: Францисканский костёл — 1297, капелла Иоанна, башня в Саду Янко Краля |
+| `jezuitsky-kostol-skwiki-2026` | https://sk.wikipedia.org/wiki/Kostol_Najsvätejšieho_Spasiteľa_(Bratislava) | Словацкая Википедия: Иезуитский костёл — протестантская молельня без башни, передача 1672 |
+| `klarisky-skwiki-2026` | https://sk.wikipedia.org/wiki/Kostol_a_kláštor_klarisiek_(Bratislava) | Словацкая Википедия: Клариски — пятигранная башня, семь функций здания, София Баварская |
+| `kapucinsky-kostol-skwiki-2026` | https://sk.wikipedia.org/wiki/Kostol_svätého_Štefana_(Bratislava) | Словацкая Википедия: капуцинский костёл святого Стефана — 1708–1717, аскетичный интерьер |
+| `vajnory-skwiki-2026` | https://sk.wikipedia.org/wiki/Bratislava_–_mestská_časť_Vajnory | Словацкая Википедия: Вайноры — Прача 1237, Weinern с 1307, костёл, народный дом, озёра |
+| `vajnory-ludovy-dom-vajnory-2026` | https://www.vajnory.sk/vajnorsky-ludovy-dom | Сайт городской части: Вайнорский народный дом — экспозиция и интерьер |
+| `jarovce-skwiki-2026` | https://sk.wikipedia.org/wiki/Bratislava_–_mestská_časť_Jarovce | Словацкая Википедия: Яровце — грамота 1208/1359, присоединение 1947, костёл святого Микулаша |
+| `engerau-doew-2026` | https://www.doew.at/cms/download/alani/Zeitung_Engerau.pdf | DÖW / Центр исследований послевоенного правосудия: лагерь Энгерау, Юго-восточный вал, марш, процессы |
+| `engerau-petrzalka-2026` | https://www.petrzalka.sk/2025-05-07-zabudnuty-pribeh-lagra-engerau/ | Сайт городской части: шесть отделений лагеря с адресами, марш 29.3.1945, выставка 2015 |
+| `engerau-pomnik-pamepocha-2026` | https://pam.epocha.sk/pamatniky-bratislava/petrzalka-jarovce-rusovce-cunovo/obetiam-koncentracneho-tabora-v-petrzalke-cintorin-v-petrzalke | Pam.epocha: памятник на петржальском кладбище — 1958, числа опознанных, обновление 2021 |
+| `engerau-tabula-pamepocha-2026` | https://pam.epocha.sk/pamatniky-bratislava/petrzalka-jarovce-rusovce-cunovo/koncentracny-tabor-viedenska-cesta-c-257 | Pam.epocha: доска на Венской дороге, 257 — текст на четырёх языках, открытие 29.3.2017 |
+| `skoly-bratislavskenoviny-2026` | https://www.bratislavskenoviny.sk/aktuality/bratislava/89878-poznate-ich-tychto-6-bratislavskych-skol-je-ozdobou-mesta | Bratislavské noviny: шесть школьных зданий как украшение города |
+| `fajnorka-balove-2026` | https://balove.sk/fajnorka-oslavuje-120-rokov-spoznajte-pribeh-legendarnej-skoly/ | Bratislava, moja láska: 120 лет «Файнорке» — мастерские для инвалидов, визит Карла I, выпускники |
+| `fajnorka-skwiki-2026` | https://sk.wikipedia.org/wiki/Stredná_priemyselná_škola_strojnícka_Fajnorovo_nábrežie_5 | Словацкая Википедия: промышленная школа машиностроения — основание 1903, фундаменты 17.9.1903 |
+| `lechner-skwiki-2026` | https://sk.wikipedia.org/wiki/Ödön_Lechner | Словацкая Википедия: Эдён Лехнер (1845–1914) — сецессион, работы в Венгрии и Братиславе |
+| `skola-ceska-asb-2026` | https://www.asb.sk/architektura/obecna-amestianska-skola-vbratislave | ASB: школы на Ческой — конкурс 1926, Сметана и Сейферт, план в форме Т, надстройка после войны |
+| `skola-ceska-zsceska-2026` | https://www.zsceska.sk/Pages/history.htm | Сайт школы на Ческой: хронология 1924–1930, «Юбилейные школы Масарика», визит Масарика 12.10.1930 |
+| `tramin-archinfo-2026` | https://www.archinfo.sk/diela/obcianska-stavba/materska-skola-tramin.html | Archinfo: МШ «Трамин» — PANTOGRAPH, 2019–2024, 649 м², 88 мест, CLT и клеёная древесина |
+
 ## Городские части (mestské časti)
 
 | Страница | Описание |
@@ -297,11 +343,14 @@
 | [[2-vrakuna|Вракуня (Vrakuňa, Bratislava II)]] | Восточная часть на Малом Дунае: бывшее село и панельный массив |
 | [[3-nove-mesto|Нове-Место (Nové Mesto, Bratislava III)]] | Северо-восточный пояс: от доходных кварталов до Колибы и Камзика |
 | [[3-raca|Рача (Rača, Bratislava III)]] | Винодельческое село под Малыми Карпатами и колония Рендез |
+| [[3-vajnory|Вайноры (Vajnory, Bratislava III)]] | Weinern у подножия Малых Карпат: виноград, народный орнамент, памятниковая зона |
 | [[4-lamac|Ламач (Lamač, Bratislava IV)]] | Бывшее село в седловине Малых Карпат |
 | [[4-dubravka|Дубравка (Dúbravka, Bratislava IV)]] | Хорватское село под Девинской Кобылой, ныне панельный район |
 | [[4-devin|Девин (Devín, Bratislava IV)]] | Село под градом у слияния Моравы и Дуная |
 | [[4-devinska-nova-ves|Девинска-Нова-Вес (Bratislava IV)]] | Хорватское село на Мораве у австрийской границы |
 | [[4-karlova-ves|Карлова Вес (Bratislava IV)]] | Придунайская часть с островом Сихоть — источником воды города |
+| [[4-zahorska-bystrica|Загорска Быстрица (Záhorská Bystrica, Bratislava IV)]] | Самая северная часть за гребнем Малых Карпат: 32,3 км² преимущественно леса |
+| [[5-jarovce|Яровце (Jarovce, Bratislava V)]] | Хорватское село у австрийской границы, присоединённое к Словакии в 1947 году |
 | [[5-petrzalka|Петржалка (Petržalka, Bratislava V)]] | Крупнейшая часть города на правом берегу, панельный район |
 | [[5-rusovce|Русовце (Rusovce, Bratislava V)]] | Село с римской Герулатой и неоготическим каштелем |
 | [[5-cunovo|Чуново (Čunovo, Bratislava V)]] | Самое южное село города: каштель Сапари, плотина и Данубиана |
@@ -427,6 +476,12 @@
 | [[Dvetisicrocna-Bratislava|«Двухтысячелетняя Братислава»]] | 1-stare-mesto | Пять бетонных рельефов Мелиша у вокзала (1979–1980): от кельтов до имён сёл |
 | [[Prva-postova-schranka|«Первый почтовый ящик»]] | 1-stare-mesto | Бронза Сабо (2001) с действующим ящиком; дизайн-улица BKU со Старком и Вильмоттом |
 | [[Leberfinger|Ресторан «Леберфингер»]] | 5-petrzalka | Старейший трактир правого берега; Наполеон, пожар 1992, возрождение 1998 |
+| [[Fajnorka|«Файнорка» (Fajnorka)]] | 1-stare-mesto | Кирпичная промышленная школа Кольбенхайера (1904); Ян Голиан, визит Карла I |
+| [[Gymnazium-Grosslingova|Гимназия на Грёсслинговой («Гамча»)]] | 1-stare-mesto | Сецессион Лехнера (1908); ансамбль с Голубым костёлом, наследница коллегиума 1626 |
+| [[Fakulta-architektury-STU|Факультет архитектуры и дизайна СТУ]] | 1-stare-mesto | Павильон теоретических институтов Беллуша (1950–1952), двадцать соцреалистических рельефов |
+| [[Zakladna-skola-Ceska|Школы на Ческой и Будышинской]] | 3-nove-mesto | Первый функционалистский школьный комплекс Словакии (1928–1929); Масарик, 12.10.1930 |
+| [[Hotelova-akademia-Mikoviniho|Гостиничная академия на Миковиниго]] | 3-nove-mesto | Павильонная школа Дедечека (конец 1950-х), зачаток «братиславского типа» |
+| [[Materska-skola-Tramin|Детский сад «Трамин» на Каднаровой]] | 3-raca | Деревянный круг Ø 32 м с зелёной кровлей (PANTOGRAPH, 2024) |
 | [[Strkovecke-jazero|Штрковецкое озеро]] | 2-ruzinov | Озеро-«штерковиско» (56 000 м²): купальня до 1989-го, верблюдица Микланека |
 | [[Historicka-budova-SND|Историческое здание СНТ]] | 1-stare-mesto | Неоренессанс Фелльнера и Хельмера (1886); Талия Фридля, драма бюстов |
 | [[Hotel-Carlton|Отель «Карлтон»]] | 1-stare-mesto | От трактира «У лебедя» (XIII в.) до Savoy-Carlton; первое кино Словакии (1905) |
@@ -464,11 +519,37 @@
 | [[Internat-Mlada-Garda|Интернат «Млада гарда»]] | 3-nove-mesto | Соцреализм Беллуша (1953–1955): башня со сграффито, 2400 мест, 400-метровая дорожка |
 | [[Cvernovka|Цверновка (Cvernovka)]] | 2-ruzinov | Ниточная фабрика с 1902 года, культурный квартал 2000-х, снос под Zwirn; Pradiareň 1900 |
 | [[Nova-Cvernovka|Новая Цверновка (Nová Cvernovka)]] | 3-nove-mesto | 132 ателье, парк и сцена в бывшей химической школе на Рачианской |
+| [[Veza-pre-dazdovniky|Башня для стрижей]] | 3-nove-mesto | Первая в Словакии гнездовая башня для стрижей (2015–2016): 120 будок на кольце, краудфандинг |
 | [[Metropol|Дом и кинотеатр «Метрополь»]] | 1-stare-mesto | «Метрополка» Тварожека (1927–1928): кино в подвале, кафе, квартиры; НКП с 1985, co-living с 2024 |
 | [[Kamenne-namestie|Каменная площадь]] | 1-stare-mesto | Рынок каменщиков → Stein Platz → Киевская → «чёрная дыра»; проект «Живая площадь» с 2016 |
 | [[Pamatna-tabula-Paracelsa|Памятная доска Парацельса]] | 1-stare-mesto | Бронза Людовита Мака (1937) на Примациальном дворце: визит 1537 года |
 | [[Karacsonyiho-palac|Дворец Карачони]] | 1-stare-mesto | Историзм 1883–1884 на Штефаниковой; НКП 101-596/0, реконструкция 2025–2026 за 8,6 млн € |
 | [[Pistoriho-palac|Дворец Пистори]] | 1-stare-mesto | Эклектика аптекаря Пистори (1890-е); музей Ленина → центр культуры и кино Film Europe |
+| [[Nova-budova-SND|Новое здание СНТ]] | 1-stare-mesto | Постмодерн Кусого, Паняка и Бауэра (1986–2007): три зала, ~1700 мест, спишский травертин |
+| [[Morovy-stlp-Rybne-namestie|Чумной столб на Рыбной площади]] | 1-stare-mesto | Колонна Троицы 1713 года: 3860 умерших, рельефы Сартория, кости в шурфе |
+| [[Pomnik-Sandora-Petofiho|Памятник Шандору Петёфи]] | 1-stare-mesto | Раднаи, 1911: площадь Кошута → ящики → Петржалка → Медицка заграда (2003) |
+| [[Mestske-hradby-Staromestska|Городские стены на Староместской]] | 1-stare-mesto | Птичья и Баксова башни, Малая башта; смотровая и библиотека, тупик у аварийного дворца |
+| [[Pomnik-Hummela|Памятник Яну Непомуку Гуммелю]] | 1-stare-mesto | Тильгнер, 1887, каррарский мрамор; пять переездов и возвращение к посольству (2002) |
+| [[Pomnik-Andreja-Kmeta|Памятник Андрею Кметю]] | 1-stare-mesto | Белая призма Фердинанди (1971): основатель словацкого музейного дела |
+| [[Pomnik-padlych-Lamac|Памятник павшим в Ламаче]] | 4-lamac | Ригеле, 2.9.1928: Христос с умирающим солдатом, срезанная липа, НКП 675/0 |
+| [[Maly-Slavin|Малый Славин]] | 4-zahorska-bystrica | Могила Горюнова и Финюшкина (†4.4.1945) в лесу; ареал 1984, родничок 1981 |
+| [[Cumil|«Чумил»]] | 1-stare-mesto | Бронзовый зевака из люка (Гулик, 1997); знак «MAN AT WORK» после наезда |
+| [[Primacialny-palac|Примациальный дворец]] | 1-stare-mesto | Классицизм Хефеле (1778–1781): Зеркальный зал, Прессбургский мир, шесть гобеленов |
+| [[Incheba|«Инхеба»]] | 5-petrzalka | Выставочный комплекс Дедечека (1989–1990): несбывшийся новый центр города |
+| [[Matadorka|«Матадорка» — завод Matador]] | 5-petrzalka | Резина с 1905-го, первые шины ЧСР (1925), 2000 рабочих; ныне перестройка ареала |
+| [[Chorvatske-rameno|Хорватское рамено]] | 5-petrzalka | 5138 м канала по руслу дунайского рукава; вода появилась только в 1993-м |
+| [[Velky-Drazdiak|Вельки-Драждяк]] | 5-petrzalka | 13 га воды после гравийного карьера; купание на свой страх под ЛЭП 110 кВ |
+| [[Kupalisko-Lido|Купальня «Лидо»]] | 5-petrzalka | Главный пляж города 1928–1980-х; замена ему — купальня на Тегельном поле (1943) |
+| [[Hlavne-namestie|Главная площадь]] | 1-stare-mesto | Торг с 1373 года; шесть имён за век — от Франца Иосифа до 4 апреля и обратно |
+| [[Frantiskansky-kostol|Францисканский костёл]] | 1-stare-mesto | Старейший храм города (1297); верх башни с 1897 года стоит беседкой в Петржалке |
+| [[Kostol-klarisiek|Костёл клариссок]] | 1-stare-mesto | Пятигранная башня на пилонах нефа; больница, богадельня, гимназия, концертный зал |
+| [[Jezuitsky-kostol|Иезуитский костёл]] | 1-stare-mesto | Молельня без башни по протестантским предписаниям (1636–1638); отобрана в 1672-м |
+| [[Kapucinsky-kostol|Капуцинский костёл святого Стефана]] | 1-stare-mesto | Белые стены и ореховые алтари как программа ордена; единственный такой в Венгрии |
+| [[Vajnorsky-ludovy-dom|Вайнорский народный дом]] | 3-vajnory | НКП начала XIX века: сырцовый кирпич, открытый очаг, прешовня, роспись с птичками |
+| [[Kostol-Sedembolestnej-Vajnory|Костёл Семиболезненной Девы Марии]] | 3-vajnory | Готическое святилище 1270-х под росписью вайнорских женщин; бойницы в башне |
+| [[Vajnorske-jazero|Вайнорское озеро]] | 3-vajnory | «Багер» на выезде на Сенец; региональный биоцентр на высокой грунтовой воде |
+| [[Kostol-svateho-Mikulasa-Jarovce|Костёл святого Микулаша в Яровцах]] | 5-jarovce | Старейший храм петржальской округи (1765); башня 1884 года взорвана 3.4.1945 |
+| [[Pomnik-obetiam-Engerau|Памятник жертвам лагеря Энгерау]] | 5-petrzalka | Каменный курган 1958 года на общей могиле; из 497 опознан 51 человек |
 
 ## Кварталы
 
@@ -479,6 +560,11 @@
 | [[Zuckermandel|Цукермандель (Zuckermandel)]] | 1-stare-mesto | «Хватай пальто и беги»: снесён в 1949–70-е, три башни, новый квартал 2017 |
 | [[Elyzium|Элизиум (Elýzium)]] | 5-petrzalka | Исчезнувший квартал бедноты у Старого моста (1918–1980-е); французское кладбище 1809 года |
 | [[Koliba|Колиба (Koliba)]] | 3-nove-mesto | Зелёный квартал над городом: киноателье, первая бобслейная трасса Словакии (1996) |
+| [[Dvory|Дворы (Dvory)]] | 5-petrzalka | Северная очередь сидлиска; уцелевшие улицы старой Петржалки и ареал «Матадорки» |
+| [[Haje|Гае (Háje)]] | 5-petrzalka | Очередь, с которой начали строить: Экономический университет, «Зеркальный гай», Овсиште |
+| [[Luky|Луки (Lúky)]] | 5-petrzalka | Южная и самая протяжённая часть: девять очередей, Драждяк, выход на дамбу |
+| [[Ovsiste|Овсиште (Ovsište)]] | 5-petrzalka | Старое имя у берега: выселок, трущобы (250 хижин из 340 домов), панели |
+| [[Psia-kolonia|Собачья колония (Psia kolónia)]] | 5-petrzalka | Колония 1923 года на кромке Старого гая: «лабиринты в миниатюре» из свалочного материала |
 
 ## Персоналии
 
@@ -501,6 +587,7 @@
 | [[Koch-Karel|Карел Кох]] | Хирург и филантроп (1890–1981): санаторий и сад, сопротивление, тюрьма, эмиграция |
 | [[Miklanek-Rastislav|Растислав Микланек]] | Скульптор парков (р. 1942): зодиак Сада Янко Краля, верблюдица Штрковца, «Лира» |
 | [[Hviezdoslav-Pavol-Orszagh|Павол Орсаг Гвездослав]] | Бард словацкой литературы (1849–1921): «Кровавые сонеты», депутат, Матица |
+| [[Lechner-Odon|Эдён Лехнер]] | Мастер венгерского сецессиона (1845–1914): Голубой костёл и гимназия на Грёсслинговой |
 | [[Osusky-Stefan|Штефан Осуский]] | Дипломат (1889–1973), подписант Трианона; сохранил Петржалку для Словакии |
 | [[Matej-Korvin|Матяш Корвин]] | Король (1443–1490): Золотая булла Братиславе и Academia Istropolitana |
 | [[Bianchi-Vinzenz|Винценц Бьянки]] | Генерал (1768–1855), защитник предмостья от Наполеона (1809) |
@@ -511,6 +598,7 @@
 | [[Messerschmidt-Franz-Xaver|Франц Ксавер Мессершмидт]] | Скульптор «характерных голов» (1736–1783): Цукермандель, «дух пропорций» |
 | [[Tesar-Arpad|Арпад Тесар]] | Инженер обоих великих мостов (1919–1989): мост СНП, Красный мост, сварка |
 | [[Lamar-Ignac|Игнац Ламар — Шёне Наци]] | Легенда улицы (1897–1967): фрак, цилиндр и приветствия на трёх языках |
+| [[Roller-Peter|Петер Роллер]] | Скульптор камня (р. 1948): каскад у нового СНТ, «Петрограммы» из дунайских камней |
 
 ## Концепции
 
@@ -523,3 +611,5 @@
 | [[iron-curtain|Железный занавес]] | Граница у порога города: жертвы, побеги, память |
 | [[solar-system-model|Модель Солнечной системы]] | «Прогулки по Солнечной системе» 1:464 млн: от фонтана-«Солнца» до Юпитера |
 | [[justice-in-presporok|Правосудие старого Прессбурга]] | Лобные места на людных перекрёстках, городской палач, процессы над ведьмами |
+| [[engerau-camp|Лагерь Энгерау]] | Шесть отделений по Петржалке зимой 1944/45; марш 29.3.1945 и шесть венских процессов |
+| [[little-carpathian-wine|Малокарпатское вино]] | Восемь городских частей в винодельческом регистре; франковка Рачи, вельтлины склонов |

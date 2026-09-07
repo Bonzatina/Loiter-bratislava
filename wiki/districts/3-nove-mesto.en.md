@@ -32,6 +32,9 @@ In a red field, a silver building with a central turret — the [[Stanica-konske
 - [[Cerveny-most|Red Bridge (Červený most)]] — the viaduct of the first train from Vienna (1848); blown up in 1945, revived by Tesár
 - [[Internat-Mlada-Garda|Mladá Garda Dormitory]] — Belluš's socialist realism (1953–1955) on Račianska
 - [[Nova-Cvernovka|Nová Cvernovka]] — Slovakia's largest creative centre in a former chemistry school
+- [[Zakladna-skola-Ceska|The schools on Česká and Budyšínska]] — Slovakia's first functionalist school complex (1928–1929)
+- [[Hotelova-akademia-Mikoviniho|Hotel Academy on Mikovíniho]] — Dedeček's pavilion school, the "Bratislava type" in embryo
+- [[Veza-pre-dazdovniky|The Swift Tower (Veža pre dážďovníky)]] — Slovakia's first nesting tower for swifts, on Limbová street (2015–2016)
 
 ## Quarters
 

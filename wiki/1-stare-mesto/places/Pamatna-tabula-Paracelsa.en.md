@@ -27,6 +27,7 @@ The plaque was commissioned by the city archivist Ovídius Faust and put up in 1
 
 ## See Also
 
+- [[Primacialny-palac|Primatial Palace]] — the building the plaque hangs on
 - [[Pamatna-tabula-Agaty|Agáta Memorial Plaque]] — another memorial slab of the old town
 - [[Lekaren-u-Salvatora|U Salvátora Pharmacy]] — Bratislava's history of pharmacy
 - [[1-stare-mesto|Staré Mesto]]

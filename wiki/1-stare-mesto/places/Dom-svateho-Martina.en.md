@@ -2,7 +2,7 @@
 title: St Martin's Cathedral (Dóm sv. Martina)
 type: place
 domain: religion
-fame: 1
+fame: 5
 district: 1-stare-mesto
 coords: [48.14198, 17.10488]
 tags: [cathedral, gothic, coronation, crypts, donner, bells]
@@ -51,4 +51,6 @@ Six metres beneath the church lie the crypts — burials here were restricted as
 - [[Rigele-Alojz|Alojz Rigele]] — author of the Pázmány epitaph
 - [[Lanfranconi-Enea|Enea Lanfranconi]] — rescuer of the Donner busts
 - [[Michalska-veza|Michael's Tower]] and the [[Stara-radnica|Old Town Hall]] — the old town's Gothic
+- [[Frantiskansky-kostol|Franciscan Church]] — where the crowned king went to dub Knights of the Golden Spur
+- [[Mestske-hradby-Staromestska|City Walls on Staromestská]] — the wall route starts at the cathedral
 - [[1-stare-mesto|Staré Mesto]]

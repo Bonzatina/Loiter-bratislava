@@ -30,6 +30,7 @@ The statue belongs to the city heritage reserve and is owned by the Staré Mesto
 
 - [[Lamar-Ignac|Ignác Lamár — Schöne Náci]] — the man the monument commemorates
 - [[Dvetisicrocna-Bratislava|"Two-Thousand-Year-Old Bratislava"]] — another work by Juraj Meliš in the city
+- [[Hlavne-namestie|Main Square]] — the statue stands at its corner
 - [[Stara-radnica|Old Town Hall]] — the Main Square a few steps away
 - [[Hviezdoslavovo-namestie|Hviezdoslav Square]] — the continuation of the corso route
 - [[1-stare-mesto|Staré Mesto]]

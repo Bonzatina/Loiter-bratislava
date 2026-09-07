@@ -4,7 +4,7 @@ type: place
 domain: sights
 fame: 3
 district: 1-stare-mesto
-coords: [48.14520, 17.11150]
+coords: [48.14458, 17.11125]
 tags: [market, trade, medieval-walls, snp-square]
 sources: [chlebovy-trh-bratislavskenoviny-2023, zelovoc-bratislavskenoviny-2024]
 updated: 2026-07-07

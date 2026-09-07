@@ -18,12 +18,13 @@ The Medical Garden (Medická záhrada) is one of the best-loved and most visited
 
 In 1781 the palace and garden passed to the Esterházys: the count added chestnut avenues and fruit trees, later replacing the chestnuts with limes that still grow here; concerts and festivities were held in the garden regularly. The estate later belonged to the Jankovits family and to the patron Karol Schiffbeck, under whom the garden fell into neglect — so he donated it to the university. The Faculty of Medicine used the garden for its own purposes (hence the name "Medical" that stuck), while opening it to the townsfolk; next door on Sasinkova the faculty built the [[Anatomicky-ustav|Institute of Anatomy]] around the same time. Popularity took its toll: the worn-out garden had to be comprehensively reconstructed in 1985–1988, in the course of which much of the French baroque and English landscape layers faded away.
 
-In return, the reconstruction gave the garden its present sculptural ensemble by [[Miklanek-Rastislav|Rastislav Miklánek]] and Pavel Mikšík: the entrance sculpture shaped like a lime leaf, flower vases, drinking fountains and the [[Labutia-fontana|Swan Fountain]] at the garden's geometric centre, renewed in 2026 as part of the park's "green-blue renewal". The avenues hold bronze monuments to the Slovak writer Martin Kukučín and the Hungarian poet Sándor Petőfi.
+In return, the reconstruction gave the garden its present sculptural ensemble by [[Miklanek-Rastislav|Rastislav Miklánek]] and Pavel Mikšík: the entrance sculpture shaped like a lime leaf, flower vases, drinking fountains and the [[Labutia-fontana|Swan Fountain]] at the garden's geometric centre, renewed in 2026 as part of the park's "green-blue renewal". The avenues hold monuments to the Slovak writer Martin Kukučín and the Hungarian poet [[Pomnik-Sandora-Petofiho|Sándor Petőfi]] — the latter moved here in 2003, after restoration and three earlier addresses.
 
 Today the garden is a small oasis two steps from the bus station and Eurovea: the Domček café under the trees, a playground, a summer reading room, food festivals, "period picnics", puppet shows and yoga on the grass. Open daily from 7:00 to 21:00.
 
 ## See Also
 
+- [[Pomnik-Sandora-Petofiho|Sándor Petőfi Monument]] — the wandering 1911 sculpture that settled here
 - [[Labutia-fontana|Swan Fountain]] — the garden's centrepiece (1986, Mikšík)
 - [[Miklanek-Rastislav|Rastislav Miklánek]] — sculptor of the garden's ensemble
 - [[Anatomicky-ustav|Institute of Anatomy]] — the medical faculty's rondocubism at the garden's northern edge

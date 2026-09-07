@@ -4,7 +4,7 @@ type: place
 domain: religion
 fame: 2
 district: 4-lamac
-coords: [48.19413, 17.04778]
+coords: [48.19234, 17.05069]
 tags: [church, catholic, harminc, lamac]
 sources: [kostol-margity-register-architektury-2026, kostol-margity-skwiki-2026]
 updated: 2026-07-07
@@ -21,5 +21,6 @@ updated: 2026-07-07
 ## См. также
 
 - [[Harminc-Milan-Michal|Милан Михал Гарминц]] — автор проекта
+- [[Pomnik-padlych-Lamac|Памятник павшим в Ламаче]] — Ригеле (1928) в ограде костёла
 - [[Evanjelicky-kostol-Legionarska|Евангелическая церковь на Легионерской]] — его же межвоенный храм
 - [[4-lamac|Ламач]]

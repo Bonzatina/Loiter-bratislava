@@ -4,7 +4,7 @@ type: place
 domain: architecture
 fame: 2
 district: 1-stare-mesto
-coords: [48.14459, 17.11275]
+coords: [48.14453, 17.11239]
 tags: [high-rise, functionalism, interwar, namestie-snp]
 sources: [manderlak-register-architektury-2026, christian-ludwig-skwiki-2026, attersee-bratislavskenoviny-2020, manderlak-opacha-bratislavskenoviny-2023, pittel-brausewetter-bratislavskenoviny-2023]
 updated: 2026-07-07

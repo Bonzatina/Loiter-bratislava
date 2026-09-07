@@ -4,7 +4,7 @@ type: place
 domain: religion
 fame: 2
 district: 4-lamac
-coords: [48.19413, 17.04778]
+coords: [48.19234, 17.05069]
 tags: [church, catholic, harminc, lamac]
 sources: [kostol-margity-register-architektury-2026, kostol-margity-skwiki-2026]
 updated: 2026-07-07
@@ -21,5 +21,6 @@ The three-nave volume reads on the outside through the stepped difference in hei
 ## See Also
 
 - [[Harminc-Milan-Michal|Milan Michal Harminc]] — author of the design
+- [[Pomnik-padlych-Lamac|Monument to the Fallen in Lamač]] — Rigele (1928) in the church grounds
 - [[Evanjelicky-kostol-Legionarska|Protestant church on Legionárska]] — his interwar church
 - [[4-lamac|Lamač]]

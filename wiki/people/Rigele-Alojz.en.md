@@ -20,4 +20,6 @@ The city is still strewn with his works. The best known: Christ the Saviour on t
 
 - [[Lutherov-dom|Luther House]] — his reliefs on the facade
 - [[Ludwig-Christian|Christian Ludwig]] — the architect he worked with
+- [[Pomnik-padlych-Lamac|Monument to the Fallen in Lamač]] (1928) — Christ with a dying soldier, and Štefánik
+- [[Primacialny-palac|Primatial Palace]] — restoration of St George (1929) and of the attic sculpture (1937)
 - [[1-stare-mesto|Staré Mesto]] — the city of his life and works

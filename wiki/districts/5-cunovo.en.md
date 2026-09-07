@@ -28,4 +28,5 @@ In a blue field, a silver leafy tree with bared roots, flanked by two golden she
 
 - [[5-rusovce|Rusovce]] — the neighbour up the Danube, sharing the "bridgehead" history
 - [[5-petrzalka|Petržalka]] — where right-bank Bratislava begins
+- [[5-jarovce|Jarovce]] — the third village of the same 1947 trio
 - [[Syslovske-polia|Sysľovské Fields]] — the protected bird area at the junction of the three southern boroughs

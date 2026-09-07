@@ -2,7 +2,7 @@
 title: Собор святого Мартина (Dóm sv. Martina)
 type: place
 domain: religion
-fame: 1
+fame: 5
 district: 1-stare-mesto
 coords: [48.14198, 17.10488]
 tags: [cathedral, gothic, coronation, crypts, donner, bells]
@@ -51,4 +51,6 @@ XVIII век подарил собору его самое ценное иску
 - [[Rigele-Alojz|Алойз Ригеле]] — автор эпитафа Пазманя
 - [[Lanfranconi-Enea|Энеа Ланфранкони]] — спаситель доннеровских бюстов
 - [[Michalska-veza|Михальская башня]] и [[Stara-radnica|Старая ратуша]] — готика старого города
+- [[Frantiskansky-kostol|Францисканский костёл]] — туда шёл коронованный король посвящать рыцарей Золотой шпоры
+- [[Mestske-hradby-Staromestska|Городские стены на Староместской]] — маршрут по стенам начинается от собора
 - [[1-stare-mesto|Старе-Место]]

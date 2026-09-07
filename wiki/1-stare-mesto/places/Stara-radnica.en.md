@@ -4,7 +4,7 @@ type: place
 domain: history
 fame: 4
 district: 1-stare-mesto
-coords: [48.14285, 17.10940]
+coords: [48.14376, 17.10879]
 tags: [town-hall, medieval, main-square, justice, turmmusik]
 sources: [radnica-zabavy-bratislavskenoviny-2024, tresty-bratislavskenoviny-2024]
 updated: 2026-07-07
@@ -22,7 +22,9 @@ The town hall had its dark side too: its cellars held debtors, suspects under in
 
 ## See Also
 
+- [[Hlavne-namestie|Main Square]] — the square the town hall closes to the north-east
 - [[Muzeum-mesta-Bratislavy|Bratislava City Museum]] — the town hall's present occupant
+- [[Primacialny-palac|Primatial Palace]] — neighbour on the block and the other half of the city administration
 - [[justice-in-presporok|Justice in Old Prešporok]] — the court, the executioner and the city's places of execution
 - [[pressburg-families|Pressburg Families]] — the burgher world around the town hall
 - [[1-stare-mesto|Staré Mesto]]

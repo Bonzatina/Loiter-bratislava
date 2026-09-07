@@ -22,4 +22,5 @@ The surviving core — the foundations of a late-Roman 4th-century fort built in
 
 - [[Muzeum-mesta-Bratislavy|Bratislava City Museum]] — runs the exhibition
 - [[Rusovsky-kastiel|Rusovce Mansion]] — neighbour across the park
+- [[Roller-Peter|Peter Roller]] — sculptor of the artists' association that bears this name
 - [[5-rusovce|Rusovce]]

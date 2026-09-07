@@ -61,12 +61,25 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Budova-YMCA|YMCA Building (Budova YMCA)]] — continental Europe's first YMCA house, cradle of Slovak basketball
 - [[Obchodny-dom-Teta|TETA Department Store]] — the city's first department store (1929) and the legendary Teta grocery
 - [[Hviezdoslavovo-namestie|Hviezdoslav Square]] — the city's main promenade: from Promenadeplatz to today's corso
+- [[Morovy-stlp-Rybne-namestie|Plague Column on Rybné námestie]] — the 1713 Trinity column, freely reworked by Sartory around 1760
+- [[Mestske-hradby-Staromestska|City Walls on Staromestská]] — the longest surviving stretch of the fortifications: the Bird and Bax towers, the Little Bastion
+- [[Pomnik-Hummela|Johann Nepomuk Hummel Monument]] — Tilgner, 1887: Carrara marble and five moves in a century
+- [[Pomnik-Andreja-Kmeta|Andrej Kmeť Monument]] — Alina Ferdinandy's white prism (1971) on Kmeťovo námestie
+- [[Primacialny-palac|Primatial Palace (Primaciálny palác)]] — Hefele's classicism (1778–1781): the Hall of Mirrors, the Peace of Pressburg, the English tapestries
+- [[Cumil|Čumil]] — the bronze rubbernecker in a manhole (Hulík, 1997) and his traffic sign
+- [[Hlavne-namestie|Main Square (Hlavné námestie)]] — the centre of the centre: a market since 1373, six names in a century, the Maximilian Fountain
+- [[Frantiskansky-kostol|Franciscan Church (Františkánsky kostol)]] — the city's oldest church (consecrated 1297); Knights of the Golden Spur
+- [[Kostol-klarisiek|Clarissine Church (Kostol klarisiek)]] — a five-sided Gothic tower without foundations; now a concert hall and library
+- [[Jezuitsky-kostol|Jesuit Church (Jezuitský kostol)]] — a Protestant house of prayer without a tower (1636–1638), taken away in 1672
+- [[Kapucinsky-kostol|Capuchin Church of St Stephen]] — austerity as programme; the only one of its kind in former Hungary
+- [[Pomnik-Sandora-Petofiho|Sándor Petőfi Monument]] — Radnai, 1911: four addresses, crates in a garage and a return in 2003
 - [[Hodzovo-namestie|Hodža Square (Hodžovo námestie)]] — the presidential palace, "Mierko" and a stone museum in the underpass
 - [[Grasalkovicov-palac|Grassalkovich Palace (Grasalkovičov palác)]] — rococo of 1760: Haydn, pioneers and presidents
 - [[Fontana-Planeta-mieru|Planet of Peace Fountain (Fontána Planéta mieru)]] — Bártfay's sphere by the presidential palace, the "Sun" of the 1:464 million model
 - [[Model-Venuse|Venus of the Solar System Model]] — a 26 mm ball on May 1st Square, 233 m from the "Sun"
 - [[Model-Marsu|Mars of the Solar System Model]] — a 14.6 mm ball on Freedom Square, 491 m from the "Sun"
 - [[Historicka-budova-SND|Historic SND Building]] — Fellner & Helmer's neo-renaissance (1886), home of the opera
+- [[Nova-budova-SND|New SND Building]] — the postmodern complex on Pribinova (1986–2007): three stages, ~1,700 seats
 - [[Hotel-Carlton|Carlton Hotel]] — eight centuries of innkeeping: from At the Swan to the Savoy-Carlton
 - [[Pomnik-Hviezdoslava|The Hviezdoslav Monument]] — the bronze poet on the square that bears his name (1937)
 - [[Palugyayov-palac|Palugyay Palace]] — the neo-renaissance headquarters of a wine empire (1873–1879), now the Foreign Ministry
@@ -74,6 +87,9 @@ In a red field, a silver fortress: a crenellated wall with a gate and three emba
 - [[Pistoriho-palac|Pisztory Palace (Pisztoryho palác)]] — a pharmacist's house of the 1890s: Lenin museum, now a cultural centre and art cinema
 - [[Lekaren-u-Salvatora|The Salvator Pharmacy]] — Rigele's Saviour and the returned Jesuit furnishings of 1727
 - [[Kupele-Grossling|The Grössling Baths]] — the 1895 baths awaiting their second life (~2027)
+- [[Fajnorka|Fajnorka]] — the 1904 brick engineering school on the embankment, the city's oldest technical school
+- [[Gymnazium-Grosslingova|Grösslingová Gymnasium ("Gamča")]] — Lechner's Art Nouveau (1908), the Blue Church's pair
+- [[Fakulta-architektury-STU|Faculty of Architecture and Design STU]] — Belluš's pavilion (1950–1952) with twenty socialist realist reliefs
 - [[Namestie-slobody|Freedom Square]] — the concrete "Firšnál" with the city's largest fountain, Družba
 - [[Slovensky-rozhlas|Slovak Radio Building]] — the upside-down steel pyramid (1967–1983)
 - [[Cintorin-Slavicie-udolie|Slávičie údolie Cemetery]] — the city's largest: Dubček, Lasica, the Slovak pantheon

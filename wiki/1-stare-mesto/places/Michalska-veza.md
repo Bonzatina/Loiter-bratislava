@@ -2,7 +2,7 @@
 title: Михальская башня (Michalská veža)
 type: place
 domain: history
-fame: 2
+fame: 4
 district: 1-stare-mesto
 coords: [48.14517, 17.10674]
 tags: [city-gate, medieval, tower, landmark, museum]
@@ -26,4 +26,5 @@ updated: 2026-07-15
 - [[Stara-radnica|Старая ратуша]] — вторая башня старого города
 - [[Pamatna-tabula-Agaty|Памятная доска Агаты]] — казнь 1602 года у рва перед этими воротами
 - [[justice-in-presporok|Правосудие старого Прессбурга]] — виселица перед воротами как «предупреждение» входящим
+- [[Mestske-hradby-Staromestska|Городские стены на Староместской]] — самый длинный уцелевший участок тех же укреплений
 - [[1-stare-mesto|Старе-Место]]

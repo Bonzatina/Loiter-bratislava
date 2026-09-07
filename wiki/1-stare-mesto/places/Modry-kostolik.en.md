@@ -12,7 +12,7 @@ updated: 2026-07-07
 
 # The Blue Church (Modrý kostolík)
 
-The Church of St Elizabeth of Hungary (Kostol svätej Alžbety), known to the whole world simply as the Blue Church (Modrý kostolík), is Bratislava's most photographed church and the summit of Hungarian Secession in the city. It was designed by Budapest architect Ödön Lechner, who also built the neighbouring Catholic Royal Gymnasium on Grösslingová; the commission was financed by Countess Gabriela Szapáry, a patroness of sacral construction whose money also built the Church of the Assumption in Blumentál. The cornerstone was laid on 23 August 1909, and the consecration took place on 11 October 1913.
+The Church of St Elizabeth of Hungary (Kostol svätej Alžbety), known to the whole world simply as the Blue Church (Modrý kostolík), is Bratislava's most photographed church and the summit of Hungarian Secession in the city. It was designed by Budapest architect [[Lechner-Odon|Ödön Lechner]], who also built the neighbouring Catholic Royal Gymnasium on Grösslingová — today’s [[Gymnazium-Grosslingova|Gamča]]; the commission was financed by Countess Gabriela Szapáry, a patroness of sacral construction whose money also built the Church of the Assumption in Blumentál. The cornerstone was laid on 23 August 1909, and the consecration took place on 11 October 1913.
 
 ![The Blue Church (Modrý kostolík)](/assets/modry-kostolik.jpg)
 
@@ -20,4 +20,6 @@ The single-nave church with its attached cylindrical tower is one continuous sof
 
 ## See Also
 
+- [[Lechner-Odon|Ödön Lechner]] — architect of the church and the gymnasium next door
+- [[Gymnazium-Grosslingova|Grösslingová Gymnasium]] — the other half of the ensemble
 - [[1-stare-mesto|Staré Mesto]]

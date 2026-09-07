@@ -4,7 +4,7 @@ type: place
 domain: history
 fame: 4
 district: 1-stare-mesto
-coords: [48.14285, 17.10940]
+coords: [48.14376, 17.10879]
 tags: [town-hall, medieval, main-square, justice, turmmusik]
 sources: [radnica-zabavy-bratislavskenoviny-2024, tresty-bratislavskenoviny-2024]
 updated: 2026-07-07
@@ -22,7 +22,9 @@ updated: 2026-07-07
 
 ## См. также
 
+- [[Hlavne-namestie|Главная площадь]] — площадь, которую ратуша замыкает с северо-востока
 - [[Muzeum-mesta-Bratislavy|Музей города Братиславы]] — нынешний хозяин ратуши
+- [[Primacialny-palac|Примациальный дворец]] — сосед по кварталу и вторая половина магистрата
 - [[pressburg-families|Прессбургские семьи]] — мещанский мир вокруг ратуши
 - [[justice-in-presporok|Правосудие старого Прессбурга]] — суд, палач и лобные места города
 - [[1-stare-mesto|Старе-Место]]

@@ -15,6 +15,8 @@ The most striking cluster of functionalism is SNP Square (Námestie SNP) and its
 
 These buildings are linked to [[Ludwig-Christian|Christian Ludwig]] — a characteristic representative of the Bratislava version of the style: local architects were rarely dogmatists and readily mixed functionalist technique with context and the conservative tastes of their clients. It was precisely this "impurity" that long kept them in the shadow of their Prague and Brno colleagues. The second great name is [[Bellus-Emil|Emil Belluš]]: from the almost weightless [[Propeler|ferry wharfs of the Propeler]] (1930) through the red-ceramic [[Druzstevne-domy|Coop Houses]] to the travertine [[Narodna-banka-ceskoslovenska|National Bank]] (1938), where functionalism already turns towards Novecento monumentality. Both were preceded by [[Tvarozek-Juraj|Juraj Tvarožek]], whose [[Metropol|Metropol]] (1927–1928) counts among the first important works of Slovak functionalism — conservatively minded ones, with a regular grid of stone-framed windows and Art Deco in the cinema interior.
 
+A separate line is school architecture: the [[Zakladna-skola-Ceska|schools on Česká and Budyšínska]] (1928–1929) were the first modern functionalist answer to a school building in Slovakia, with flat roofs, loggias, glass concrete and roof terraces for summer classes.
+
 ## Where to Observe
 
 - [[Obchodny-dom-Dunaj|Dunaj department store]] — exemplary retail functionalism
@@ -23,6 +25,7 @@ These buildings are linked to [[Ludwig-Christian|Christian Ludwig]] — a charac
 - [[Propeler|Ferry wharfs of the Propeler]] — small-form functionalism
 - [[Druzstevne-domy|Coop Houses]] — Belluš's "three red houses"
 - [[Metropol|Metropol]] — the early, conservative pole of the style
+- [[Zakladna-skola-Ceska|The schools on Česká and Budyšínska]] — Slovakia’s first functionalist school complex
 - [[Narodna-banka-ceskoslovenska|National Bank]] — the late turn to monumentality
 
 ## See Also

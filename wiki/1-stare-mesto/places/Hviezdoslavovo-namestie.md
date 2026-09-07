@@ -4,7 +4,7 @@ type: place
 domain: sights
 fame: 2
 district: 1-stare-mesto
-coords: [48.14030, 17.10520]
+coords: [48.14140, 17.10700]
 tags: [square, promenade, corso, embassies, theatre]
 sources: [hviezdoslavovo-namestie-skwiki-2026]
 updated: 2026-07-12
@@ -27,4 +27,7 @@ updated: 2026-07-12
 - [[Hviezdoslav-Pavol-Orszagh|Павол Орсаг Гвездослав]] — чьё имя носит площадь
 - [[Rigele-Alojz|Алойз Ригеле]] — «Девушка с ланью» на площади
 - [[Most-SNP|Мост СНП]] — западный конец променада
+- [[Morovy-stlp-Rybne-namestie|Чумной столб на Рыбной площади]] — колонна Троицы 1713 года у западного конца
+- [[Pomnik-Sandora-Petofiho|Памятник Шандору Петёфи]] — стоял здесь в 1911–1921 годах, когда площадь звалась Кошутовой
+- [[Pomnik-Hummela|Памятник Гуммелю]] — Тильгнер, 1887: пять переездов и возвращение к посольству
 - [[1-stare-mesto|Старе-Место]]

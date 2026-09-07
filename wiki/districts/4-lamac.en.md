@@ -23,6 +23,7 @@ In a blue field, St Margaret of Antioch, crowned and in a red cloak, with a gold
 
 - [[Kostol-svatej-Margity|Church of St Margaret (Kostol svätej Margity)]] — late Harminc on the site of a 16th-century church
 - [[Krematorium|Crematorium and Urn Grove]] — Milučký's masterpiece in the Little Carpathians forest
+- [[Pomnik-padlych-Lamac|Monument to the Fallen in Lamač (Pomník padlých v Lamači)]] — Rigele, 1928: Christ with a dying soldier, listed 675/0
 - [[Studna-falosnych-mnichov|The Well of the False Monks]] — an 1866 spy story (no marker: the spot is lost)
 
 ## See Also

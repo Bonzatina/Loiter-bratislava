@@ -30,4 +30,5 @@ In a blue field, on a green hill, a golden two-tailed lion with protruding tongu
 
 - [[Stefania-Belgicka|Stephanie of Belgium]] — the mansion's most famous mistress
 - [[Muzeum-mesta-Bratislavy|Bratislava City Museum]] — runs the exhibition at Gerulata
+- [[5-jarovce|Jarovce]] — the neighbouring Croatian village annexed by the same 1947 agreement
 - [[5-petrzalka|Petržalka]] — right-bank neighbour

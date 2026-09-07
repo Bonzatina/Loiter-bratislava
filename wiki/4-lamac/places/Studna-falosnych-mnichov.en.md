@@ -2,6 +2,7 @@
 title: The Well of the False Monks (Studňa falošných mníchov)
 type: place
 domain: history
+fame: 1
 district: 4-lamac
 tags: [legend, 1866, prussians, podhaj]
 sources: [studna-mnichov-bratislavskenoviny-2026]

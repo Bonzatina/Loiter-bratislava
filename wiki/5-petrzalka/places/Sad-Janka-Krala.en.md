@@ -20,5 +20,7 @@ The poet's monument at the centre of the park was unveiled only on 27 September 
 
 ## See Also
 
+- [[Frantiskansky-kostol|Franciscan Church]] — the garden pavilion is the top of its tower, taken down in 1897
+- [[Pomnik-Sandora-Petofiho|Sándor Petőfi Monument]] — stood here from 1956 and gave way to Kráľ
 - [[Most-SNP|SNP Bridge]] — a neighbour on the embankment
 - [[5-petrzalka|Petržalka]]

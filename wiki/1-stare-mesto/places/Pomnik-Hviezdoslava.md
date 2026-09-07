@@ -4,7 +4,7 @@ type: place
 domain: sights
 fame: 1
 district: 1-stare-mesto
-coords: [48.14090, 17.10760]
+coords: [48.14164, 17.10804]
 tags: [monument, poet, square, interwar]
 sources: [pomnik-hviezdoslava-divadelneprechadzky-2026]
 updated: 2026-07-12

@@ -2,7 +2,7 @@
 title: Дворец Карачони (Karáčoniho palác)
 type: place
 domain: architecture
-fame: 1
+fame: 2
 district: 1-stare-mesto
 coords: [48.15112, 17.10701]
 tags: [historicism, palace, monument, government-quarter, stefanikova, reconstruction]

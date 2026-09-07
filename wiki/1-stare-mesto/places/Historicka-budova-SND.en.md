@@ -4,7 +4,7 @@ type: place
 domain: culture
 fame: 4
 district: 1-stare-mesto
-coords: [48.14100, 17.11000]
+coords: [48.14241, 17.11023]
 tags: [theatre, neo-renaissance, fellner-helmer, opera, monument]
 sources: [snd-budova-skwiki-2026]
 updated: 2026-07-13
@@ -24,6 +24,7 @@ The interior was adorned with K. Spányi's allegories in the foyer and paintings
 
 - [[Hviezdoslavovo-namestie|Hviezdoslav Square]] — the theatre closes its eastern end
 - [[Pomnik-Hviezdoslava|Hviezdoslav Monument]] — the bronze poet before the theatre
+- [[Nova-budova-SND|New SND Building]] — the same theatre's stage on Pribinova (2007)
 - [[Divadlo-POH|P. O. Hviezdoslav Theatre]] — the city's drama stage
 - [[Hotel-Carlton|Carlton Hotel]] — neighbour on the square, and by builder
 - [[1-stare-mesto|Staré Mesto]]

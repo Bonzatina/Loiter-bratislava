@@ -16,11 +16,12 @@ The Pavol Országh Hviezdoslav Theatre (Divadlo P. O. Hviezdoslava, DPOH) on Lau
 
 ![The P. O. Hviezdoslav Theatre on Laurinská](/assets/dpoh.jpg)
 
-The first performance was played on 28 May 1955. In 1969 the hall's socialist-realist frescoes were covered by an acoustic panel wall, and in 1981–1983 the interiors were comprehensively rebuilt in a postmodern spirit. In 2007 the SND drama company moved to the new building by the Danube, and the city bought the house on Laurinská — it now hosts the P. O. Hviezdoslav City Theatre, whose repertoire includes plays drawn from Bratislava life. The building attracts not only theatre-goers but lovers of architecture — a layer cake of interwar design, socialist realism and postmodernism.
+The first performance was played on 28 May 1955. In 1969 the hall's socialist-realist frescoes were covered by an acoustic panel wall, and in 1981–1983 the interiors were comprehensively rebuilt in a postmodern spirit. In 2007 the SND drama company moved to the [[Nova-budova-SND|new building by the Danube]], and the city bought the house on Laurinská — it now hosts the P. O. Hviezdoslav City Theatre, whose repertoire includes plays drawn from Bratislava life. The building attracts not only theatre-goers but lovers of architecture — a layer cake of interwar design, socialist realism and postmodernism.
 
 ## See Also
 
 - [[Hviezdoslav-Pavol-Orszagh|Pavol Országh Hviezdoslav]] — the poet whose name the theatre bears
+- [[Nova-budova-SND|New SND Building]] — where SND drama went in 2007
 - [[postwar-modernism|Post-war modernism]]
 - [[Park-kultury-a-oddychu|PKO]] — its 1955 twin with the opposite fate
 - [[1-stare-mesto|Staré Mesto]]

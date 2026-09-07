@@ -22,8 +22,10 @@ In a red field, two golden rampant lions hold a golden cross above a golden orb.
 - [[Zeleznicne-muzeum-SR|Railway Museum of Slovakia (Železničné múzeum SR)]] — steam locomotives and the depot at Rendez
 - [[Socha-svateho-Floriana|Statue of St Florian]] — the baroque guardian against fire (after 1732); a scandalous repainting and a community rescue
 - [[Racianska-pamatna-izba|Rača Memorial Room]] — winegrowing and ethnography in the Community House; Maria Theresa's vestment
+- [[Materska-skola-Tramin|Tramín Kindergarten on Kadnárova]] — a 32-metre timber circle (2024), the local "UFO" in Krasňany
 
 ## See Also
 
 - [[3-nove-mesto|Nové Mesto]] — its neighbour in the Bratislava III okres
+- [[3-vajnory|Vajnory]] — the neighbouring wine village in okres Bratislava III
 - [[little-carpathian-wine|Little Carpathian wine]]

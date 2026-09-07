@@ -4,7 +4,7 @@ type: place
 domain: sights
 fame: 1
 district: 1-stare-mesto
-coords: [48.14075, 17.11190]
+coords: [48.14083, 17.11244]
 tags: [baths, 19th-century, renovation, kupelna]
 sources: [grossling-bratislavskenoviny-2023, grossling-details-bratislavskenoviny-2023]
 updated: 2026-07-07

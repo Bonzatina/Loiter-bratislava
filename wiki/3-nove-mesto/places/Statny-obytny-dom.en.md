@@ -21,5 +21,6 @@ At the end of the Second World War the house was burned by German troops: in Lad
 ## See Also
 
 - [[rondocubism|Rondocubism]] — the house's style
+- [[Roller-Peter|Peter Roller]] — sculptor, son of the photographer who shot the house
 - [[Trznica|The Market Hall]] — a neighbour at Trnavské mýto
 - [[3-nove-mesto|Nové Mesto]]
