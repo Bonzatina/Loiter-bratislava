@@ -90,6 +90,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'krizom-krazom.online': 'Catalogue of Slovak monuments and sights',
     'archinfo.sk':        'Slovak architecture database and magazine',
     'zsceska.sk':         'Website of the school on Česká street',
+    'vajnory.sk':                     'Official website of the Vajnory borough',
   } : {
     'sk.wikipedia.org':   'Словацкая Википедия',
     'en.wikipedia.org':   'Английская Википедия',
@@ -155,6 +156,7 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     'krizom-krazom.online': 'Каталог памятников и достопримечательностей Словакии',
     'archinfo.sk':        'База данных и журнал словацкой архитектуры',
     'zsceska.sk':         'Сайт школы на Ческой улице',
+    'vajnory.sk':                     'Официальный сайт городской части Вайноры',
   }
 
   const src = (domain: string) => `
@@ -252,6 +254,8 @@ export function renderAboutPage(lang: 'ru' | 'en' = 'ru'): string {
     ${src('krizom-krazom.online')}
     ${src('archinfo.sk')}
     ${src('zsceska.sk')}
+    ${src('divadelneprechadzky.theatre.sk')}
+    ${src('vajnory.sk')}
 </ul>
 </div>`,
   })
