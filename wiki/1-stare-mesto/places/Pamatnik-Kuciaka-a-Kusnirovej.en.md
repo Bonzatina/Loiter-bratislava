@@ -1,5 +1,5 @@
 ---
-title: Ján Kuciak & Martina Kušnírová Memorial
+title: Ján Kuciak & Martina Kušnírová Memorial (Pamätník Jána Kuciaka a Martiny Kušnírovej)
 type: place
 domain: history
 fame: 2

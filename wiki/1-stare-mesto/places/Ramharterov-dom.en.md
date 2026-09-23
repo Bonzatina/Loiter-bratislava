@@ -1,5 +1,5 @@
 ---
-title: Ramharter House — Café Regina
+title: Ramharter House — Café Regina (Ramharterov dom)
 type: place
 domain: architecture
 fame: 1

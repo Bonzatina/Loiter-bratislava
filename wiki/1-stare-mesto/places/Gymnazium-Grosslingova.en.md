@@ -1,5 +1,5 @@
 ---
-title: Grösslingová Gymnasium — "Gamča"
+title: "Grösslingová Gymnasium — \"Gamča\" (Gymnázium Grösslingová)"
 type: place
 domain: architecture
 fame: 2
