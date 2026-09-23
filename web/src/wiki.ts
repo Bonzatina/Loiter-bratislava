@@ -1,4 +1,5 @@
 import fs from 'fs/promises'
+import fsSync from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import matter from 'gray-matter'
@@ -66,8 +67,10 @@ async function readDir(dir: string): Promise<WikiPage[]> {
 
 let _cache: WikiPage[] | null = null
 
-// Invalidate cache whenever any .md file in the wiki changes
-fs.watch(WIKI_ROOT, { recursive: true }, (_event, filename) => {
+// Invalidate cache whenever any .md file in the wiki changes.
+// This must be the callback API from 'fs': fs/promises' watch() takes no
+// listener and returns an async iterator, so the cache was never dropped.
+fsSync.watch(WIKI_ROOT, { recursive: true }, (_event, filename) => {
   if (typeof filename === 'string' && filename.endsWith('.md')) _cache = null
 })
 
